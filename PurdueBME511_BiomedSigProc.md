@@ -1,4 +1,8 @@
-# Purdue University BME 51100 Biomedical Signal Processing (Fall 2021)
+
+<figure>
+	<img src="figures/BME511banner.png" alt="" width="60%"/>
+</figure>
+# Purdue University BME 51100 (Fall 2021)
 
 ```
 Note: Some logistical details may change prior to the start of the Fall 2021

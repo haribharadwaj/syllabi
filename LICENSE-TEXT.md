@@ -1,4 +1,4 @@
-The text and images contained in Executable Notes on Biomedical Signal Processing (c) 2021 by Hari Bharadwaj are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The text and images contained in this repository (c) 2021 by Hari Bharadwaj are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
