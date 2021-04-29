@@ -1,7 +1,8 @@
 
 <figure>
-	<img src="figures/BME511banner.png" alt="" width="60%"/>
+	<img src="figures/BME511banner.png" alt="" width="90%"/>
 </figure>
+
 # Purdue University BME 51100 (Fall 2021)
 
 ```
