@@ -135,8 +135,8 @@ interested in digging deeper on their own (optional).
 ### Access to Python
 As of this writing, Python is one of the most widely
 used and fastest growing languages for data-science work. It is also
-free for individual researchers and students. We will use Python ($\geq$
-3.6) and associated scientific packages, namely NumPy, SciPy,
+free for individual researchers and students. We will use Python >=
+3.6 and associated scientific packages, namely NumPy, SciPy,
 matplotlib, pandas, and scikit-learn in this course. It is the
 responsibility of each student working with Python to find a reliable
 computing environment in which to do the work for this course. This
@@ -266,9 +266,9 @@ This project can either be related to ongoing research in a lab or can
 replicate a published study. The final projects are intended to be
 extensive as they will hopefully be in an area of direct interest and
 familiarity to each student. Projects will be presented to the class
-during the final two weeks of the semester (modeled after a $\sim$10-min
+during the final two weeks of the semester (modeled after a ~10-min
 conference talk) and will be written up in a final report (modeled after
-a brief conference proceedings paper, $\sim$2000 words + figures +
+a brief conference proceedings paper, ~2000 words + figures +
 references). Grading is based on content, oral presentation, and written
 presentation. Note: content is judged based on what you accomplish by
 submission of your written report, i.e., you are welcome to keep working
@@ -502,7 +502,7 @@ likely evolve depending on student reception.
   | Nov 11, 16     | Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking | Final proposal due |
   | Nov 18, 23     | Machine learning approaches (I) -- ROC curve review; Linear classifiers and perceptron example; Support vector machines  ||                                       
   | Nov 25         |  **Thanksgiving -- No Class** ||
-  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training $\rightarrow$ validation $\rightarrow$ testing" workflow and combating overfitting; unsupervised clustering ||
+  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting; unsupervised clustering ||
   | Dec 07         | Machine learning approaches (III) -- Worked examples; External resources on neural networks and deep learning | Multiple choice due |
   | Dec 09 | Review and consolidation with more examples ||
   | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
