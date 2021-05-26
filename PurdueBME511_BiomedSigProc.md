@@ -275,6 +275,38 @@ submission of your written report, i.e., you are welcome to keep working
 after your oral presentation and include a more complete version in your
 written report.
 
+
+## Tentative Schedule
+Although listed below in abstract terms,
+all topics will be motivated and discussed through
+representative biomedical examples.
+
+  |Date | Topic | Notes|
+  |-----|-------|------|
+  | Aug 24, 26	|	Introduction; Orientation to Python; Fourier transform and general intuitions about different signal representations (linear-space view) | PS0 |
+  |Aug 31, Sep 02  | Noise reduction (I) -- Triggered averaging; Filter design & trade-offs ||                                                                            
+  |Sep 07, 09       | Noise reduction (II) -- Filtering beyond just frequencies using linear-space thinking, noise "cancellation" and regression         |                             PS1 due
+  | Sep 14, 16       | Noise reduction (III) -- Multichannel filtering, PCA and applications ||                                                              
+  | Sep 21, 23       | Statistical inference (I) -- Basics, ROC curves, multiple comparisons  | PS2 due|
+  | Sep 28           | Statistical inference (II) -- Inference on 1D signals ||                                    
+  | Sep 30           | Midterm project overview -- P300 brain-computer interface | PS3 due |
+  | Oct 05, 07       | Statistical inference (III) -- Review, extension of methods from 1D to images||
+  | Oct 12           | **October Break -- No Class**    ||     
+  | Oct 14           | Spectral and time-frequency analysis (I) -- Auto/cross-correlation review; Spectrum estimation with preview of bias/variance tradeoff ||
+  | Oct 19, 21       | Spectral and time-frequency analysis (II) -- Tapering and multitaper methods | Midterm project due|
+  | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets ||
+  | Nov 02           | Modeling of biomedical signals and systems (I) -- Introduction to statistical estimation (ML), bias, and variance ||
+  | Nov 04           | Modeling of biomedical signals and systems (II) -- Regularization (i.e., priors, MAP) and model selection ||
+  | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Loess regression | PS4 due |
+  | Nov 11, 16     | Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking | Final proposal due |
+  | Nov 18, 23     | Machine learning approaches (I) -- ROC curve review; Linear classifiers and perceptron example; Support vector machines  ||                                       
+  | Nov 25         |  **Thanksgiving -- No Class** ||
+  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting; unsupervised clustering ||
+  | Dec 07         | Machine learning approaches (III) -- Worked examples; External resources on neural networks and deep learning | Multiple choice due |
+  | Dec 09 | Review and consolidation with more examples ||
+  | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
+
+
 ## Problem Sets & Project Submissions
 For PS1 -- 4 and the multiple choice problem set,
 submitted work will consist of electronic files. All assignments are due
@@ -476,36 +508,6 @@ the online evaluation site. You will have up to two weeks to complete
 this evaluation. Your participation is an integral part of this course,
 and your feedback is vital to improving education at Purdue University.
 
-## Tentative Schedule
-Although they might look daunting when listed in
-abstract terms, all topics will be motivated and discussed through
-representative biomedical examples. The structure is tentative and will
-likely evolve depending on student reception.
-
-  |Date | Topic | Notes|
-  |-----|-------|------|
-  | Aug 24, 26	|	Introduction; Orientation to Python; Fourier transform and general intuitions about different signal representations (linear-space view) | PS0 |
-  |Aug 31, Sep 02  | Noise reduction (I) -- Triggered averaging; Filter design & trade-offs ||                                                                            
-  |Sep 07, 09       | Noise reduction (II) -- Filtering beyond just frequencies using linear-space thinking, noise "cancellation" and regression         |                             PS1 due
-  | Sep 14, 16       | Noise reduction (III) -- Multichannel filtering, PCA and applications ||                                                              
-  | Sep 21, 23       | Statistical inference (I) -- Basics, ROC curves, multiple comparisons  | PS2 due|
-  | Sep 28           | Statistical inference (II) -- Inference on 1D signals ||                                    
-  | Sep 30           | Midterm project overview -- P300 brain-computer interface | PS3 due |
-  | Oct 05, 07       | Statistical inference (III) -- Review, extension of methods from 1D to images||
-  | Oct 12           | **October Break -- No Class**    ||     
-  | Oct 14           | Spectral and time-frequency analysis (I) -- Auto/cross-correlation review; Spectrum estimation with preview of bias/variance tradeoff ||
-  | Oct 19, 21       | Spectral and time-frequency analysis (II) -- Tapering and multitaper methods | Midterm project due|
-  | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets ||
-  | Nov 02           | Modeling of biomedical signals and systems (I) -- Introduction to statistical estimation (ML), bias, and variance ||
-  | Nov 04           | Modeling of biomedical signals and systems (II) -- Regularization (i.e., priors, MAP) and model selection ||
-  | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Loess regression | PS4 due |
-  | Nov 11, 16     | Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking | Final proposal due |
-  | Nov 18, 23     | Machine learning approaches (I) -- ROC curve review; Linear classifiers and perceptron example; Support vector machines  ||                                       
-  | Nov 25         |  **Thanksgiving -- No Class** ||
-  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting; unsupervised clustering ||
-  | Dec 07         | Machine learning approaches (III) -- Worked examples; External resources on neural networks and deep learning | Multiple choice due |
-  | Dec 09 | Review and consolidation with more examples ||
-  | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
 
 <a name="fn1">[1]</a>: Note that .mat is MATLAB's extension for HDF5 format files. It is
     also a recognized format with Python via the `scipy.io` module
