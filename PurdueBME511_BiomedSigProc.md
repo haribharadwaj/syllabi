@@ -91,12 +91,94 @@ and computer-programmed problem sets; Research-oriented predefined
 midterm project; Self-designed final research project
 
 ## Prerequisites
-ECE 301 or equivalent (Signals and Systems), ECE 302 or
-equivalent (Probability/Random Processes), Familiarity with Python
+ECE 301 or equivalent (Signals and Systems), Introductory
+probability/random process concepts (e.g., ECE 302, STAT 350 etc.),
+Familiarity with Python
 (Python will be the default language used in class, but if you strongly
 prefer using MATLAB instead, that is an option too). If you have
 questions about whether you have the requisite background, please feel
 free to get in touch in advance, or within the first week of classes.
+
+
+## Midterm Project (about 2--3 weeks)
+A pre-defined midterm project will
+apply signal processing to a brain-computer interface (BCI) dataset that
+is based on the so-called "P300" response measured using
+electroencephalography (EEG). Detailed instructions will be provided to
+walk through the problem at hand and specify the deliverables. The
+dataset comes from Hoffmann et al. (2008) and includes measurements both
+from typical control individuals and individuals with limited muscle
+control.
+
+**Reference:** Hoffmann, U., Vesin, J. M., Ebrahimi, T., & Diserens,
+K. (2008). An efficient P300-based brain--computer interface for
+disabled subjects. Journal of Neuroscience methods, 167(1), 115-125.
+
+
+## Final Project (final 4 weeks or so)
+An independent project will apply
+signal processing to a research question of interest to each student.
+This project can either be related to ongoing research in a lab or can
+replicate a published study. The final projects are intended to be
+extensive as they will hopefully be in an area of direct interest and
+familiarity to each student. Projects will be presented to the class
+during the final two weeks of the semester (modeled after a ~10-min
+conference talk) and will be written up in a final report (modeled after
+a brief conference proceedings paper, ~2000 words + figures +
+references). Grading is based on content, oral presentation, and written
+presentation. Note: content is judged based on what you accomplish by
+submission of your written report, i.e., you are welcome to keep working
+after your oral presentation and include a more complete version in your
+written report.
+
+
+## Tentative Schedule
+Although listed below in abstract terms,
+all topics will be motivated and discussed through
+representative biomedical examples.
+
+  |Date | Topic | Notes|
+  |-----|-------|------|
+  | Aug 24, 26	|	Introduction; Orientation to Python; Fourier transform and general intuitions about different signal representations (linear-space view) | PS0 |
+  |Aug 31, Sep 02  | Noise reduction (I) -- Triggered averaging; Filter design & trade-offs ||                                                                            
+  |Sep 07, 09       | Noise reduction (II) -- Filtering beyond just frequencies using linear-space thinking, noise "cancellation" and regression         |                             PS1 due
+  | Sep 14, 16       | Noise reduction (III) -- Multichannel filtering, PCA and applications ||                                                              
+  | Sep 21, 23       | Statistical inference (I) -- Basics, ROC curves, multiple comparisons  | PS2 due|
+  | Sep 28           | Statistical inference (II) -- Inference on 1D signals ||                                    
+  | Sep 30           | Midterm project overview -- P300 brain-computer interface | PS3 due |
+  | Oct 05, 07       | Statistical inference (III) -- Review, extension of methods from 1D to images||
+  | Oct 12           | **October Break -- No Class**    ||     
+  | Oct 14           | Spectral and time-frequency analysis (I) -- Auto/cross-correlation review; Spectrum estimation with preview of bias/variance tradeoff ||
+  | Oct 19, 21       | Spectral and time-frequency analysis (II) -- Tapering and multitaper methods | Midterm project due|
+  | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets ||
+  | Nov 02           | Modeling of biomedical signals and systems (I) -- Introduction to statistical estimation (ML), bias, and variance ||
+  | Nov 04           | Modeling of biomedical signals and systems (II) -- Regularization (i.e., priors, MAP) and model selection ||
+  | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Loess regression | PS4 due |
+  | Nov 11, 16     | Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking | Final proposal due |
+  | Nov 18, 23     | Machine learning approaches (I) -- ROC curve review; Linear classifiers and perceptron example; Support vector machines  ||                                       
+  | Nov 25         |  **Thanksgiving -- No Class** ||
+  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting; unsupervised clustering ||
+  | Dec 07         | Machine learning approaches (III) -- Worked examples; External resources on neural networks and deep learning | Multiple choice due |
+  | Dec 09 | Review and consolidation with more examples ||
+  | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
+
+
+## Final Grade Composition
+
+  |Assessment Item |  Weight |
+  |--------------- | --------|
+  | Problem Sets ("PS" 1 -- 4) |                  35% |
+  | Consolidated Multiple Choice Problem Set   |     12% |
+  | Midterm brain-computer interface project   |     20% |
+  | Final (individual) research project    
+  | - Proposal                         |             5%|
+  | - Oral presentation                |            10%|
+  | - Content                          |            10%|
+  | - Written presentation             |             8%|
+
+Additional bonus points may be assigned for contributions to peer
+success through the discussion forum.
+
 
 ## Supplemental References
 No required textbooks. Class notes and code examples will
@@ -227,84 +309,6 @@ are also encouraged to share any ideas, articles, or videos that you
 think would benefit others. Information about the specific discussion
 platform to use will be posted on Brightspace prior to the start of Fall
 2021.
-
-## Final Grade Composition
-
-  |Assessment Item |  Weight |
-  |--------------- | --------|
-  | Problem Sets ("PS" 1 -- 4) |                  35% |
-  | Consolidated Multiple Choice Problem Set   |     12% |
-  | Midterm brain-computer interface project   |     20% |
-  | Final (individual) research project    
-  | - Proposal                         |             5%|
-  | - Oral presentation                |            10%|
-  | - Content                          |            10%|
-  | - Written presentation             |             8%|
-
-Additional bonus points may be assigned for contributions to peer
-success through the discussion forum.
-
-
-## Midterm Project (about 2--3 weeks)
-A pre-defined midterm project will
-apply signal processing to a brain-computer interface (BCI) dataset that
-is based on the so-called "P300" response measured using
-electroencephalography (EEG). Detailed instructions will be provided to
-walk through the problem at hand and specify the deliverables. The
-dataset comes from Hoffmann et al. (2008) and includes measurements both
-from typical control individuals and individuals with limited muscle
-control.
-
-**Reference:** Hoffmann, U., Vesin, J. M., Ebrahimi, T., & Diserens,
-K. (2008). An efficient P300-based brain--computer interface for
-disabled subjects. Journal of Neuroscience methods, 167(1), 115-125.
-
-## Final Project (final 4 weeks or so)
-An independent project will apply
-signal processing to a research question of interest to each student.
-This project can either be related to ongoing research in a lab or can
-replicate a published study. The final projects are intended to be
-extensive as they will hopefully be in an area of direct interest and
-familiarity to each student. Projects will be presented to the class
-during the final two weeks of the semester (modeled after a ~10-min
-conference talk) and will be written up in a final report (modeled after
-a brief conference proceedings paper, ~2000 words + figures +
-references). Grading is based on content, oral presentation, and written
-presentation. Note: content is judged based on what you accomplish by
-submission of your written report, i.e., you are welcome to keep working
-after your oral presentation and include a more complete version in your
-written report.
-
-
-## Tentative Schedule
-Although listed below in abstract terms,
-all topics will be motivated and discussed through
-representative biomedical examples.
-
-  |Date | Topic | Notes|
-  |-----|-------|------|
-  | Aug 24, 26	|	Introduction; Orientation to Python; Fourier transform and general intuitions about different signal representations (linear-space view) | PS0 |
-  |Aug 31, Sep 02  | Noise reduction (I) -- Triggered averaging; Filter design & trade-offs ||                                                                            
-  |Sep 07, 09       | Noise reduction (II) -- Filtering beyond just frequencies using linear-space thinking, noise "cancellation" and regression         |                             PS1 due
-  | Sep 14, 16       | Noise reduction (III) -- Multichannel filtering, PCA and applications ||                                                              
-  | Sep 21, 23       | Statistical inference (I) -- Basics, ROC curves, multiple comparisons  | PS2 due|
-  | Sep 28           | Statistical inference (II) -- Inference on 1D signals ||                                    
-  | Sep 30           | Midterm project overview -- P300 brain-computer interface | PS3 due |
-  | Oct 05, 07       | Statistical inference (III) -- Review, extension of methods from 1D to images||
-  | Oct 12           | **October Break -- No Class**    ||     
-  | Oct 14           | Spectral and time-frequency analysis (I) -- Auto/cross-correlation review; Spectrum estimation with preview of bias/variance tradeoff ||
-  | Oct 19, 21       | Spectral and time-frequency analysis (II) -- Tapering and multitaper methods | Midterm project due|
-  | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets ||
-  | Nov 02           | Modeling of biomedical signals and systems (I) -- Introduction to statistical estimation (ML), bias, and variance ||
-  | Nov 04           | Modeling of biomedical signals and systems (II) -- Regularization (i.e., priors, MAP) and model selection ||
-  | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Loess regression | PS4 due |
-  | Nov 11, 16     | Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking | Final proposal due |
-  | Nov 18, 23     | Machine learning approaches (I) -- ROC curve review; Linear classifiers and perceptron example; Support vector machines  ||                                       
-  | Nov 25         |  **Thanksgiving -- No Class** ||
-  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting; unsupervised clustering ||
-  | Dec 07         | Machine learning approaches (III) -- Worked examples; External resources on neural networks and deep learning | Multiple choice due |
-  | Dec 09 | Review and consolidation with more examples ||
-  | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
 
 
 ## Problem Sets & Project Submissions
