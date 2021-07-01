@@ -182,20 +182,17 @@ success through the discussion forum.
 
 ## Supplemental References
 No required textbooks. Class notes and code examples will
-be provided. The following resources are suggested for students
-interested in digging deeper on their own (optional).
+be provided for all topics in some combination of PDFs, web pages,
+and Jupyter Notebooks.
+
+The following optional additional resources are suggested for students
+interested in exploring from the ground up on their own.
 
 1.  Moon, T. K., & Stirling, W. C. (2005). Mathematical methods and
     algorithms for signal processing. Prentice hall.
     ISBN: 9788129709769.
 
-2.  Brillinger, D. R. (2001). Time series: data analysis and theory.
-    Society for Industrial and Applied Mathematics. ISBN: 9780898719246.
-
-3.  Mitra, P., & Bokil, H. (2008). Observed brain dynamics. Oxford
-    University Press. ISBN: 9780195178081.
-
-4.  Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of
+2.  Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of
     Statistical Learning Data Mining, Inference, and Prediction (2nd
     Illustrated Edition). ISBN: 9780387848587. \[Reprint PDF may be
     available for download from [Trevor Hastie's web
@@ -254,6 +251,10 @@ feasible to use this course as an opportunity to try or switch to
 Python. Excellent [online tutorials](http://www.scipy-lectures.org) are
 available for scientific Python. Office hours and the forum discussions
 are available to supplement your existing familiarity with Python.
+
+If you are a MATLAB user looking to start using the Python data science
+ecosystem, one useful resource is
+[NumPy for MATLAB users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
 
 ### Access to MATLAB
