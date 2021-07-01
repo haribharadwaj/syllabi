@@ -198,6 +198,9 @@ interested in exploring from the ground up on their own.
     available for download from [Trevor Hastie's web
     page](https://web.stanford.edu/~hastie/ElemStatLearn/)\].
 
+3.  Grant Sanderson's (3blue1brown) videos on [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) provide excellent
+background on the geometrical thinking that we will exploit on in this course.
+
 
 ## Required Software
 
