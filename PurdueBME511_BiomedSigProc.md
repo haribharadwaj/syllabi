@@ -15,9 +15,10 @@ licensing decisions within Purdue.
 Biomedical Signal Processing <br>
 BME 51100 - MJD (in-person section), EPE, OXE, ONC <br>
 **Time**:  TR 09:00 -- 10:15 am <br>
-**Location**: MJIS 1083 (in-person), or remote (synchronous/asynchronous
+**Location**: MJIS 1001 (in-person), or remote (synchronous/asynchronous
 options) <br>
 **Credits**: 3
+**TA**: Ravinderjit (Rav) Singh <singh415@purdue.edu>
 
 ## Instructor
 Hari M. Bharadwaj, Ph.D.
