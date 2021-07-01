@@ -18,8 +18,6 @@ BME 51100 - MJD (in-person section), EPE, OXE, ONC <br>
 **Location**: MJIS 1001 (in-person), or remote (synchronous/asynchronous
 options) <br>
 **Credits**: 3 <br>
-**TA**: Ravinderjit (Rav) Singh <singh415@purdue.edu>
-
 ## Instructor
 Hari M. Bharadwaj, Ph.D.
 Assistant Professor of Biomedical Engineering <br>
@@ -27,7 +25,10 @@ Assistant Professor of Speech, Language, & Hearing Sciences <br>
 Office: LYLE 3162 <br>
 e-Mail: <hbharadwaj@purdue.edu><br>
 Office Hours: TBA (1 hr/week via Zoom). Also see the "Discussion
-Forum" section below.
+Forum" section below.<br>
+**TA**: Ravinderjit (Rav) Singh <singh415@purdue.edu><br>
+TA Office Hours: TBA
+
 
 ## Description 
 This is a biomedical "data-science" course covering the
