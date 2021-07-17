@@ -26,7 +26,7 @@ Office: LYLE 3162 <br>
 e-Mail: <hbharadwaj@purdue.edu><br>
 Office Hours: TBA (1 hr/week via Zoom). Also see the "Discussion
 Forum" section below.<br>
-**TA**: Ravinderjit (Rav) Singh <singh415@purdue.edu><br>
+**TA**: Ravinderjit (Rav) Singh, e-Mail: <singh415@purdue.edu><br>
 TA Office Hours: TBA
 
 
