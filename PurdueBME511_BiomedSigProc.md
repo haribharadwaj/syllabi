@@ -203,7 +203,7 @@ interested in exploring from the ground up on their own.
 3.  [Grant Sanderson's (3blue1brown) YouTube videos on
     Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
     provide excellent background on the geometrical thinking
-    that we will exploit on in this course.
+    that we will exploit in this course.
 
 4.  Poor, H. V. (1994). An Introduction to Signal Detection and Estimation.
     Springer-Verlag. ISBN: 9781441928375.
