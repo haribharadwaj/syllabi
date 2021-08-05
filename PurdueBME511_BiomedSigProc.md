@@ -182,8 +182,10 @@ Additional bonus points may be assigned for contributions to peer
 success through the discussion forum.
 
 
-## Supplemental References
-No required textbooks. Class notes and code examples will
+## Learning Resources, Technology, & Texts
+
+### Supplemental References
+There are no required textbooks. Class notes and code examples will
 be provided for all topics in some combination of PDFs, web pages,
 and Jupyter Notebooks.
 
@@ -209,7 +211,7 @@ interested in exploring from the ground up on their own.
     Springer-Verlag. ISBN: 9781441928375.
 
 
-## Required Software
+### Required Software
 
 1.  Python >= 3.6 (or MATLAB if you strongly prefer)
 
@@ -289,7 +291,7 @@ discussions are available to supplement your existing familiarity with
 MATLAB.
 
 
-## Brightspace
+### Brightspace
 Materials, assignments, and grades for the course will be
 posted on [Brightspace](https://purdue.brightspace.com/). Although
 Brightspace will serve as the starting point for all course material,
@@ -306,7 +308,7 @@ is possible for online resources to have erroneous information. Learning
 to evaluate and use crowd-sourced online references is an important
 skill in the modern-day data scientist's repertoire.
 
-## Discussion Forum
+### Discussion Forum
 Outside of class, we will use a discussion forum
 (like Piazza) for Q&A and discussion. Rather than emails, this is the
 preferred channel. Using a discussion forum allows for getting you help
@@ -318,8 +320,7 @@ particular, requesting and sharing general and specific Python/MATLAB
 explicit code blocks or solutions to homework sets, projects etc. You
 are also encouraged to share any ideas, articles, or videos that you
 think would benefit others. Information about the specific discussion
-platform to use will be posted on Brightspace prior to the start of Fall
-2021.
+platform to use will be posted on Brightspace.
 
 
 ## Problem Sets & Project Submissions
@@ -476,8 +477,8 @@ found here](https://www.purdue.edu/purdue/ea_eou_statement.php).
 Lectures will offered via face-to-face meeting in
 class, synchronously via livestream (access details TBA), and
 asynchronously via recorded video (uploaded to Brightspace within
-$\sim$24 hours after each lecture). If registered for the in-person
-section, attendance is generally expected, but will **not** be a factor
+about 24 hours after each lecture). If registered for the in-person
+section, attendance is generally expected, but will not be a factor
 in the final grade. Students should stay home and contact the
 [Protect Purdue Health Center](https://protect.purdue.edu) if they feel
 ill, have any symptoms associated with COVID-19, or suspect they may
