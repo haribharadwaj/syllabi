@@ -236,7 +236,7 @@ excellent options that are recommended:
 
 1.  **[Anaconda
     distribution](https://www.anaconda.com/products/individual)**: The
-    Anaconda individual edition in free and can be easily installed on
+    Anaconda individual edition is free and can be easily installed on
     Mac, Linux, or Windows. This will run locally on the computer on
     which you install (e.g., personal computer, or lab computer). Being
     able to install and use these data-science tools is a minor but very
