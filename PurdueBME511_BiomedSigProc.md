@@ -18,6 +18,7 @@ BME 51100 - MJD (in-person section), EPE, OXE, ONC <br>
 **Location**: MJIS 1001 (in-person), or remote (synchronous/asynchronous
 options) <br>
 **Credits**: 3 <br>
+
 ## Instructor
 Hari M. Bharadwaj, Ph.D.
 Assistant Professor of Biomedical Engineering <br>
