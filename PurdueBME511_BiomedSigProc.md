@@ -1,15 +1,10 @@
 
 <figure>
-	<img src="figures/BME511banner.png" alt="" width="90%"/>
+	<img src="figures/BME511banner.png" alt="" class="center" width="90%"/>
 </figure>
 
 # Purdue University BME 51100 (Fall 2021)
 
-```
-Note: Some logistical details may change prior to the start of the Fall 2021
-semester depending on the status of the COVID-19 pandemic, and software
-licensing decisions within Purdue.
-```
 
 ## Registration
 Biomedical Signal Processing <br>
@@ -311,7 +306,7 @@ skill in the modern-day data scientist's repertoire.
 
 ### Discussion Forum
 Outside of class, we will use a discussion forum
-(like Piazza) for Q&A and discussion. Rather than emails, this is the
+(details TBA) for Q&A and discussion. Rather than emails, this is the
 preferred channel. Using a discussion forum allows for getting you help
 fast and efficiently from classmates, and instructors. You are
 encouraged to ask *and answer* questions about logistics, content,
@@ -394,7 +389,9 @@ The [Protect Purdue
 Plan](https://protect.purdue.edu/plan/), which includes the [Protect
 Purdue Pledge](https://protect.purdue.edu/pledge/), is campus policy and
 as such all members of the Purdue community must comply with the
-required health and safety guidelines. Required behaviors in this class
+required health and safety guidelines. 
+
+<!-- Required behaviors in this class
 include: staying home and contacting the Protect Purdue Health Center
 (496-INFO) if you feel ill or know you have been exposed to the virus,
 properly [wearing a mask in classrooms and campus
@@ -414,7 +411,7 @@ and instructors dismissing the whole class. Students who do not comply
 with the required health behaviors are violating the University Code of
 Conduct and will be reported to the Dean of Students Office with
 sanctions ranging from educational requirements to dismissal from the
-university.
+university. -->
 
 Any student who has substantial reason to believe that another person
 in a campus room (e.g., classroom) is threatening the safety of others
@@ -480,10 +477,7 @@ class, synchronously via livestream (access details TBA), and
 asynchronously via recorded video (uploaded to Brightspace within
 about 24 hours after each lecture). If registered for the in-person
 section, attendance is generally expected, but will not be a factor
-in the final grade. Students should stay home and contact the
-[Protect Purdue Health Center](https://protect.purdue.edu) if they feel
-ill, have any symptoms associated with COVID-19, or suspect they may
-have been exposed to the virus. If you need to be absent for any
+in the final grade. If you need to be absent for any
 unavoidable reasons, please inform the instructor in a timely manner,
 when possible. In such cases, it is your responsibility to catch up with
 the material that you miss using the asynchronously available video
@@ -493,18 +487,19 @@ for making alternate arrangements as soon as the situation permits. Note
 that office hours and the discussion forum are available to assist you
 as well.
 
+Guidance on class attendance related to COVID-19 are outlined in the
+[Protect Purdue Pledge](https://protect.purdue.edu/pledge/) for Fall 2021
+on the [Protect Purdue website](https://protect.purdue.edu/).
+
+
 ## If you become Quarantined/Isolated 
 If you become quarantined or isolated at any
-point in time during the semester, in addition to support from the
-[Protect Purdue Health Center](https://protect.purdue.edu), you will
-also have access to an Academic Case Manager who can provide you
-academic support during this time. Your Academic Case Manager can be
-reached at <acmq@purdue.edu> and will provide you with general
-guidelines/resources around communicating with your instructors, be
-available for academic support, and offer suggestions for how to be
-successful when learning remotely. Importantly, if you find yourself too
-sick to progress in the course, notify your academic case manager and
-notify me via email. We will make arrangements based on your particular
+point in time during the semester, support is available from the
+[Protect Purdue Health Center](https://protect.purdue.edu).
+See the PPHC website [for details](https://protect.purdue.edu/protect-purdue-health-center/quarantine-isolation-resources/#students).
+Importantly, if you find yourself too
+sick to progress in the course, notify me via email.
+We will make arrangements based on your particular
 situation. The Office of the Dean of Students (odos\@purdue.edu) is also
 available to support you should this situation occur.
 
