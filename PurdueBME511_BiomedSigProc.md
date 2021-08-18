@@ -415,8 +415,8 @@ university. -->
 
 Any student who has substantial reason to believe that another person
 in a campus room (e.g., classroom) is threatening the safety of others
-by not complying (e.g., not wearing a mask) may leave the room without
-consequence. The student is encouraged to report the behavior to and
+by not complying may leave the room without consequence.
+The student is encouraged to report the behavior to and
 discuss next steps with their instructor. Students also have the option
 of reporting the behavior to the [Office of the Student Rights and
 Responsibilities](https://www.purdue.edu/odos/osrr/). See also Purdue
