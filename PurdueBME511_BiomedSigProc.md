@@ -304,14 +304,37 @@ is possible for online resources to have erroneous information. Learning
 to evaluate and use crowd-sourced online references is an important
 skill in the modern-day data scientist's repertoire.
 
-### Discussion Forum
-Outside of class, we will use a discussion forum
-(details TBA) for Q&A and discussion. Rather than emails, this is the
-preferred channel. Using a discussion forum allows for getting you help
-fast and efficiently from classmates, and instructors. You are
+### Livestream and Recorded Video
+If you are registered for one of the remote sections,
+you can access the lectures either via Livestream,
+or asynchronously via uploaded video.
+The Livestream will be available via Brightspace Media Gallery
+(more details will be posted on Brightspace) during class time.
+The video will be posted to Brightspace (after some processing),
+within a few hours after each class barring any technical difficulties
+(In the unlikely event that we face technical issues, alternate arrangements
+will be made soon thereafter).
+Remote students who are watching the livestream can interact with the instructors
+via Slack (see section on Discussion Forum).
+Students who are registered for the in-person section will also have access to
+the recorded videos after.
+
+
+### Discussion Forum and Live Q&A -- Slack
+We will use a group discussion forum
+for Q&A and discussion. Specifically, we will use Slack.
+Details to join the Slack workspace for this course will be
+provided on Brightspace.
+Rather than emails, Slack is the
+preferred method for asking questions outside class.
+During class, students who are watching the lectures remotely via
+livestream can also post questions on Slack.
+
+Using Slack allows for getting help
+quickly and efficiently from classmates, and instructors. You are
 encouraged to ask *and answer* questions about logistics, content,
-assignments, and projects -- you can even do so anonymously. In
-particular, requesting and sharing general and specific Python/MATLAB
+assignments, and projects. In particular, requesting and sharing general
+and specific Python/MATLAB
 "how to" knowledge is encouraged. However, please do *not* share
 explicit code blocks or solutions to homework sets, projects etc. You
 are also encouraged to share any ideas, articles, or videos that you
