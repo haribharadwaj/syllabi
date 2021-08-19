@@ -496,13 +496,13 @@ found here](https://www.purdue.edu/purdue/ea_eou_statement.php).
 
 ## Attendance Policy
 Lectures will offered via face-to-face meeting in
-class, synchronously via livestream (access details TBA), and
+class, synchronously via livestream (accessed via Brightspace Media Gallery), and
 asynchronously via recorded video (uploaded to Brightspace within
 about 24 hours after each lecture). If registered for the in-person
 section, attendance is generally expected, but will not be a factor
 in the final grade. If you need to be absent for any
-unavoidable reasons, please inform the instructor in a timely manner,
-when possible. In such cases, it is your responsibility to catch up with
+unavoidable reasons, please inform the instructor ahead of time when possible.
+In such cases, it is your responsibility to catch up with
 the material that you miss using the asynchronously available video
 recordings. If extended absence and schedule adjustments are
 necessitated by unavoidable circumstances, please contact the instructor
