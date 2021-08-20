@@ -338,8 +338,7 @@ and specific Python/MATLAB
 "how to" knowledge is encouraged. However, please do *not* share
 explicit code blocks or solutions to homework sets, projects etc. You
 are also encouraged to share any ideas, articles, or videos that you
-think would benefit others. Information about the specific discussion
-platform to use will be posted on Brightspace.
+think would benefit others.
 
 
 ## Problem Sets & Project Submissions
