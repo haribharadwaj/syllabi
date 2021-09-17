@@ -20,8 +20,8 @@ Assistant Professor of Biomedical Engineering <br>
 Assistant Professor of Speech, Language, & Hearing Sciences <br>
 Office: LYLE 3162 <br>
 e-Mail: <hbharadwaj@purdue.edu><br>
-Office Hours: TBA (1 hr/week via Zoom). Also see the "Discussion
-Forum" section below.<br>
+Office Hours: Please see the "Discussion
+Forum" section below about using Slack<br>
 **TA**: Ravinderjit (Rav) Singh, e-Mail: <singh415@purdue.edu><br>
 TA Office Hours: TBA
 
