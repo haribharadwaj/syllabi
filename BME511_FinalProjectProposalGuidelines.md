@@ -12,7 +12,8 @@ Problem formulation, i.e., being able to go from an application-domain descripti
 
 ## 1) What is the scientific question/biomedical/clinical application you will address and why is it important?
 
-	Example response: "When physical symptoms of a brain tumor present to the clinic, imaging with MRI can provide confirmatory diagnostics and if necessary, help with surgical planning. However, often there is a significant window between MRI data acquisition and follow-up care owing to high demands to expert radiologists’ time.  We aim to develop a system to automatically segment out brain tumors from MRI images. This can reduce the window between MRI acquisition and clinical follow-up by priming/assisting radiologists with a pre-labeled set of suspected tumor regions. Furthermore, in the long run, such automated and semi-automated procedures can also reduce human errors and even aid in image-guided surgery.""
+### Example response:
+When physical symptoms of a brain tumor present to the clinic, imaging with MRI can provide confirmatory diagnostics and if necessary, help with surgical planning. However, often there is a significant window between MRI data acquisition and follow-up care owing to high demands to expert radiologists’ time.  We aim to develop a system to automatically segment out brain tumors from MRI images. This can reduce the window between MRI acquisition and clinical follow-up by priming/assisting radiologists with a pre-labeled set of suspected tumor regions. Furthermore, in the long run, such automated and semi-automated procedures can also reduce human errors and even aid in image-guided surgery.
 	
 ## 2) What data you will use and where it will come from? Briefly describe the dataset.
 
@@ -23,19 +24,24 @@ It is best not to rely on any data that is yet to be collected. If you really wa
 - https://www.kaggle.com/datasets
 
 
-	Example response: "The brain tumor dataset from Cheng et al., 2016 is available online at https://figshare.com/articles/brain_tumor_dataset/1512427. This brain tumor dataset contains 3064 T1-weighted contrast-enhanced images from 233 patients with three kinds of brain tumor: meningioma (708 slices), glioma (1426 slices), and pituitary tumor (930 slices).
-	Cheng, J et al. Retrieval of Brain Tumors by Adaptive Spatial Pooling and Fisher Vector Representation. PloS one 11.6 (2016).""
+### Example response: 
+The brain tumor dataset from Cheng et al., 2016 is available online at https://figshare.com/articles/brain_tumor_dataset/151242. This brain tumor dataset contains 3064 T1-weighted contrast-enhanced images from 233 patients with three kinds of brain tumor: meningioma (708 slices), glioma (1426 slices), and pituitary tumor (930 slices).
+
+Cheng, J et al. Retrieval of Brain Tumors by Adaptive Spatial Pooling and Fisher Vector Representation. PloS one 11.6 (2016).
 	
 ## 3) Formulation of the scientific question in signal processing problem terms, and how success will be evaluated.
 
-	Example response: "Given 2D slices of MR images, the goal is to automatically label each pixel as representing a tumor pixel or not. Of the 3064 images, 2000 will be used to train the signal-processing algorithm and learn the analysis parameters. The remaining 1064 images will be used to test the efficacy of the algorithm by quantifying the hit rate and false-alarm rate of the classification performance. Any hit-rate and false alarm rate statistically above chance level with P < 0.01 will be considered a success for this course.""
+### Example response
+Given 2D slices of MR images, the goal is to automatically label each pixel as representing a tumor pixel or not. Of the 3064 images, 2000 will be used to train the signal-processing algorithm and learn the analysis parameters. The remaining 1064 images will be used to test the efficacy of the algorithm by quantifying the hit rate and false-alarm rate of the classification performance. Any hit-rate and false alarm rate statistically above chance level with P < 0.01 will be considered a success for this course.
 	
 ## 4) What approaches (signal processing techniques) will you try? This can be vague and exploratory for the purposes of the proposal, but it is good to get to some specifics soon.
 
+### Example response
+Coefficients will be extracted from each image using wavelet transforms. The set of wavelet cofficients will be used as features to train a support vector machine classifier. 
 
 ## 5) The extent of implementation for your project to earn an “A” grade for content; the extent to earn a “B” grade. It is useful to think of this section as two small aims where you complete both for an “A” and one of the two for a “B”.
 
-	NOTE: the idea here is that this is an agreement between you and the instructors. It protects you in the sense that we agree ahead of time that if you finish this much by the end, you’ll get an A for content, i.e., no expanding expectations on my part. On the other hand, it protects the instructors in the sense that you can’t put your project off until the end and then claim you did not have enough time to make significant progress.
+NOTE: the idea here is that this is an agreement between you and the instructors. It protects you in the sense that we agree ahead of time that if you finish this much by the end, you’ll get an A for content, i.e., no expanding expectations on my part. On the other hand, it protects the instructors in the sense that you can’t put your project off until the end and then claim you did not have enough time to make significant progress.
 
 
 ## 6) Any other relevant issues, literature, and factors influencing feasibility.
