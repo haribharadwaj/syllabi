@@ -17,11 +17,17 @@ When physical symptoms of a brain tumor present to the clinic, imaging with MRI 
 	
 ## 2) What data you will use and where it will come from? Briefly describe the dataset.
 
-It is best not to rely on any data that is yet to be collected. If you really want to work on data that is soon to be collected or is in the process of being collected, it is strongly recommended that you do so only if you have a very high degree of confidence that the data collection endeavor will be successful and timely. You are welcome to use datasets from your own research, or from publicly available repositories like. Some public repositories that may be useful are:
+It is best not to rely on any data that is yet to be collected. If you really want to work on data that is soon to be collected or is in the process of being collected, it is strongly recommended that you do so only if you have a very high degree of confidence that the data collection endeavor will be successful and timely. You are welcome to use datasets from your own research, or from publicly available repositories like.
+
+Some public repositories that may be useful are:
 - https://openneuro.org/
 - https://datadryad.org
 - https://figshare.com/
 - https://www.kaggle.com/datasets
+- https://archive.ics.uci.edu/ml/datasets.php
+- https://www.ncbi.nlm.nih.gov/gds
+
+This is, of course, not an exhaustive list. Please feel free to explore and leverage any repositories that may exist in your field.
 
 
 ### Example response: 
