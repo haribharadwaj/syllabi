@@ -20,7 +20,7 @@ Continuous monitoring of cardiac activity is valuable for a range of application
 	
 ## 2) What data you will use and where it will come from? Briefly describe the dataset.
 
-It is best not to rely on any data that is yet to be collected. If you really want to work on data that is soon to be collected or is in the process of being collected, it is strongly recommended that you do so only if you have a very high degree of confidence that the data collection endeavor will be successful and timely. You are welcome to use datasets from your own research, or from publicly available repositories like.
+It is best not to rely on any data that is yet to be collected. If you really want to work on data that is soon to be collected or is in the process of being collected, it is strongly recommended that you do so only if you have a very high degree of confidence that the data collection endeavor will be successful and timely. You are welcome to use datasets from your own research, or from a colleague in your lab/field, or from publicly available repositories.
 
 Some public repositories that may be useful are:
 - https://openneuro.org/
