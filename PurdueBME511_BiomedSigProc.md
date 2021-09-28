@@ -309,7 +309,7 @@ If you are registered for one of the remote sections,
 you can access the lectures either via Livestream,
 or asynchronously via uploaded video.
 The Livestream will be available via Brightspace Media Gallery
-(more details will be posted on Brightspace) during class time.
+during class time.
 The video will be posted to Brightspace (after some processing),
 within a few hours after each class barring any technical difficulties
 (In the unlikely event that we face technical issues, alternate arrangements
@@ -318,7 +318,8 @@ Remote students who are watching the livestream can interact with the instructor
 via Slack (see section on Discussion Forum).
 Students who are registered for the in-person section will also have access to
 the recorded videos after.
-
+Within Brightspace, the live stream and recorded video can be accessed
+by going to **Course Tools > Kaltura Media Gallery**.
 
 ### Discussion Forum and Live Q&A -- Slack
 We will use a group discussion forum
