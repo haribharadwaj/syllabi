@@ -143,12 +143,12 @@ representative biomedical examples.
   | Sep 14, 16       | Noise reduction (III) -- Multichannel filtering, PCA and applications ||                                                              
   | Sep 21, 23       | Statistical inference (I) -- Basics, ROC curves, multiple comparisons  | PS2 due|
   | Sep 28           | Statistical inference (II) -- Inference on 1D signals ||                                    
-  | Sep 30           | Midterm project overview -- P300 brain-computer interface | PS3 due |
-  | Oct 05, 07       | Statistical inference (III) -- Review, extension of methods from 1D to images||
+  | Sep 30           | Midterm project overview -- P300 brain-computer interface ||
+  | Oct 05, 07       | Statistical inference (III) -- Review, extension of methods from 1D to images| PS3 due (Oct 5th)|
   | Oct 12           | **October Break -- No Class**    ||     
   | Oct 14           | Spectral and time-frequency analysis (I) -- Auto/cross-correlation review; Spectrum estimation with preview of bias/variance tradeoff ||
-  | Oct 19, 21       | Spectral and time-frequency analysis (II) -- Tapering and multitaper methods | Midterm project due|
-  | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets ||
+  | Oct 19, 21       | Spectral and time-frequency analysis (II) -- Tapering and multitaper methods ||
+  | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets |Midterm project due (Oct 26th)|
   | Nov 02           | Modeling of biomedical signals and systems (I) -- Introduction to statistical estimation (ML), bias, and variance ||
   | Nov 04           | Modeling of biomedical signals and systems (II) -- Regularization (i.e., priors, MAP) and model selection ||
   | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Loess regression | PS4 due |
