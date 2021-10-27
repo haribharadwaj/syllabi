@@ -5,10 +5,12 @@
 Feedback will be provided regarding aims (item #5 below) by November 18, 2021
 
 
-The final project for this course is an *individual* project that will ideally be in your field of interest. If you are working towards a thesis as part of your degree program, this could also help you make progress within that context as long as the work involves signal processing. The scope of the project is similar to that of a single conference project (e.g., BMES, SfN, ARO, etc.) in your field, but only the data analysis formulation and implementation part of it. You could replicate something that is already published in your field. Novelty is **not** a requirement here; feel free to use this as an opportunity to learn/understand some signal-processing technique that is standard in your field if you so desire. The only constraint for the project is that it should involve a significant signal processing component (e.g., one or more of de-noising, decision making from data, estimation of unobservable quantities from raw data, etc.), and should address a problem that is of interest to your field.
-
+The final project for this course is an *individual* project that will ideally be in your field of interest. If you are working towards a thesis as part of your degree program, this could also help you make progress within that context as long as the work involves signal processing. The suggested scope of the project is that it be similar to that of a single- or two-author conference project (e.g., BMES, SfN, ARO, etc.) in your field, **but** only the data analysis formulation, software implementation, and interpretation parts (no experiment design or data collection). You could replicate something that is already published in your field, or use this as an opportunity to learn/understand some signal-processing technique that is standard in your field if you so desire. Novelty is **not** a requirement here! The only constraints are that the project should involve a significant signal processing component (e.g., one or more of de-noising, decision making from data, estimation of unobservable quantities from raw data, etc.), and should address a problem that is of interest to whatever field the problem is in.
 
 **Problem formulation**, i.e., being able to go from an application-domain description of the problem (item #1 below), to a signal-processing problem description (item #3 below) is an important part of the process and is essentially the main focus of this proposal. With that in mind, please provide a one-page project proposal (being as specific as possible) that addresses the following issues about your project idea. Examples are provided for the first three questions to illustrate the kind of response that is appropriate.
+
+> **_NOTE:_**
+The make up of this class is diverse in terms of background and prior experience with hands-on signal processing. Accordingly, the scope of final project should also be calibrated at the individual level to some extent. So when choosing your project and providing a response to item #5 below, do your best to pick something that you are likely to find interesting and challenging, but not overwhelming. You can use your experience with the midterm project (did you find it easy/challenging/overwhelming?) as a yardstick to calibrate against: Although you had just under 3 weeks for the midterm and will have about 4 weeks for the final project, remember that you are also formulating the problem yourself for the final project and making decisions about the best approach -- these steps take some time (the proposal should help you get started). On the flip side, if the problem comes from a field that you are very familiar with (or) already working on, that should help you save time in trying to understand the problem.
 
 ## 1) What is the scientific question/biomedical/clinical application you will address and why is it important?
 
@@ -29,8 +31,9 @@ Some public repositories that may be useful are:
 - https://www.kaggle.com/datasets
 - https://archive.ics.uci.edu/ml/datasets.php
 - https://www.ncbi.nlm.nih.gov/gds
+- https://www.mathworks.com/academia/student-competitions/biosignal.html
 
-This is, of course, not an exhaustive list. Please feel free to explore and leverage any repositories that may exist in your field.
+This is, of course, not an exhaustive list by any means. Please feel free to explore and leverage any repositories that may exist in your field.
 
 
 ### Example response 1: 
