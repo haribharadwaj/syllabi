@@ -1,5 +1,5 @@
 # Final Project Proposal
-**Due date**: November 11, 2021 by end of day
+**Due date**: November 16, 2021 by end of day
 
 
 Feedback will be provided regarding aims (item #5 below) by November 18, 2021
