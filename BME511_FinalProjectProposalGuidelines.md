@@ -24,13 +24,14 @@ Continuous monitoring of cardiac activity is valuable for a range of application
 
 It is best not to rely on any data that is yet to be collected. If you really want to work on data that is soon to be collected or is in the process of being collected, it is strongly recommended that you do so only if you have a very high degree of confidence that the data collection endeavor will be successful and timely. You are welcome to use datasets from your own research, or from a colleague in your lab/field, or from publicly available repositories.
 
-Some public repositories that may be useful are:
+Some public repositories/resources that may be useful are:
 - https://physionet.org/
 - https://openneuro.org/
 - https://datadryad.org
 - https://figshare.com/
 - https://www.kaggle.com/datasets
 - https://archive.ics.uci.edu/ml/datasets.php
+- https://datasetsearch.research.google.com/
 - https://www.ncbi.nlm.nih.gov/gds
 - https://www.mathworks.com/academia/student-competitions/biosignal.html
 
