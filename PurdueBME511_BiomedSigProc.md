@@ -151,15 +151,17 @@ representative biomedical examples.
   | Oct 26, 28       | Spectral and time-frequency analysis (III) -- Non-stationary signals and wavelets |Midterm project due (Oct 26th)|
   | Nov 02           | Modeling of biomedical signals and systems (I) -- Introduction to statistical estimation (ML), bias, and variance ||
   | Nov 04           | Modeling of biomedical signals and systems (II) -- Regularization (i.e., priors, MAP) and model selection ||
-  | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Loess regression | PS4 due |
-  | Nov 11, 16     | Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking | Final proposal due |
+  | Nov 09         | Modeling of biomedical signals and systems (III) -- Minimum norm estimation and deconvolution example, Lasso regression | PS4 due |
+  | Nov 11, 16     | Classification and clustering from a statistical modeling perspective | Final proposal due |
   | Nov 18, 23     | Machine learning approaches (I) -- ROC curve review; Linear classifiers and perceptron example; Support vector machines  ||                                       
   | Nov 25         |  **Thanksgiving -- No Class** ||
-  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting; unsupervised clustering ||
+  | Nov 30, Dec 02 | Machine learning approaches (II) -- The "training &#8594; validation &#8594; testing" workflow and combating overfitting ||
   | Dec 07         | Machine learning approaches (III) -- Worked examples; External resources on neural networks and deep learning | Multiple choice due |
   | Dec 09 | Review and consolidation with more examples ||
   | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
 
+Notes will be provided on the following topic without class discussio:
+Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking
 
 ## Final Grade Composition
 
