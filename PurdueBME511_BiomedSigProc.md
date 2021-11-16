@@ -160,7 +160,7 @@ representative biomedical examples.
   | Dec 09 | Review and consolidation with more examples ||
   | Dec 13--17      | Final project presentations during exam week (no exam) | Final report due|
 
-Notes will be provided on the following topic without class discussio:
+Notes will be provided on the following topic(s) but we won't discuss them in class:
 Spectral and time-frequency analysis (IV) -- Cross-spectrum, coherence, and phase locking
 
 ## Final Grade Composition
