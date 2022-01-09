@@ -1,6 +1,6 @@
 
 <figure>
-	<img src="figures/SLHS553banner.png" alt="" class="center" width="100%"/>
+	<img src="figures/SLHS553banner.png" alt="Implantable Devices" class="center" width="100%"/>
 </figure>
 
 # Purdue University SLHS 55300 (Spring 2022)
@@ -25,12 +25,12 @@ Forum" section below about using Slack<br>
 
 ## Description 
 This course will provide students with an overview of auditory implant systems,
-clinical practice, and research. Topics include a history of cochlear implants (CI),
+clinical practice, and research. Topics include history of cochlear implants (CI),
 current devices, signal processing strategies for CIs, candidacy evaluation,
 medical and surgical considerations, device programming and tuning, outcome assessment,
 and recent technological advances.  In line with the broad interdisciplinary nature of the topic,
-the course will also feature video/Zoom guest lectures on CI surgery,
-lectures by representatives from device manufacturers,
+the course will also feature video guest lectures on CI surgery,
+lectures by representatives from device manufacturing companies,
 CI audiologists, and a sophisticated CI user/patient.
 Middle-ear implants, brainstem implants, bone-conduction devices,
 and midbrain implants will also be discussed.
@@ -40,7 +40,7 @@ and midbrain implants will also be discussed.
 
 1. Understand auditory implant systems and processing strategies.
 
-2. Understand age-appropriate assessments, and develop evidence-based protocols for candidacy evaluation, including medical and surgical considerations.
+2. Understand age-appropriate pre- and post-implantation assessments, and develop evidence-based protocols for candidacy evaluation, including medical and surgical considerations.
 
 3. Understand cochlear implant programming/mapping; gain experience with mapping software and "troubleshooting" common patient complaints.
 
@@ -273,9 +273,9 @@ In the event of a major campus emergency, course
 requirements, deadlines and grading percentages are subject to changes
 that may be necessitated by a revised semester calendar or other
 circumstances beyond the instructor's control. Relevant changes to this
-course will be posted onto the course website or can be obtained by
-contacting the instructor via email. You are expected to read your
-\@purdue.edu email on a frequent basis.
+course will be announced on Brightspace or can be obtained by
+contacting the instructor via email or Slack. You are expected to read your
+\@purdue.edu email on a frequent basis and consult Brightspace announcements.
 
 ## Academic integrity
 See
