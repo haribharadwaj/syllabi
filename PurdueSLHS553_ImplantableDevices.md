@@ -67,7 +67,7 @@ Each class will be broken into three sessions of 45-50 mins each with two 10-15 
 | Jan 19 | Speech coding in the auditory nerve, signal processing strategies for CIs |  A1 due |
 | Jan 26 | Congenital hearing loss review, CI candidacy, CI team, imaging and medical considerations for candidacy ||
 | Feb 02 | CI programming/mapping I  | A2 due |
-| Feb 09 | Guest lecture with Drs. Shannon Van Hyfte and Jillian Hubertz||
+| Feb 09 | Guest lecture and lab with Drs. Shannon Van Hyfte and Jillian Hubertz||
 | Feb 16 | CI surgery video lecture *(no in-person meeting)* ||
 | Feb 23 | CI mapping II and troubleshooting | *Midterm available*, A3 due|
 | Mar 02 | Predicting and Evaluating CI outcomes, Simulated CI hearing lab ||
@@ -85,8 +85,8 @@ Each class will be broken into three sessions of 45-50 mins each with two 10-15 
 
 ## Final Grade Composition and Grading Scale
 
-In this class, grades reflect the sum of your achievement throughout the semester.
-You will accumulate points as described below.
+In this class, grades will reflect the sum of each student's achievement throughout the semester.
+Student will accumulate points as described below.
 
 | Assessment Item | Weight |
 |-----------------|--------|
@@ -97,9 +97,9 @@ You will accumulate points as described below.
 | Research presentation  | 10% |
 | Clinical case presentation | 10% |
 
-At the end of the semester, final grades will be calculated by adding
-the total points earned and translating those numbers (out of 100%, rounded up)
-into the following letter grades.
+At the end of the semester, final grades will be calculated by
+translating the total score (out of 100%,
+rounded up to integer) into the following letter grades:
 
 A+: 100 <br>
 A : 97 - 99 <br>
@@ -156,8 +156,8 @@ quickly and efficiently from classmates, and instructors. You are
 encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
 However, please do *not* share explicit solutions to assignments, exams etc.
-You are also encouraged to share any ideas, articles, or videos that you
-think would benefit others.
+You are also encouraged to share any ideas, articles, or videos related to 
+implantable devices that you think would be interestings and/or beneficial others.
 
 
 ## Research Presentation
@@ -318,15 +318,16 @@ found here](https://www.purdue.edu/purdue/ea_eou_statement.php).
 ## Attendance Policy
 Although face-to-face meeting in class is the primary modality of instruction,
 the lectures will also be available remotely via synchronous Zoom sessions,
-and asynchronously via recorded video. Attendance in-person is generally
+and asynchronously via recorded video. In-person attendance is generally
 expected for all classes throughout the semester. However,
-if you need to be absent or attend remotely for any unavoidable reasons,
-please inform the instructor in a timely manner (if the situation permits).
-In such cases, it is your responsibility to catch up with
+absence or remote attendance due any unavoidable reasons will be accommodated.
+If you need to miss a class or attend remotely, please inform the instructor
+in a timely manner (if the situation permits). In such cases,
+it is your responsibility to catch up with
 the material that you miss using the asynchronously available video
 recordings. If extended absence and schedule adjustments are
 necessitated by unavoidable circumstances, please contact the instructor
-for making alternate arrangements as soon as the situation permits. Note
+for working out alternate arrangements as soon as the situation permits. Note
 that office hours and the discussion forum are available to assist you
 as well.
 
