@@ -40,15 +40,13 @@ and midbrain implants will also be discussed.
 
 1. Understand auditory implant systems and processing strategies.
 
-2. Develop evidence-based protocols for candidacy evaluation, including medical and surgical considerations.
+2. Understand age-appropriate assessments, and develop evidence-based protocols for candidacy evaluation, including medical and surgical considerations.
 
 3. Understand cochlear implant programming/mapping; gain experience with mapping software and "troubleshooting" common patient complaints.
 
-4. Understand age-appropriate outcome assessments, and factors influencing patient outcomes across the lifespan
+4. Apply interdisciplinary knowledge about auditory implantable devices to analyze clinical cases and formulate treatment recommendations
 
-5. Apply interdisciplinary knowledge about auditory implantable devices to analyze clinical cases and formulate treatment recommendations
-
-6. Evaluate and integrate current research on auditory implants to enhance evidence-based practice.
+5. Evaluate and integrate current research on auditory implants to enhance evidence-based practice.
 
 ## ASHA Certification 2020 Standards
 Knowledge and Skills Outcomes (Standard II) addressed by this course include A5, A8, A13, A14, C11, D4, E12, E14, E15, E16, E17, E19, E28
@@ -60,6 +58,8 @@ Final case presentations by students; Final research presentations by students
 
 
 ## Tentative Schedule
+
+Each class will be broken into three sessions of 45-50 mins each with two 10-15 minute breaks.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
