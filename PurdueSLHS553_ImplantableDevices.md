@@ -1,6 +1,6 @@
 
 <figure>
-	<img src="figures/SLHS553banner.png" alt="" class="center" width="90%"/>
+	<img src="figures/SLHS553banner.png" alt="" class="center" width="100%"/>
 </figure>
 
 # Purdue University SLHS 55300 (Spring 2022)
@@ -40,13 +40,13 @@ and midbrain implants will also be discussed.
 
 1. Understand auditory implant systems and processing strategies.
 
-2. Develop protocols for candidacy evaluation, including medical and surgical considerations.
+2. Develop evidence-based protocols for candidacy evaluation, including medical and surgical considerations.
 
-3. Understand cochlear implant programming/mapping, and create "maps" for simulated. 
+3. Understand cochlear implant programming/mapping; gain experience with mapping software and "troubleshooting" common patient complaints.
 
-4. To  understand, select, and apply appropriate outcome assessments.
+4. Understand age-appropriate outcome assessments, and factors influencing patient outcomes across the lifespan
 
-5. Apply the interdisciplinary knowledge about auditory implantable devices to analyze clinical cases and formulate treatment recommendations.
+5. Apply interdisciplinary knowledge about auditory implantable devices to analyze clinical cases and formulate treatment recommendations
 
 6. Evaluate and integrate current research on auditory implants to enhance evidence-based practice.
 
@@ -71,7 +71,7 @@ Final case presentations by students; Final research presentations by students
 | Feb 16 | CI surgery video lecture *(no in-person meeting)* ||
 | Feb 23 | CI mapping II and troubleshooting | *Midterm available*, A3 due|
 | Mar 02 | Predicting and Evaluating CI outcomes, Simulated CI hearing lab ||
-|*Mar 05*| *Midterm exam due (This is a Saturday, not a class day)* ||
+|*Mar 05*| *Midterm exam due (This is a Saturday, not a regular class day)* ||
 | Mar 09 | Midterm discussion, Bimodal (CIHA) hearing ||
 | Mar 16 | **Spring Break -- No Class** ||
 | Mar 23 | EAS/Hybrid hearing, Bilateral implants | *Cases available*|
@@ -83,21 +83,20 @@ Final case presentations by students; Final research presentations by students
 | May 06 | Final exam due ||
 
 
-## Final Grade Composition
+## Final Grade Composition and Grading Scale
+
+In this class, grades reflect the sum of your achievement throughout the semester.
+You will accumulate points as described below.
 
 | Assessment Item | Weight |
 |-----------------|--------|
-| Class participation contribution to peer success | 5% |
+| Class participation and contribution to peer success | 5% |
 | Assignments (four) | 25% |
 | Midterm exam (take home) | 25% |
 | Final exam (take home) | 25% |
 | Research presentation  | 10% |
 | Clinical case presentation | 10% |
 
-## Grading Scale
-
-In this class, grades reflect the sum of your achievement throughout the semester.
-You will accumulate points as described in the Final Grade Composition portion above.
 At the end of the semester, final grades will be calculated by adding
 the total points earned and translating those numbers (out of 100%, rounded up)
 into the following letter grades.
