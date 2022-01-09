@@ -115,9 +115,17 @@ F : below 65
 
 ## Learning Resources, Technology, & Texts
 
+### Brightspace
+Materials, assignments, and grades for the course will be
+posted on [Brightspace](https://purdue.brightspace.com/).
+Brightspace will serve as the starting point for all course material.
+Materials may also be hosted elsewhere and links provided on
+Brightspace.
+
+
 ### Recommended Texts
-There are **no** required textbooks. See Brightspace for readings, and class notes/slides.
-An excellent reference for the majority of topics covered is:
+There are **no** required textbooks. Readings, class notes/slides, and videos will be posted on Brightspace
+*If* you do decide to invest in a text, an excellent reference for the majority of topics covered is:
 > Wolfe J., (2018). Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices. Plural Publishing. ISBN13: 978-1-59756-892-0
 
 
@@ -133,14 +141,6 @@ ISBN13: 978-1-59756-435-9
 
 4. Zeng, F. G., Popper, A. N., & Fay, R. R. (2012). Auditory Prostheses. New Horizons. Springer Handbook of Auditory Research.
 ISBN13: 978-1-4419-9434-9 [eBook PDF available via Purdue Libraries].
-
-
-### Brightspace
-Materials, assignments, and grades for the course will be
-posted on [Brightspace](https://purdue.brightspace.com/).
-Brightspace will serve as the starting point for all course material.
-Materials may also be hosted elsewhere and links provided on
-Brightspace.
 
 
 ### Discussion Forum -- Slack
