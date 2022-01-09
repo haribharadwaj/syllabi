@@ -124,7 +124,7 @@ Brightspace.
 
 
 ### Recommended Texts
-There are **no** required textbooks. Readings, class notes/slides, and videos will be posted on Brightspace
+There are **no** required textbooks. Readings, class notes/slides, and videos will be posted on Brightspace.
 *If* you do decide to invest in a text, an excellent reference for the majority of topics covered is:
 > Wolfe J., (2018). Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices. Plural Publishing. ISBN13: 978-1-59756-892-0
 
