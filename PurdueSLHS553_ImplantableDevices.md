@@ -8,15 +8,15 @@
 
 ## Registration
 Implantable Devices <br>
-BME 51100 - 001 <br>
+SLHS 55300 - 001 <br>
 **Time**:  W 01:30 -- 04:20 pm <br>
 **Location**: LYLE 1017 <br>
 **Credits**: 3 <br>
 
 ## Instructor
-Hari M. Bharadwaj, Ph.D.
-Assistant Professor of Biomedical Engineering <br>
+Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor of Speech, Language, & Hearing Sciences <br>
+Assistant Professor of Biomedical Engineering <br>
 Office: LYLE 3162 <br>
 e-Mail: <hbharadwaj@purdue.edu><br>
 Office Hours: Please see the "Discussion
