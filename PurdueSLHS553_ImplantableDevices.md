@@ -59,26 +59,26 @@ Final case presentations by students; Final research presentations by students
 
 ## Tentative Schedule
 
-Each class will be broken into three sessions of 45-50 mins each with two 10-15 minute breaks. Please note that the dates for couple of guest lectures are still being worked out, and the table will be adjusted slightly when they are scheduled.
+Each class will be broken into three sessions of 45-50 mins each with two 10-15 minute breaks.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Jan 12 | Introduction, history of cochlear implants, and brief review of cochlear and auditory nerve physiology ||
-| Jan 19 | Speech coding in the auditory nerve, signal processing strategies for CIs |  A1 due |
+| Jan 19 | Speech coding in the auditory nerve, signal processing strategies for CIs | A1 due |
 | Jan 26 | Congenital hearing loss review, CI candidacy, CI team, imaging and medical considerations for candidacy ||
 | Feb 02 | CI programming/mapping I  | A2 due |
 | Feb 09 | Guest lecture and lab with Drs. Shannon Van Hyfte and Jillian Hubertz||
-| Feb 16 | CI surgery video lecture *(no in-person meeting)* ||
-| Feb 23 | CI mapping II and troubleshooting | *Midterm available*, A3 due|
-| Mar 02 | Predicting and Evaluating CI outcomes, Simulated CI hearing lab ||
+| Feb 16 | CI mapping II and troubleshooting **(Class ends at 3 pm)**; CI surgery video lecture (at-home) ||
+| Feb 23 | Predicting and Evaluating CI outcomes, Simulated CI hearing lab | *Midterm available*, A3 due |
+| Mar 02 | Bimodal (CIHA) hearing, Factors for comparing three manufacturers ||
 |*Mar 05*| *Midterm exam due (This is a Saturday, not a regular class day)* ||
-| Mar 09 | Midterm discussion, Bimodal (CIHA) hearing ||
+| Mar 09 | Midterm discussion, EAS/Hybrid hearing, Bilateral implants| *Cases available* |
 | Mar 16 | **Spring Break -- No Class** ||
-| Mar 23 | EAS/Hybrid hearing, Bilateral implants | *Cases available*|
-| Mar 30 | Comparison of three manufacturers, Manufacturer spotlight for AB, Cochlear, and MedEl | A4 due|
-| Apr 06 | Bone conduction devices, Auditory brainstem implants, Middle-ear implants, Midbrain implants ||
-| Apr 13 | **Case presentations** ||
-| Apr 20 | **Research presentations**  | *Final available* |
+| Mar 23 | Manufacturer spotlight for AB and Cochlear | A4 due |
+| Mar 30 | Bone conduction devices, Auditory brainstem implants, Middle-ear implants, Midbrain implants ||
+| Apr 06 | **Case presentations** ||
+| Apr 13 | **Research presentations**  ||
+| Apr 20 | Guest lecture by Dr. Charlie Maubray (MedEl) | Final available|
 | Apr 27 | Guest lecture by CI user, Future devices, Review and Summary with extra cases discussed ||
 | May 06 | Final exam due ||
 
