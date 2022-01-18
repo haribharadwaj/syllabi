@@ -10,7 +10,7 @@
 Implantable Devices <br>
 SLHS 55300 - 001 <br>
 **Time**:  W 01:30 -- 04:20 pm <br>
-**Location**: LYLE 1017 <br>
+**Location**: LYLE 3144 <br>
 **Credits**: 3 <br>
 
 ## Instructor
@@ -59,7 +59,7 @@ Final case presentations by students; Final research presentations by students
 
 ## Tentative Schedule
 
-Each class will be broken into three sessions of 45-50 mins each with two 10-15 minute breaks.
+Each class will be broken into three sessions of 45-50 mins each with two 10-15 minute breaks. Please note that the dates for couple of guest lectures are still being worked out, and the table will be adjusted slightly when they are scheduled.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
