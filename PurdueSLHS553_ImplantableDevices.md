@@ -10,7 +10,7 @@
 Implantable Devices <br>
 SLHS 55300 - 001 <br>
 **Time**:  W 01:30 -- 04:20 pm <br>
-**Location**: LYLE 3144 <br>
+**Location**: LYLE 1028 [New location!] <br>
 **Credits**: 3 <br>
 
 ## Instructor
@@ -68,7 +68,7 @@ Each class will be broken into three sessions of 45-50 mins each with two 10-15 
 | Jan 26 | Congenital hearing loss review, CI candidacy, CI team, imaging and medical considerations for candidacy ||
 | Feb 02 | CI programming/mapping I  | A2 due |
 | Feb 09 | Guest lecture and lab with Drs. Shannon Van Hyfte and Jillian Hubertz||
-| Feb 16 | CI mapping II and troubleshooting **(Class ends at 3 pm)**; CI surgery guest lecture video (at home) ||
+| Feb 16 | CI mapping II and troubleshooting **(Class ends at 3:15 pm)**; CI surgery guest lecture video (at home) ||
 | Feb 23 | Predicting and Evaluating CI outcomes, Simulated CI hearing lab | *Midterm available*, A3 due |
 | Mar 02 | Bimodal (CIHA) hearing, Factors for comparing three manufacturers ||
 |*Mar 05*| *Midterm exam due (This is a Saturday, not a regular class day)* ||
