@@ -74,8 +74,8 @@ Each class will be broken into three sessions of 45-50 mins each with two 10-15 
 | Mar 09 | EAS/Hybrid hearing, Bilateral implants| *Cases available* |
 |*Mar 12*| *Midterm exam due (This is a Saturday, not a regular class day)* ||
 | Mar 16 | **Spring Break -- No Class** ||
-| Mar 23 | Midterm discussion, Manufacturer spotlight for AB and Cochlear | A4 due |
-| Mar 30 | Bone conduction devices, Auditory brainstem implants, Middle-ear implants, Midbrain implants ||
+| Mar 23 | Midterm discussion, Manufacturer spotlight for AB and Cochlear ||
+| Mar 30 | Bone conduction devices, Auditory brainstem implants, Middle-ear implants, Midbrain implants | A4 due |
 | Apr 06 | **Case presentations** ||
 | Apr 13 | **Research presentations**  ||
 | Apr 20 | Guest lecture by Dr. Charlie Maubray (MedEl) | Final available|
