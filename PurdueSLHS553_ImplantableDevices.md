@@ -71,11 +71,11 @@ Each class will be broken into three sessions of 45-50 mins each with two 10-15 
 | Feb 16 | CI mapping II and troubleshooting **(Class ends at 3:15 pm)**; CI surgery guest lecture video (at home) ||
 | Feb 23 | Predicting and Evaluating CI outcomes, Simulated CI hearing lab ||
 | Mar 02 | Bimodal (CIHA) hearing, Factors for comparing three manufacturers | *Midterm available*, A3 due|
-| Mar 09 | EAS/Hybrid hearing, Bilateral implants| *Cases available* |
+| Mar 09 | EAS/Hybrid hearing, Bilateral implants||
 |*Mar 12*| *Midterm exam due (This is a Saturday, not a regular class day)* ||
 | Mar 16 | **Spring Break -- No Class** ||
-| Mar 23 | Midterm discussion, Manufacturer spotlight for AB and Cochlear ||
-| Mar 30 | Bone conduction devices, Auditory brainstem implants, Middle-ear implants, Midbrain implants | A4 due |
+| Mar 23 | Midterm discussion, Bone conduction devices | *Cases available* |
+| Mar 30 | Auditory brainstem implants, Middle-ear implants, Midbrain implants | A4 due |
 | Apr 06 | **Case presentations** ||
 | Apr 13 | **Research presentations**  ||
 | Apr 20 | Guest lecture by Dr. Charlie Maubray (MedEl) | Final available|
