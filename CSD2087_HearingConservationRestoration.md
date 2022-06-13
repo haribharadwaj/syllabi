@@ -25,13 +25,20 @@ Forum" section below about using Slack<br>
 Trauma to the ear from sound and ototoxic agents is often preventable. This course will focus on 1) the epidemiology of such trauma, and understanding the mechanisms that damage the inner ear, 2) selection and implementation of hearing protection methods including noise control, physical hearing protection, and pharmacological otoprotective agents, 3) understanding and implementing national guidelines for hearing protection programs and overseeing ototoxicity monitoring programs in medical and clinical-trial contexts, 4) exploring the emerging area of hearing restoration post trauma.
 
 ## ASHA Certification 2020 Standards
-Knowledge and Skills Outcomes (Standard II) addressed by this course include
+Knowledge and Skills Outcomes (Standard II) addressed by this course include:
+
 A5. Calibration and use of instrumentation according to manufacturers’ specifications and accepted standards
+
 B1. Educating the public and those at risk on the topics of prevention, potential causes, effects, and treatment of congenital and acquired auditory and vestibular disorders
+
 B3. Participating in programs designed to reduce the effects of noise exposure and agents that are toxic to the auditory and vestibular systems
+
 B4. Utilizing instrument(s) (i.e., sound-level meter, dosimeter, etc.) to determine ambient noise levels and providing strategies for reducing noise and reverberation time in educational, occupational, and other settings
+
 B7. Participating in occupational hearing conservation programs
+
 B14. Evaluating the success of screening and prevention programs using performance measures
+
 F12. Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations [Check if covered elsewhere]
 
 ## Learning Outcomes
