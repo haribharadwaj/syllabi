@@ -33,8 +33,9 @@ Trauma to the ear from sound and ototoxic agents is often preventable. This cour
 6. Understand the molecular mechanisms leading to noise- and drug-induced hearing damage, and identify candidate targets and agents for otoprotection and restoration.
 
 
-ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include |
-
+ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include:
+|Code | Description|
+|-----|------------|
 |A5 | Calibration and use of instrumentation according to manufacturers’ specifications and accepted standards|
 |B1 | Educating the public and those at risk on the topics of prevention, potential causes, effects, and treatment of congenital and acquired auditory and vestibular disorders |
 |B3 | Participating in programs designed to reduce the effects of noise exposure and agents that are toxic to the auditory and vestibular systems|
