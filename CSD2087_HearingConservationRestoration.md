@@ -24,25 +24,25 @@ Forum" section below about using Slack<br>
 ## Description
 Trauma to the ear from sound and ototoxic agents is often preventable. This course will focus on 1) the epidemiology of such trauma, and understanding the mechanisms that damage the inner ear, 2) selection and implementation of hearing protection methods including noise control, physical hearing protection, and pharmacological otoprotective agents, 3) understanding and implementing national guidelines for hearing protection programs and overseeing ototoxicity monitoring programs in medical and clinical-trial contexts, 4) exploring the emerging area of hearing restoration post trauma.
 
-## ASHA Certification 2020 Standards
-Knowledge and Skills Outcomes (Standard II) addressed by this course include:
-
-A5. Calibration and use of instrumentation according to manufacturers’ specifications and accepted standards
-
-B1. Educating the public and those at risk on the topics of prevention, potential causes, effects, and treatment of congenital and acquired auditory and vestibular disorders
-
-B3. Participating in programs designed to reduce the effects of noise exposure and agents that are toxic to the auditory and vestibular systems
-
-B4. Utilizing instrument(s) (i.e., sound-level meter, dosimeter, etc.) to determine ambient noise levels and providing strategies for reducing noise and reverberation time in educational, occupational, and other settings
-
-B7. Participating in occupational hearing conservation programs
-
-B14. Evaluating the success of screening and prevention programs using performance measures
-
-F12. Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations [Check if covered elsewhere]
-
 ## Learning Outcomes
-TBA
+1. Understand the auditory and non-auditory effects of acoustic overexposure.
+2. Identify the key components of hearing-loss prevention programs, and design protocols and materials for implementing national guidelines for hearing protection.
+3. Perform environmental acoustic measurements, personal exposure assessments, selection of hearing protection devices, and estimation of real-world acoustic attentuation provided by such devices for an individual user.
+4. Understand basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
+5. Design protocols and materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
+6. Understand the molecular mechanisms leading to noise- and drug-induced hearing damage, and identify candidate targets and agents for otoprotection and restoration.
+
+
+ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include |
+
+|A5 | Calibration and use of instrumentation according to manufacturers’ specifications and accepted standards|
+|B1 | Educating the public and those at risk on the topics of prevention, potential causes, effects, and treatment of congenital and acquired auditory and vestibular disorders |
+|B3 | Participating in programs designed to reduce the effects of noise exposure and agents that are toxic to the auditory and vestibular systems|
+|B4 | Utilizing instrument(s) (i.e., sound-level meter, dosimeter, etc.) to determine ambient noise levels and providing strategies for reducing noise and reverberation time in educational, occupational, and other settings|
+|B7 | Participating in occupational hearing conservation programs|
+|B14| Evaluating the success of screening and prevention programs using performance measures|
+|F12| Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations [Check if covered elsewhere]|
+
 
 ## Learning Resources, Technology, & Texts
 
@@ -186,13 +186,15 @@ For general information about mental health, see the
 [National Institute of Mental Health (NIMH)
 website.](https://www.nimh.nih.gov/health/)
 
-If you find yourself beginning to feel some stress, anxiety, and/or
+
+
+Graduate school can be an exciting and challenging time. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive. If you find yourself beginning to feel some stress, anxiety, and/or
 feeling slightly overwhelmed, one option is to try
 [TAO](http://www.studentaffairs.pitt.edu/cc/therapy-assistance-online/) (available for free with your
 Pitt login, sign in to find information and tools at any time), or
 other mobile apps such as [Calm](https://www.calm.com),
 [Aura](https://www.aurahealth.io),
-[Headspace](https://www.headspace.com), etc.
+[Headspace](https://www.headspace.com), etc. 
 
 If you or someone you know is in need of mental-health support, [services](https://www.studentaffairs.pitt.edu/cc/services/) are available through the [University Counseling Center (UCC)](https://www.studentaffairs.pitt.edu/cc/). The UCC can be contacted via phone at 412-648-7930, and is located on the 2nd Floor of Nordenberg Hall - Wellness Center at 119 University Place, Pittsburgh, PA 15260. The UCC website also provides links to a [range of resources](http://www.studentaffairs.pitt.edu/cc/resources/) and information about programs that may be beneficial. 
 
