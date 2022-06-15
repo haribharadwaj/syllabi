@@ -29,8 +29,8 @@ Trauma to the ear from sound and ototoxic agents is often preventable. This cour
 2. Identify the key components of hearing-loss prevention programs, and design protocols and materials for implementing national guidelines for hearing protection.
 3. Perform environmental acoustic measurements, personal exposure assessments, selection of hearing protection devices, and estimation of real-world acoustic attentuation provided by such devices for an individual user.
 4. Understand basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
-5. Design protocols and materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
-6. Understand the molecular mechanisms leading to noise- and drug-induced hearing damage, and identify candidate targets and agents for otoprotection and restoration.
+5. Develop materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
+6. Understand the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap), and identify candidate targets and agents for otoprotection and restoration.
 
 
 ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include:
@@ -81,10 +81,10 @@ You are also encouraged to share any ideas, articles, or videos related to
 implantable devices that you think would be interesting and/or beneficial others.
 
 
-## Assignments 
-Assignments will typically be made available a week before they are due (sometimes 2 weeks).
+## Assignments and exams
+Assignments (four) will typically be made available a week before they are due (sometimes 2 weeks).
 Submitted work will consist of electronic files (PDF) uploaded through Canvas.
-All assignments are due by the time and date posted on Canvas. 
+All assignments are due by the time and date posted on Canvas. Exams are essentially extended assignments with the added constraint that you cannot discuss with the contents with other people. However, you may use any non-human resources (e.g., books, WWW, primary literature, etc.).
 
 There is a quota of **three total late** days you can use
 throughout the semester to manage unanticipated pressing events that may
@@ -107,22 +107,21 @@ Each class will be broken into two sessions of 50 mins each with a 10-minute bre
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Aug 31 | Introduction, importance of hearing preservation, physics of sound and vibration, review of normal auditory function ||
-| Sep 07 | Cellular pathophysiology profiles induced by acoustic trauma, perceptual consequences and diagnostics, epidemiology of noise-induced hearing loss ||
-| Sep 14 | Auditory effects of acoustic trauma beyond the audiogram, non-auditory effects, interactions of acoustic trauma with aging and ototoxic agents ||
-| Sep 28 | Hearing-loss prevention program overview: administration, compliance-based approaches, and best practices ||
-| Oct 05 | Acoustic monitoring, exposure assessment, noise control, aside on classroom acoustics ||
-| Oct 12 | Hearing protection devices: selection, individualized fit testing, estimation of attenuation ||
-| Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
+| Aug 31 | Introduction: physics of sound and vibration, review of normal auditory function, importance of hearing preservation ||
+| Sep 07 | Common sources of hazardous noise and epidemiology of noise-induced hearing loss; Cellular pathophysiology profiles induced by acoustic trauma; Perceptual consequences of acoustic trauma and precision diagnostics| A1 due|
+| Sep 14 | Effects of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
+| Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approaches, and national guidelines | A2 due|
+| Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
+| Oct 12 | Hearing protection devices: selection, individualized fit testing, estimation of attenuation | A3 due|
+| Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Midterm available|
 | Oct 26 | Education and motivation, program effectiveness evaluation, record keeping ||
-| Nov 02 | Pharmacology basics and terminology, receptor theory and pharmacodynamics, pharamacokinetics, dose-response characteristics, patient factors ||
+| Nov 02 | Pharmacology basics and terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors |Midterm due|
 | Nov 09 | Common drugs in otolaryngologic practice, (known) ototoxic drug classes, industrial chemicals and solvents, vestibulotoxicity ||
-| Nov 16 | Audiologic monitoring for ototoxicity, patient management, and clinical trials ||
+| Nov 16 | Audiologic monitoring for ototoxicity, patient management, and clinical trials | A4 due|
 | Nov 23 | **Thanksgiving Break -- No Class** ||
-| Nov 30 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection ||
+| Nov 30 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | Final available |
 | Dec 07 | Pharmacological approaches to restoration and regeneration ||
 | Dec 14 | **Final Exam Due** ||
-
 
 ## Final Grade Composition and Grading Scale
 
@@ -131,11 +130,11 @@ Student will accumulate points as described below.
 
 | Assessment Item | Weight |
 |-----------------|--------|
-| Class participation and contribution to peer success | 5% |
-| Assignments (five) | 35% |
-| Midterm exam (take home) | 25% |
-| Final exam (take home) | 25% |
-| Research presentation  | 10% |
+| Class participation and contribution to peer learning | 10% |
+| Assignments (four) | 40% |
+| Midterm exam (take home) | 20% |
+| Final exam (take home) | 20% |
+| Research presentation  (by video recording) | 10% |
 
 
 ## Academic Integrity
@@ -169,7 +168,7 @@ Language is gender-inclusive and non-sexist when we use words that affirm and re
 Although face-to-face meeting in class is the primary modality of instruction,
 the lectures/seminars will also be available remotely via synchronous Zoom sessions,
 and asynchronously via recorded video. In-person attendance is
-expected for all classes throughout the semester. However,
+generally expected for all classes throughout the semester. However,
 absence or remote attendance due any unavoidable reasons will be accommodated.
 If you need to miss a class or attend remotely, please inform me
 in a timely manner (if the situation permits). In such cases,
