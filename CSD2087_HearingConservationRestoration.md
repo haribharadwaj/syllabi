@@ -112,7 +112,7 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Sep 14 | Effects of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
 | Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approaches, and national guidelines | A2 due|
 | Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
-| Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | A3 due, ** Note that an exercise on HPD fit-testing will be included as part of the clinical procedures course ** |
+| Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | A3 due, **Note that an exercise on HPD fit-testing will be included as part of the clinical procedures course** |
 | Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Midterm available|
 | Oct 26 | Education and motivation, program effectiveness evaluation, record keeping ||
 | Nov 02 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Midterm due|
