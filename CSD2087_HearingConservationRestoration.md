@@ -84,7 +84,7 @@ implantable devices that you think would be interesting and/or beneficial others
 ## Assignments and exams
 Assignments (four) will typically be made available a week before they are due (sometimes 2 weeks).
 Submitted work will consist of electronic files (PDF) uploaded through Canvas.
-All assignments are due by the time and date posted on Canvas. Exams are essentially extended assignments with the added constraint that you cannot discuss with the contents with other people. However, you may use any non-human resources (e.g., books, WWW, primary literature, etc.).
+All assignments are due by the time and date posted on Canvas. You are encourage to discuss course topics with your peers, and may discuss the contents of the assignments with other people *in broad/general terms*, but please do not share specific solutions to assignments. Exams are essentially extended assignments with the added constraint that you cannot discuss any part of the contents with other people.
 
 There is a quota of **three total late** days you can use
 throughout the semester to manage unanticipated pressing events that may
@@ -112,12 +112,12 @@ Each class will be broken into two sessions of 50 mins each with a 10-minute bre
 | Sep 14 | Effects of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
 | Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approaches, and national guidelines | A2 due|
 | Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
-| Oct 12 | Hearing protection devices: selection, individualized fit testing, estimation of attenuation | A3 due|
+| Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | A3 due, ** Note that an exercise on HPD fit-testing will be included as part of the clinical procedures course ** |
 | Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Midterm available|
 | Oct 26 | Education and motivation, program effectiveness evaluation, record keeping ||
-| Nov 02 | Pharmacology basics and terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors |Midterm due|
-| Nov 09 | Common drugs in otolaryngologic practice, (known) ototoxic drug classes, industrial chemicals and solvents, vestibulotoxicity ||
-| Nov 16 | Audiologic monitoring for ototoxicity, patient management, and clinical trials | A4 due|
+| Nov 02 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Midterm due|
+| Nov 09 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity ||
+| Nov 16 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) | A4 due|
 | Nov 23 | **Thanksgiving Break -- No Class** ||
 | Nov 30 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | Final available |
 | Dec 07 | Pharmacological approaches to restoration and regeneration ||
