@@ -103,7 +103,7 @@ the situation permits, and make alternate arrangements.
 
 ## Tentative schedule
 
-Each class will be broken into two sessions of 50 mins each with a 10-minute break.
+Each class will be broken into two sessions of about 55 mins each with a 10-minute break in between.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
