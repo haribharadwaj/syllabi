@@ -83,8 +83,8 @@ implantable devices that you think would be interesting and/or beneficial others
 
 ## Assignments and exams
 Assignments (four) will typically be made available a week before they are due (sometimes 2 weeks).
-Submitted work will consist of electronic files (PDF) uploaded through Canvas.
-All assignments are due by the time and date posted on Canvas. You are encourage to discuss course topics with your peers, and may discuss the contents of the assignments with other people *in broad/general terms*, but please do not share specific solutions to assignments. Exams are essentially extended assignments with the added constraint that you cannot discuss any part of the contents with other people.
+Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, and developing protocols/materials for clinical use. Some assignments will also involve hands-on measurements (e.g., environmental and personal noise assessments), querying standardized databases (e.g., FDA MedWatch), and watching video lectures by other professionals/scientists. Submitted work will consist of electronic files (PDF) uploaded through Canvas. All assignments are due by the time and date posted on Canvas. You are encourage to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Exams are essentially extended assignments with the added constraint that you cannot discuss the contents with other people.
+
 
 There is a quota of **three total late** days you can use
 throughout the semester to manage unanticipated pressing events that may
@@ -101,6 +101,7 @@ the situation permits, and make alternate arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
 
+
 ## Tentative schedule
 
 Each class will be broken into two sessions of about 55 mins each with a 10-minute break in between.
@@ -108,12 +109,12 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Aug 31 | Introduction: physics of sound and vibration, review of normal auditory function, importance of hearing preservation ||
-| Sep 07 | Common sources of hazardous noise and epidemiology of noise-induced hearing loss; Cellular pathophysiology profiles induced by acoustic trauma; Perceptual consequences of acoustic trauma and precision diagnostics| A1 due|
-| Sep 14 | Effects of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
-| Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approaches, and national guidelines | A2 due|
-| Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
-| Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | A3 due, **Note that an exercise on HPD fit-testing will be included as part of the clinical procedures course** |
-| Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Midterm available|
+| Sep 07 | Common sources of hazardous noise and epidemiology of noise-induced hearing loss; Cellular pathophysiology profiles induced by acoustic trauma; Perceptual consequences of acoustic trauma and precision diagnostics||
+| Sep 14 | Effects of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors | A1 due|
+| Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approaches, and national guidelines ||
+| Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics |A2 due|
+| Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | **Note that an exercise on HPD fit-testing will be included as part of the clinical procedures course** |
+| Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | A3 due; Midterm available|
 | Oct 26 | Education and motivation, program effectiveness evaluation, record keeping ||
 | Nov 02 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Midterm due|
 | Nov 09 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity ||
