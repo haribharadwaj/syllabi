@@ -109,8 +109,8 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Aug 31 | Introduction: physics of sound and vibration, review of normal auditory function, importance of hearing preservation ||
-| Sep 07 | Common sources of hazardous noise and epidemiology of noise-induced hearing loss; Cellular pathophysiology profiles induced by acoustic trauma; Perceptual consequences of acoustic trauma and precision diagnostics||
-| Sep 14 | Effects of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors | A1 due|
+| Sep 07 | Common sources of hazardous noise and epidemiology of noise-induced hearing loss; Acoustic trauma: Cellular pathophysiology profiles and precision diagnostics||
+| Sep 14 | Auditory and non-auditory consequences of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors | A1 due|
 | Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approaches, and national guidelines ||
 | Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics |A2 due|
 | Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | **Note that an exercise on HPD fit-testing will be included as part of the clinical procedures course** |
@@ -137,6 +137,21 @@ Student will accumulate points as described below.
 | Final exam (take home) | 20% |
 | Research presentation  (by video recording) | 10% |
 
+## Attendance Policy
+Although face-to-face meeting in class is the primary modality of instruction,
+the lectures/seminars will also be available remotely via synchronous Zoom sessions,
+and asynchronously via recorded video. In-person attendance is
+generally expected for all classes throughout the semester. However,
+absence or remote attendance due any unavoidable reasons will be accommodated.
+If you need to miss a class or attend remotely, please inform me
+in a timely manner (if the situation permits). In such cases,
+it is your responsibility to catch up with
+the material that you miss using the asynchronously available video
+recordings. If extended absence and schedule adjustments are
+necessitated by unavoidable circumstances, please contact me
+for working out alternate arrangements as soon as the situation permits. Note
+that office hours and the discussion forum are available to assist you
+as well.
 
 ## Academic Integrity
 Students in this course will be expected to comply with the [University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/info/ai1.html). Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
@@ -163,23 +178,6 @@ If you are required to isolate or quarantine, become sick, or are unable to come
 
 ## Gender Inclusive Language Statement
 Language is gender-inclusive and non-sexist when we use words that affirm and respect how people describe, express, and experience their gender.  Gender-inclusive/non-sexist language acknowledges people of all genders (for example, first year student versus freshman, chair versus chairman, humankind versus mankind, everyone versus ladies and gentlemen, etc.).  It also affirms non-binary gender identifications, and recognizes both gender identity and expression.  Identities including trans, intersex, and genderqueer reflect personal descriptions, expressions, and experiences.  Just as sexist language excludes women’s experiences, gendered language excludes the experiences of individuals whose identifies may not fit the gender binary, and/or who may not identify with the sex they were assigned at birth.  Students, faculty, and staff have the right to control their own identity and to be referred to by the name and pronouns with which they identify.  People also have the right to maintain their privacy regarding information they do not wish to share about their identities, including gender identity and pronouns.
-
-
-## Attendance Policy
-Although face-to-face meeting in class is the primary modality of instruction,
-the lectures/seminars will also be available remotely via synchronous Zoom sessions,
-and asynchronously via recorded video. In-person attendance is
-generally expected for all classes throughout the semester. However,
-absence or remote attendance due any unavoidable reasons will be accommodated.
-If you need to miss a class or attend remotely, please inform me
-in a timely manner (if the situation permits). In such cases,
-it is your responsibility to catch up with
-the material that you miss using the asynchronously available video
-recordings. If extended absence and schedule adjustments are
-necessitated by unavoidable circumstances, please contact me
-for working out alternate arrangements as soon as the situation permits. Note
-that office hours and the discussion forum are available to assist you
-as well.
 
 
 ## Mental Health Statement
