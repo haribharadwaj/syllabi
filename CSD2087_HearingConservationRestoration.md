@@ -109,7 +109,7 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Aug 31 | Introduction: physics of sound and vibration, review of normal auditory function, importance of hearing preservation ||
-| Sep 07 | Common sources of hazardous noise and epidemiology of noise-induced TTS and PTS; Cellular pathophysiology profiles induced by acoustic trauma; precision diagnostics||
+| Sep 07 | Common sources of hazardous noise and epidemiology; TTS and PTS; Cellular pathophysiology profiles induced by acoustic trauma; precision diagnostics||
 | Sep 14 | Auditory and non-auditory consequences of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors | A1 due|
 | Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approach, and national guidelines ||
 | Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics |A2 due|
