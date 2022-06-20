@@ -78,7 +78,7 @@ encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
 However, please do *not* share explicit solutions to assignments, exams etc.
 You are also encouraged to share any ideas, articles, or videos related to 
-implantable devices that you think would be interesting and/or beneficial others.
+hearing preservation that you think would be interesting and/or beneficial others.
 
 
 ## Assignments and exams
