@@ -113,7 +113,7 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Sep 14 | Auditory and non-auditory consequences of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors | A1 due|
 | Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approach, and national guidelines ||
 | Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics |A2 due|
-| Oct 12 | Hearing protection devices: Selection, individualized fit testing, estimation of attenuation | **Note that an exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
+| Oct 12 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD, derating schemes | **Note that an exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
 | Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | A3 due; Midterm available|
 | Oct 26 | Education and motivation, program effectiveness evaluation, record keeping ||
 | Nov 02 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Midterm due|
@@ -184,7 +184,6 @@ Language is gender-inclusive and non-sexist when we use words that affirm and re
 For general information about mental health, see the
 [National Institute of Mental Health (NIMH)
 website.](https://www.nimh.nih.gov/health/)
-
 
 
 Graduate school can be an exciting and challenging time. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive. If you find yourself beginning to feel some stress, anxiety, and/or
