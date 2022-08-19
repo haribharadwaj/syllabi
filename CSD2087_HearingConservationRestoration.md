@@ -15,10 +15,10 @@ CSD 2087 1000-SEM(31183) Fall 2022 <br>
 Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor of Communication Sciences & Disorders <br>
 Assistant Professor of Bioengineering <br>
-Office: Forbes TBA <br>
+Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
 Office Hours: By appointment. Also see the "Discussion
-Forum" section below about using Slack<br>
+Forum" section below.<br>
 
 
 ## Description
@@ -64,7 +64,7 @@ There are **no** required textbooks. Readings from primary literature, class not
 3. Hatzopoulos S (2021). *Advances in Audiology and Hearing Science, Volume 2, Part III: Otoprotection and Regeneration*. Apple Academic Press. ISBN: 978-1-7746-3180-5.
 4. Le Prell CG, Henderson D, & Fay RR (2012). *Noise-induced hearing loss*. Springer Handbook of Auditory Research (SHAR Volume 40). ISBN: 978-1-4419-9523-0.
 
-### Discussion Forum -- Slack
+### Discussion Forum -- Slack (Maybe just canvas discussion forum is good??)
 We will use a group discussion forum
 for Q&A and discussion.
 Specifically, we will use Slack.
@@ -101,6 +101,9 @@ the situation permits, and make alternate arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
 
+## Remediations
+
+TO BE FILLED OUT
 
 ## Tentative schedule
 
@@ -166,7 +169,7 @@ These materials may be protected by copyright. United States copyright law, 17 U
 
 See [Library of Congress Copyright Office](https://www.copyright.gov/) and the [University Copyright Policy](https://www.policy.pitt.edu/sites/default/files/Policies/Community-Standards/Policy_CS_03.pdf).
 
-## Equity, Diversity, and Inclusion
+## Equity, Diversity, and Inclusion [To change to CSD-specific language]
 The University of Pittsburgh does not tolerate any form of discrimination, harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, genetic information, marital status, familial status, sex, age, sexual orientation, veteran status or gender identity or other factors as stated in the University’s Title IX policy. The University is committed to taking prompt action to end a hostile environment that interferes with the University’s mission. For more information about policies, procedures, and practices, visit the [Civil Rights & Title IX Compliance web page](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance).
 
 I ask that everyone in the class strive to help ensure that other members of this class can learn in a supportive and respectful environment. If there are instances of the aforementioned issues, please contact the Title IX Coordinator, by calling 412-648-7860, or e-mailing titleixcoordinator@pitt.edu. Reports can also be [filed online](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance/make-report/report-form). You may also choose to report this to a faculty/staff member; they are required to communicate this to the University’s Office of Diversity and Inclusion. If you wish to maintain complete confidentiality, you may also contact the University Counseling Center (412-648-7930).
