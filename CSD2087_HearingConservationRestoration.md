@@ -99,9 +99,6 @@ the situation permits, and make alternate arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
 
-## Remediations
-
-TO BE FILLED OUT
 
 ## Tentative schedule
 
@@ -137,6 +134,26 @@ Student will accumulate points as described below.
 | Midterm exam (take home) | 20% |
 | Final exam (take home) | 20% |
 | Research presentation  (by video recording) | 10% |
+
+
+The standard grading scale for our SLP and AuD programs will be used in this course. <br>
+A+: 98 - 100 <br>
+A : 94 - 97 <br>
+A-: 90 - 93 <br>
+B+: 87 - 89 <br>
+B : 84 - 86 <br>
+B-: 80 - 83 <br>
+C+: 78 - 79 <br>
+C : 76 - 77 <br>
+C-: 70 - 75 <br>
+D+: 67 - 69 <br>
+D : 63 - 66 <br>
+D-: 60 - 62 <br>
+F : below 60
+
+## Remediations
+In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must maintain an overall grade level of C or better (i.e., total score of 76% or more). No automatic remediation options are available for this course.
+
 
 ## Attendance Policy
 Although face-to-face meeting in class is the primary modality of instruction,
