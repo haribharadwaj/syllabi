@@ -44,6 +44,7 @@ ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) ad
 |B14| Evaluating the success of screening and prevention programs using performance measures|
 |F12| Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations [Check if covered elsewhere]|
 
+This course also addresses CAA standard 3.1.3A: Identification and prevention of hearing loss, tinnitus, and vestibular disorders.
 
 ## Learning Resources, Technology, & Texts
 
@@ -64,21 +65,18 @@ There are **no** required textbooks. Readings from primary literature, class not
 3. Hatzopoulos S (2021). *Advances in Audiology and Hearing Science, Volume 2, Part III: Otoprotection and Regeneration*. Apple Academic Press. ISBN: 978-1-7746-3180-5.
 4. Le Prell CG, Henderson D, & Fay RR (2012). *Noise-induced hearing loss*. Springer Handbook of Auditory Research (SHAR Volume 40). ISBN: 978-1-4419-9523-0.
 
-### Discussion Forum -- Slack (Maybe just canvas discussion forum is good??)
-We will use a group discussion forum
-for Q&A and discussion.
-Specifically, we will use Slack.
-Details to join the Slack workspace for this course will be
-provided on Canvas. Rather than emails, Slack is the
+### Discussion Forum
+We will use a group discussion board within  Canvas
+for Q&A and discussion. Rather than emails, using the discussion board is the
 preferred method for asking questions outside class.
 
-Using Slack allows for getting help
-quickly and efficiently from classmates, and instructors. You are
+Using thhe discussion board allows for getting help
+quickly and efficiently both from classmates, and the instructor. You are
 encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
 However, please do *not* share explicit solutions to assignments, exams etc.
-You are also encouraged to share any ideas, articles, or videos related to 
-hearing preservation that you think would be interesting and/or beneficial others.
+You are also encouraged to share any ideas, articles, videos, or other resources related to 
+hearing preservation and restoration that you think would be interesting and/or beneficial to others.
 
 
 ## Assignments and exams
@@ -175,9 +173,17 @@ The University of Pittsburgh does not tolerate any form of discrimination, haras
 I ask that everyone in the class strive to help ensure that other members of this class can learn in a supportive and respectful environment. If there are instances of the aforementioned issues, please contact the Title IX Coordinator, by calling 412-648-7860, or e-mailing titleixcoordinator@pitt.edu. Reports can also be [filed online](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance/make-report/report-form). You may also choose to report this to a faculty/staff member; they are required to communicate this to the University’s Office of Diversity and Inclusion. If you wish to maintain complete confidentiality, you may also contact the University Counseling Center (412-648-7930).
 
 ## Health and Safety Statement
-During this pandemic, it is extremely important that you abide by the [public health regulations](https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx), the University of Pittsburgh’s [health standards and guidelines](https://www.policy.pitt.edu/university-policies-and-procedures/covid-19-standards-and-guidelines), and [Pitt’s Health Rules](https://www.coronavirus.pitt.edu/healthy-community/pitts-health-rules). These rules have been developed to protect the health and safety of all of us.  Universal face covering is required in all classrooms and in every building on campus, without exceptions, regardless of vaccination status. This means you must wear a face covering that properly covers your nose and mouth when you are in the classroom. If you do not comply, you will be asked to leave class.  It is your responsibility have the required face covering when entering a university building or classroom. For the most up-to-date information and guidance, please visit [coronavirus.pitt.edu](https://coronavirus.pitt.edu) and check your Pitt email for updates before each class.
+During this pandemic, it is extremely important that you abide by the [public health regulations](https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx), the University of Pittsburgh’s [health standards and guidelines](https://www.policy.pitt.edu/university-policies-and-procedures/covid-19-standards-and-guidelines), and [Pitt’s Health Rules](https://www.coronavirus.pitt.edu/healthy-community/pitts-health-rules). These rules have been developed to protect the health and safety of all of us.  
 
-If you are required to isolate or quarantine, become sick, or are unable to come to class, contact me as soon as possible to discuss arrangements.
+The University’s requirements for face coverings will at a minimum be consistent with [CDC guidance](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html) and masks are required indoors (campus buildings and shuttles) on campuses in which COVID-19 Community Levels are High. This means that when COVID-19 Community Levels are High, you must wear a face covering that properly covers your nose and mouth when you are in the classroom. If you do not comply, you will be asked to leave class. It is your responsibility to have the required face covering when entering a university building or classroom. Masks are encouraged, but optional indoors for campuses in which county levels are Medium or Low. Be aware of your [Community Level](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html) as it changes each Thursday. [Read answers to frequently asked questions regarding face coverings](https://www.coronavirus.pitt.edu/frequently-asked-questions-about-face-coverings). For the most up-to-date information and guidance, please visit [coronavirus.pitt.edu](https://coronavirus.pitt.edu) and check your Pitt email for updates before each class.
+
+If you are required to isolate or quarantine, become sick, or are unable to come to class,
+please inform me in a timely manner (if the situation permits).
+In such cases, it is your responsibility to catch up with
+the material that you miss using the asynchronously available video
+recordings. If extended absence and schedule adjustments are
+necessitated by unavoidable circumstances, please contact me
+for working out alternate arrangements as soon as the situation permits.
 
 ## Gender Inclusive Language Statement
 Language is gender-inclusive and non-sexist when we use words that affirm and respect how people describe, express, and experience their gender.  Gender-inclusive/non-sexist language acknowledges people of all genders (for example, first year student versus freshman, chair versus chairman, humankind versus mankind, everyone versus ladies and gentlemen, etc.).  It also affirms non-binary gender identifications, and recognizes both gender identity and expression.  Identities including trans, intersex, and genderqueer reflect personal descriptions, expressions, and experiences.  Just as sexist language excludes women’s experiences, gendered language excludes the experiences of individuals whose identifies may not fit the gender binary, and/or who may not identify with the sex they were assigned at birth.  Students, faculty, and staff have the right to control their own identity and to be referred to by the name and pronouns with which they identify.  People also have the right to maintain their privacy regarding information they do not wish to share about their identities, including gender identity and pronouns.
