@@ -42,7 +42,7 @@ ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) ad
 |B4 | Utilizing instrument(s) (i.e., sound-level meter, dosimeter, etc.) to determine ambient noise levels and providing strategies for reducing noise and reverberation time in educational, occupational, and other settings|
 |B7 | Participating in occupational hearing conservation programs|
 |B14| Evaluating the success of screening and prevention programs using performance measures|
-|F12| Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations [Check if covered elsewhere]|
+|F12| Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations |
 
 This course also addresses CAA standard 3.1.3A: Identification and prevention of hearing loss, tinnitus, and vestibular disorders.
 
