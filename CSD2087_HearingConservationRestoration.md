@@ -106,19 +106,19 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Aug 31 | Introduction: physics of sound and vibration, review of normal auditory function, importance of hearing preservation ||
-| Sep 07 | Common sources of hazardous noise and epidemiology; TTS and PTS; Cellular pathophysiology profiles induced by acoustic trauma; precision diagnostics||
-| Sep 14 | Auditory and non-auditory consequences of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors | A1 due|
-| Sep 28 | Hearing-loss prevention program overview: stakeholders, compliance-based approach, and national guidelines ||
-| Oct 05 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics |A2 due|
-| Oct 12 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD, derating schemes | **Note that an exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
-| Oct 19 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | A3 due; Midterm available|
-| Oct 26 | Education and motivation, program effectiveness evaluation, record keeping ||
-| Nov 02 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Midterm due|
-| Nov 09 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity ||
-| Nov 16 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) | A4 due|
+| Aug 31 | Introduction, Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
+| Sep 07 | Common sources of hazardous noise and epidemiology; TTS and PTS; Auditory and non-auditory consequences of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
+| Sep 14 | Hearing-loss prevention program overview: stakeholders, compliance-based approach, and national guidelines | A1 due|
+| Sep 28 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
+| Oct 05 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD, derating schemes |A2 due, **Note that an exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
+| Oct 12 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
+| Oct 19 | Education and motivation, program effectiveness evaluation, record keeping; Review | A3 due; Midterm available|
+| Oct 26 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors ||
+| Nov 02 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Midterm due|
+| Nov 09 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) ||
+| Nov 16 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | A4 due|
 | Nov 23 | **Thanksgiving Break -- No Class** ||
-| Nov 30 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | Final available |
+| Nov 30 | **Student presentations** | Final available |
 | Dec 07 | Pharmacological approaches to restoration and regeneration ||
 | Dec 14 | **Final Exam Due** ||
 
@@ -133,7 +133,7 @@ Student will accumulate points as described below.
 | Assignments (four) | 40% |
 | Midterm exam (take home) | 20% |
 | Final exam (take home) | 20% |
-| Research presentation  (by video recording) | 10% |
+| Research presentation  | 10% |
 
 
 The standard grading scale for our SLP and AuD programs will be used in this course. <br>
