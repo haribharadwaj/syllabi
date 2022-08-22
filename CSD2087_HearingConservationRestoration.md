@@ -106,19 +106,19 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Aug 31 | Introduction, Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
-| Sep 07 | Common sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram; Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
+| Aug 31 | Introduction: Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
+| Sep 07 | Sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram; Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
 | Sep 14 | Hearing-loss prevention program overview: stakeholders, compliance-based approach (minimal), and national guidelines | A1 due|
 | Sep 28 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
 | Oct 05 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD, derating schemes |A2 due, **Note that an exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
 | Oct 12 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
 | Oct 19 | Education and motivation, program effectiveness evaluation, record keeping; Review | A3 due; Midterm available|
-| Oct 26 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors ||
-| Nov 02 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Midterm due|
+| Oct 26 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Short report on HPD fit-testing due|
+| Nov 02 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Midterm due |
 | Nov 09 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) ||
 | Nov 16 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | A4 due|
 | Nov 23 | **Thanksgiving Break -- No Class** ||
-| Nov 30 | **Student presentations** | Final available |
+| Nov 30 | **Research presentations by students** | Final available |
 | Dec 07 | Pharmacological approaches to restoration and regeneration ||
 | Dec 14 | **Final Exam Due** ||
 
@@ -130,7 +130,8 @@ Student will accumulate points as described below.
 | Assessment Item | Weight |
 |-----------------|--------|
 | Class participation and contribution to peer learning | 10% |
-| Assignments (four) | 40% |
+| Assignments (four) | 32% |
+| Short report on HPD fit-testing | 8% |
 | Midterm exam (take home) | 20% |
 | Final exam (take home) | 20% |
 | Research presentation  | 10% |
@@ -153,6 +154,9 @@ F : below 60
 
 ## Remediations
 In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must maintain an overall grade level of C or better (i.e., total score of 76% or more). No automatic remediation options are available for this course.
+
+## Research Presentation
+Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as part of A4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic. 
 
 
 ## Attendance Policy
