@@ -107,8 +107,8 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Aug 31 | Introduction, Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
-| Sep 07 | Common sources of hazardous noise and epidemiology; TTS and PTS; Auditory and non-auditory consequences of acoustic overexposure beyond the audiogram; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
-| Sep 14 | Hearing-loss prevention program overview: stakeholders, compliance-based approach, and national guidelines | A1 due|
+| Sep 07 | Common sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram; Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
+| Sep 14 | Hearing-loss prevention program overview: stakeholders, compliance-based approach (minimal), and national guidelines | A1 due|
 | Sep 28 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
 | Oct 05 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD, derating schemes |A2 due, **Note that an exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
 | Oct 12 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
