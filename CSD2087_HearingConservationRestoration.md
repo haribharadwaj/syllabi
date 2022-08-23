@@ -17,7 +17,7 @@ Assistant Professor of Communication Sciences & Disorders <br>
 Assistant Professor of Bioengineering <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
-Office Hours: By appointment. Also see the "Discussion
+Office Hours: 1 hour for drop in, time TBA. By appointment. Also see the "Discussion
 Forum" section below.<br>
 
 
@@ -190,10 +190,9 @@ These materials may be protected by copyright. United States copyright law, 17 U
 
 See [Library of Congress Copyright Office](https://www.copyright.gov/) and the [University Copyright Policy](https://www.policy.pitt.edu/sites/default/files/Policies/Community-Standards/Policy_CS_03.pdf).
 
-## Equity, Diversity, and Inclusion [To change to CSD-specific language]
-The University of Pittsburgh does not tolerate any form of discrimination, harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, genetic information, marital status, familial status, sex, age, sexual orientation, veteran status or gender identity or other factors as stated in the University’s Title IX policy. The University is committed to taking prompt action to end a hostile environment that interferes with the University’s mission. For more information about policies, procedures, and practices, visit the [Civil Rights & Title IX Compliance web page](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance).
+## Equity, Diversity, and Inclusion
+The Department of Communication Science and Disorders welcomes and values all people and their wide range of experiences, backgrounds and perspectives.  Access the SLP MA/MS and AuD degree programs’ [Academic Handbook](https://www.shrs.pitt.edu/sites/default/files/2022-2023%20SLP%20and%20AuD%20Academic%20Handbook_6.09.2022.pdf) and go to page 6  to review the CSD policy related to equity, justice and inclusion as it applies to educational interactions.  In addition, use the link below for information on the [University of Pittsburgh’s Mission and Vision for Equity, Diversity and Justice](https://www.diversity.pitt.edu/about/mission-and-vision) and updated listings of campus activities and resources. 
 
-I ask that everyone in the class strive to help ensure that other members of this class can learn in a supportive and respectful environment. If there are instances of the aforementioned issues, please contact the Title IX Coordinator, by calling 412-648-7860, or e-mailing titleixcoordinator@pitt.edu. Reports can also be [filed online](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance/make-report/report-form). You may also choose to report this to a faculty/staff member; they are required to communicate this to the University’s Office of Diversity and Inclusion. If you wish to maintain complete confidentiality, you may also contact the University Counseling Center (412-648-7930).
 
 ## Health and Safety Statement
 During this pandemic, it is extremely important that you abide by the [public health regulations](https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx), the University of Pittsburgh’s [health standards and guidelines](https://www.policy.pitt.edu/university-policies-and-procedures/covid-19-standards-and-guidelines), and [Pitt’s Health Rules](https://www.coronavirus.pitt.edu/healthy-community/pitts-health-rules). These rules have been developed to protect the health and safety of all of us.  
