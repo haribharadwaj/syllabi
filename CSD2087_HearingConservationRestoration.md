@@ -17,7 +17,7 @@ Assistant Professor of Communication Sciences & Disorders <br>
 Assistant Professor of Bioengineering <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
-Office Hours: 1 hour for drop in, time TBA. By appointment. Also see the "Discussion
+Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hourse are available by appointment. Also, see the "Discussion
 Forum" section below.<br>
 
 
