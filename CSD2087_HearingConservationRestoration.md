@@ -14,7 +14,6 @@ CSD 2087 1000-SEM(31183) Fall 2022 <br>
 ## Instructor
 Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor of Communication Sciences & Disorders <br>
-Assistant Professor of Bioengineering <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
 Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hourse are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
