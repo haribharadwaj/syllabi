@@ -17,7 +17,7 @@ Assistant Professor of Communication Sciences & Disorders <br>
 Assistant Professor of Bioengineering <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
-Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hourse are available by appointment. Also, see the "Discussion
+Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hourse are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
 
@@ -154,8 +154,7 @@ D : 63 - 66 <br>
 D-: 60 - 62 <br>
 F : below 60
 
-## Remediations
-In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must maintain an overall grade level of C or better (i.e., total score of 76% or more). No automatic remediation options are available for this course.
+In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must obtain an overall grade level of C or better (i.e., total score of 76% or more). No automatic remediation options are available for this course.
 
 ## Research Presentation
 Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as part of A4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic. 
