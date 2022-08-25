@@ -24,12 +24,12 @@ Forum" section below.<br>
 Trauma to the ear from sound and ototoxic agents is often preventable. This course will focus on 1) the epidemiology of such trauma, and understanding the mechanisms that damage the inner ear, 2) selection and implementation of hearing protection methods including noise control, physical hearing protection, and pharmacological otoprotective agents, 3) understanding and implementing national guidelines for hearing protection programs and overseeing ototoxicity monitoring programs in medical and clinical-trial contexts, 4) exploring the emerging area of hearing restoration post trauma.
 
 ## Learning Outcomes
-1. Understand the auditory and non-auditory effects of acoustic overexposure.
+1. Describe the auditory and non-auditory effects of acoustic overexposure.
 2. Identify the key components of hearing-loss prevention programs, and design protocols and materials for implementing national guidelines for hearing protection.
 3. Perform environmental acoustic measurements, personal exposure assessments, selection of hearing protection devices, and estimation of real-world acoustic attentuation provided by such devices for an individual user.
-4. Understand basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
+4. Describe basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
 5. Develop materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
-6. Understand the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap), and identify candidate targets and agents for otoprotection and restoration.
+6. Apply knowledge about the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap), to identify candidate targets and agents for otoprotection and restoration.
 
 
 ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include:
@@ -153,7 +153,7 @@ D : 63 - 66 <br>
 D-: 60 - 62 <br>
 F : below 60
 
-In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must obtain an overall grade level of C or better (i.e., total score of 76% or more). No automatic remediation options are available for this course.
+The four assignments and the short report on HPD fit-testing are each worth 8 points. In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must score 75% or more in each of those assignments (i.e., score of 6 or higher out of 8 points) **and** maintain an overall grade level of C or higher (i.e., 76% or more). If you score below the criterion level in any of the individual assignments, you will be given the opportunity to remediate by resubmitting the assignments on Canvas. The deadlines for resubmission will be worked out by the instructor in discussion with individual students on a case-by-case basis. No remediation options are available for the exams. If your overall grade drops below a C, you may be required to retake the course.
 
 ## Research Presentation
 Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as part of A4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic. 
