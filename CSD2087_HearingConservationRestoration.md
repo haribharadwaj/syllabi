@@ -29,7 +29,7 @@ Trauma to the ear from sound and ototoxic agents is often preventable. This cour
 3. Perform environmental acoustic measurements, personal exposure assessments, selection of hearing protection devices, and estimation of real-world acoustic attentuation provided by such devices for an individual user.
 4. Describe basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
 5. Develop materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
-6. Apply knowledge about the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap), to identify candidate targets and agents for otoprotection and restoration.
+6. Apply knowledge about the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap) to identify candidate targets and agents for otoprotection and restoration.
 
 
 ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include:
