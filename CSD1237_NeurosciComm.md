@@ -106,9 +106,9 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Feb 15 | Neuroscience methods: Lesions, neurostimulation ||
 | Feb 20 | Functional specialization vs. Distributed processing ||
 | Feb 22 | Network neuroscience/connectomics ||
-| Feb 27 | Auditory neuroscience: Introduction ||
-| Mar 01 | Auditory neuroscience: Time and place coding, pitch, grouping ||
-| Mar 03 | Auditory neuroscience: Hearing through a cochlear implant||
+| Feb 27 | Auditory neuroscience: Introduction; Time and place coding; Evoked potentials from the early auditory pathway||
+| Mar 01 | Auditory neuroscience: Hearing through a cochlear implant ||
+| Mar 03 | Auditory neuroscience: Pitch, Grouping ||
 | Mar 06 | *Spring break* ||
 | Mar 08 | *Spring break* ||
 | Mar 13 | Auditory neuroscience: Categorical perception ||
