@@ -46,7 +46,7 @@ We will use a group discussion board within  Canvas
 for Q&A and discussion. Rather than emails, using the discussion board is the
 preferred method for asking questions outside class.
 
-Using thhe discussion board allows for getting help
+Using the discussion board allows for getting help
 quickly and efficiently both from classmates, and the instructor. You are
 encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
@@ -56,7 +56,7 @@ hearing preservation and restoration that you think would be interesting and/or 
 
 
 ## Assignments and projects
-Assignments (four) will typically be made available a week before they are due (sometimes 2 weeks).
+Assignments will typically be made available a week before they are due (sometimes 2 weeks).
 Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, designing neuroscience experiments, participating in or observing simple experiments, querying webpages of research labs/standardized databases, and watching/summarizing video presentations by other professionals/scientists. All assignments are due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Projects are essentially extended assignments with the added feature that they are individualized (student selected).
 
 
