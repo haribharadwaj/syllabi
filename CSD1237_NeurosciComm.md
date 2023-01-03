@@ -7,11 +7,11 @@
 ## Registration information
 CSD 1237 1010-LEC (26016) Spring 2023 <br>
 **Time**:  Mo/We 08:30 -- 09:50 am <br>
-**Dates**: 08/29/2022 - 12/17/2022 <br>
+**Dates**: 01/09/2023 - 04/26/2023 <br>
 **Location**: 4060 Forbes Tower <br>
 **Credits**: 3 <br>
 
-## Instructor
+## Instructors
 Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor of Communication Science and Disorders <br>
 Office: Forbes Tower 5063<br>
@@ -19,6 +19,7 @@ e-Mail: <hari.bharadwaj@pitt.edu><br>
 Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
+Maggie Zink, M.S.
 
 ## Description
 This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
@@ -67,7 +68,7 @@ them over (up to) three assignments. You can also use them for projects.
 Note however that part-day delays (e.g., late by 6 hours) will count as
 1 whole day of quota being used up.
 No submissions will be accepted, even if you have unused late days,
-after April 28, 2022 (Friday of final exam week). Exceptions will be made
+after April 28, 2023 (Friday of final exam week). Exceptions will be made
 to the 3-day rule only in unavoidable circumstances (e.g., extended
 health<sup>[1](#fn1)</sup> issue) about which you discuss with the instructor as soon as
 the situation permits, and make alternate arrangements.
