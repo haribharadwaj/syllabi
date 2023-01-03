@@ -21,15 +21,7 @@ Forum" section below.<br>
 
 
 ## Description
-This course describes the fundamentals of human brain structure and function as relevant to human communication. Methods used to probe the neural bases of speech, language, and hearing function along with current research findings are addressed. An understanding of how the brain processes speech and language provides insight into neurological disorders that affect communication.
-
-## Learning Outcomes
-1. Understand the auditory and non-auditory effects of acoustic overexposure.
-2. Identify the key components of hearing-loss prevention programs, and design protocols and materials for implementing national guidelines for hearing protection.
-3. Perform environmental acoustic measurements, personal exposure assessments, selection of hearing protection devices, and estimation of real-world acoustic attentuation provided by such devices for an individual user.
-4. Understand basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
-5. Develop materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
-6. Understand the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap), and identify candidate targets and agents for otoprotection and restoration.
+This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
 
 
 ## Learning Resources, Technology, & Texts
@@ -42,14 +34,11 @@ Materials may also be hosted elsewhere and links provided on Canvas.
 
 
 ### Textbooks
-There are **no** required textbooks. Readings from primary literature, class notes/slides, and other handouts/resources will be posted on Canvas.
+Because human neuroscience is a fast-paced field, there are **no** required textbooks. Readings from primary literature, class notes/slides, and other handouts/resources will be posted on Canvas. The following two references provide overviews of many of topics discussed in this course. While the former (Andreatta, 2024) takes a medical neurobiology perspective and is written as a textbook, the latter (Poeppel, Mangun, and Gazzinage, 2020) is a compiled comprehensive reference from a cognititve neuroscience perspective with chapters contributed by experts on each topic.
 
+1. Andreatta, R.D. (2024). Neuroscience Fundamentals for Communication Sciences and Disorders, Second Edition. Plural Publishing. ISBN: 9781635503593.
+2. Poeppel, D., Mangun, G.R., and Gazzaniga, M.S. (2020).The Cognitive Neurosciences, Sixth Edition. The MIT Press. ISBN: 9780262043250
 
-### Supplemental References
-1. Meinke DK, Berger EH, Driscoll DP, Neitzel RL, & Bright K (2022). *The Noise Manual, 6th edition*. American Industrial Hygiene Association. ISBN: 978-1-9502-8607-2.
-2. Campbell KCM (2007), Pharmacology and Ototoxicity for Audiologists. Thomson/Delmar Learning. ISBN: 978-1-4180-1130-7.
-3. Hatzopoulos S (2021). *Advances in Audiology and Hearing Science, Volume 2, Part III: Otoprotection and Regeneration*. Apple Academic Press. ISBN: 978-1-7746-3180-5.
-4. Le Prell CG, Henderson D, & Fay RR (2012). *Noise-induced hearing loss*. Springer Handbook of Auditory Research (SHAR Volume 40). ISBN: 978-1-4419-9523-0.
 
 ### Discussion Forum
 We will use a group discussion board within  Canvas
@@ -65,22 +54,22 @@ You are also encouraged to share any ideas, articles, videos, or other resources
 hearing preservation and restoration that you think would be interesting and/or beneficial to others.
 
 
-## Assignments and exams
+## Assignments and projects
 Assignments (four) will typically be made available a week before they are due (sometimes 2 weeks).
-Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, and developing protocols/materials for clinical use. Some assignments will also involve hands-on measurements (e.g., environmental and personal noise assessments, HPD attenuation measurements), querying standardized databases (e.g., [FDA MedWatch](https://www.fda.gov/medwatch), [ClinicalTrials.gov](https://clinicaltrials.gov)), and watching/summarizing video presentations by other professionals/scientists. Submitted work will consist of electronic files (PDF) uploaded through Canvas. All assignments are due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Exams are essentially extended assignments with the added constraint that you cannot discuss the contents with other people.
+Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, designing neuroscience experiments, participating in or observing simple experiments, querying webpages of research labs/standardized databases, and watching/summarizing video presentations by other professionals/scientists. All assignments are due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Projects are essentially extended assignments with the added feature that they are individualized (student selected).
 
 
 There is a quota of **three total late** days you can use
 throughout the semester to manage unanticipated pressing events that may
 prevent you from submitting assignments on time. Save and use them
 judiciously. You can use all three days for one assignment or spread
-them over (up to) three assignments. You can also use them for take-home exams.
-Note however that part-day delays (e.g., late by 2 hours) will count as
+them over (up to) three assignments. You can also use them for projects.
+Note however that part-day delays (e.g., late by 6 hours) will count as
 1 whole day of quota being used up.
 No submissions will be accepted, even if you have unused late days,
-after Dec 16, 2022 (Friday of final exam week). Exceptions will be made
+after April 28, 2022 (Friday of final exam week). Exceptions will be made
 to the 3-day rule only in unavoidable circumstances (e.g., extended
-health<sup>[1](#fn1)</sup> issue) about which you discuss with me as soon as
+health<sup>[1](#fn1)</sup> issue) about which you discuss with the instructor as soon as
 the situation permits, and make alternate arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
@@ -88,48 +77,46 @@ the situation permits, and make alternate arrangements.
 
 ## Tentative schedule
 
-Each class will be broken into two sessions of about 55 mins each with a 10-minute break in between.
-
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Jan 09 | Introduction; Neurons, Glia, and Progenitor cells ||
-| Jan 11 | Tumors affecting the nervous system; Neurodegenerative diseases ||
+| Jan 11 | Brief foray into tumors affecting the nervous system, and neurodegenerative diseases ||
 | Jan 16 | *Dr. Martin Luther King’s birthday observance*||
-| Jan 18 | Review of neuroanatomy from a developmental perspective||
-| Jan 23 | Overview of long/large pathways||
+| Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective||
+| Jan 23 | Overview of long/large pathways ||
 | Jan 25 | Neuroscience methods: Introduction; Marr's tri-level analysis||
-| Feb 01 | Neuroscience methods: Computational theory and ill-posed problems (e.g. Color vision, cocktail-party problem, word learning) ||
-| Feb 03 | Neuroscience methods: Representation/coding; psychophysics (e.g., Visual motion perception, spatial hearing) ||
+| Feb 01 | Neuroscience methods: Computational theory and ill-posed problems (e.g. cocktail-party hearing vs. digital communication systems, word learning) ||
+| Feb 03 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., Visual motion perception, spatial hearing) ||
 | Feb 06 | Neuroscience methods: fMRI ||
 | Feb 08 | Neuroscience methods: EEG and MEG||
 | Feb 13 | Neuroscience methods: Experiment design ||
 | Feb 15 | Neuroscience methods: Lesions, neurostimulation ||
-| Feb 20 | Functional specialization vs. Distributed processing ||
+| Feb 20 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning ||
 | Feb 22 | Network neuroscience/connectomics ||
-| Feb 27 | Auditory neuroscience: Introduction; Time and place coding; Evoked potentials from the early auditory pathway||
+| Feb 27 | Auditory neuroscience: Introduction; Time and place coding; Phase-locked responses with EEG and MEG||
 | Mar 01 | Auditory neuroscience: Hearing through a cochlear implant ||
 | Mar 03 | Auditory neuroscience: Pitch, Grouping ||
 | Mar 06 | *Spring break* ||
 | Mar 08 | *Spring break* ||
-| Mar 13 | Auditory neuroscience: Categorical perception ||
+| Mar 13 | Auditory neuroscience: Categorical perception and sound identification ||
 | Mar 15 | Language: Language vs. thought ||
 | Mar 20 | Language: Phonological processing ||
 | Mar 22 | Language: Lexical and semantic processing ||
-| Mar 27 | Attention: Salience and deviance detection; top-down attention ||
-| Mar 29 | Attention: Cocktail party problem revisited; training and neurofeedback ||
-| Apr 03 | Memory ||
-| Apr 05 | Motor control: Introduction, reflexes, and central pattern generators ||
-| Apr 10 | Motor control: Speech primitives and praxis ||
-| Apr 12 | Motor control: Decoding and brain-computer interfaces ||
-| Apr 17 | Motor control: Modulation and deep-brain stimulation ||
-| Apr 19 | Aging and cognitive decline ||
+| Mar 27 | Motor control: Introduction, reflexes, and central pattern generators ||
+| Mar 29 | Motor control: Speech primitives and praxis ||
+| Apr 03 | Motor control: Decoding and brain-computer interfaces ||
+| Apr 05 | Motor control: Modulation and deep-brain stimulation ||
+| Apr 10 | Attention: Salience and deviance detection; top-down attention ||
+| Apr 12 | Attention: Cocktail party problem revisited; training and neurofeedback ||
+| Apr 17 | Aging I ||
+| Apr 19 | Aging II ||
 | Apr 24 | *Finals week* ||
 | Apr 26 | *Finals week* ||
 
 ## Some disorders/conditions discussed
 
-1. Neurodegenerative diseases: Alzhiemer's disease, Huntington's disease, Parkinson's disease, Prion diseases
-2. Vestibular schwannoma, meningioma
+1. Neurodegenerative diseases: Alzhiemer's, Parkinson's disease, Huntington's, Prion diseases
+2. Vestibular schwannoma, meningioma, pituitary adenoma
 3. Spina bifida, Waardenburg-Hirschsprung disease
 4. Sensorineural hearing loss
 5. Prosopagnosia
@@ -155,12 +142,11 @@ Student will accumulate points as described below.
 
 | Assessment Item | Weight |
 |-----------------|--------|
-| Class participation and contribution to peer learning | 10% |
-| Assignments (four) | 32% |
-| Short report on HPD fit-testing | 8% |
-| Midterm exam (take home) | 20% |
-| Final exam (take home) | 20% |
-| Research presentation  | 10% |
+| Participation and contribution to peer learning | 10% |
+| Assignments (ten) | 60% |
+| Midterm project | 15% |
+| Final project | 15% |
+
 
 
 The standard grading scale for our SLP and AuD programs will be used in this course. <br>
@@ -178,11 +164,7 @@ D : 63 - 66 <br>
 D-: 60 - 62 <br>
 F : below 60
 
-In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must obtain an overall grade level of C or better (i.e., total score of 76% or more). No automatic remediation options are available for this course.
-
-## Research Presentation
-Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as part of A4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic. 
-
+ 
 
 ## Attendance Policy
 Although face-to-face meeting in class is the primary modality of instruction,
@@ -240,7 +222,7 @@ For general information about mental health, see the
 website.](https://www.nimh.nih.gov/health/)
 
 
-Graduate school can be an exciting and challenging time. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive. If you find yourself beginning to feel some stress, anxiety, and/or
+School can be an exciting and challenging time. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive. If you find yourself beginning to feel some stress, anxiety, and/or
 feeling slightly overwhelmed, one option is to try
 [TAO](http://www.studentaffairs.pitt.edu/cc/therapy-assistance-online/) (available for free with your
 Pitt login, sign in to find information and tools at any time), or
