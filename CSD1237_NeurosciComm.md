@@ -13,13 +13,17 @@ CSD 1237 1010-LEC (26016) Spring 2023 <br>
 
 ## Instructors
 Hari M. Bharadwaj, Ph.D.<br>
-Assistant Professor of Communication Science and Disorders <br>
+Assistant Professor, Communication Science and Disorders <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
 Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
-Maggie Zink, M.S.
+Maggie Zink, ??<br>
+Ph.D. Student, Communication Science and Disorders <br>
+Office: Forbes Tower ??<br>
+e-Mail: <hari.bharadwaj@pitt.edu><br>
+Office Hours: ??
 
 ## Description
 This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
@@ -85,12 +89,12 @@ the situation permits, and make alternate arrangements.
 | Jan 16 | *NO CLASS: Dr. Martin Luther King’s birthday observance*||
 | Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective||
 | Jan 23 | Overview of long/large pathways, negative and positive "signs" from lesions ||
-| Jan 25 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing vs. digital communication systems, word learning)||
-| Feb 01 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., Visual motion perception, spatial hearing) ||
-| Feb 03 | Neuroscience methods: fMRI, EEG and MEG ||
-| Feb 06 | Neuroscience methods: Experiment design ||
-| Feb 08 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation||
-| Feb 13 | Neuroscience methods: What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning ||
+| Jan 25 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning||
+| Feb 01 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing vs. digital communication systems, word learning) ||
+| Feb 03 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., Visual motion perception, spatial hearing) ||
+| Feb 06 | Neuroscience methods: fMRI; EEG and MEG ||
+| Feb 08 | Neuroscience methods: Experiment design||
+| Feb 13 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation ||
 | Feb 15 | Neuroscience methods: Network neuroscience/connectomics ||
 | Feb 20 | Auditory neuroscience: Introduction; Time and place coding; Phase-locked responses with EEG and MEG ||
 | Feb 22 | Auditory neuroscience: Hearing through a cochlear implant ||
@@ -116,7 +120,7 @@ the situation permits, and make alternate arrangements.
 
 ## Index of disorders/conditions discussed
 
-1. Alzhiemer's, Parkinson's, Huntington's, Prion diseases
+1. Alzhiemer's, Parkinson's, Huntington's, Prion diseases, ALS
 2. Vestibular schwannoma, meningioma, pituitary adenoma
 3. Spina bifida, Waardenburg-Hirschsprung disease
 4. Sensorineural hearing loss
