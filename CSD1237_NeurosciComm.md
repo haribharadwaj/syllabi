@@ -118,7 +118,7 @@ the situation permits, and make alternate arrangements.
 | Apr 24 | *Finals week* ||
 | Apr 26 | *Finals week* ||
 
-## Index of disorders/conditions discussed
+## Index of disorders/conditions discussed (just a tentative list to add to)
 
 1. Alzhiemer's, Parkinson's, Huntington's, Prion diseases, ALS
 2. Vestibular schwannoma, meningioma, pituitary adenoma
@@ -127,7 +127,7 @@ the situation permits, and make alternate arrangements.
 5. Anxiety and depression
 6. Tinnitus
 7. Auditory neuropathy
-8. Apraxia of speech
+8. Apraxia of speech, neurogenic dysfluency
 9. Aphasia
 10. Dysarthria
 11. Specific language impairment
