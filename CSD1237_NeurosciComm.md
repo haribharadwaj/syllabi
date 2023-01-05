@@ -81,46 +81,46 @@ the situation permits, and make alternate arrangements.
 | Date   | Topic | Comments |
 |--------|-------|----------|
 | Jan 09 | Introduction; Neurons, Glia, and Progenitor cells ||
-| Jan 11 | Brief foray into tumors affecting the nervous system, and neurodegenerative diseases ||
-| Jan 16 | *Dr. Martin Luther King’s birthday observance*||
+| Jan 11 | Brief forays into tumors affecting the nervous system and neurodegenerative diseases ||
+| Jan 16 | *NO CLASS: Dr. Martin Luther King’s birthday observance*||
 | Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective||
-| Jan 23 | Overview of long/large pathways ||
-| Jan 25 | Neuroscience methods: Introduction; Marr's tri-level analysis||
-| Feb 01 | Neuroscience methods: Computational theory and ill-posed problems (e.g. cocktail-party hearing vs. digital communication systems, word learning) ||
-| Feb 03 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., Visual motion perception, spatial hearing) ||
-| Feb 06 | Neuroscience methods: fMRI ||
-| Feb 08 | Neuroscience methods: EEG and MEG||
-| Feb 13 | Neuroscience methods: Experiment design ||
-| Feb 15 | Neuroscience methods: Lesions, neurostimulation ||
-| Feb 20 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning ||
-| Feb 22 | Network neuroscience/connectomics ||
-| Feb 27 | Auditory neuroscience: Introduction; Time and place coding; Phase-locked responses with EEG and MEG||
-| Mar 01 | Auditory neuroscience: Hearing through a cochlear implant ||
-| Mar 03 | Auditory neuroscience: Pitch, Grouping ||
-| Mar 06 | *Spring break* ||
-| Mar 08 | *Spring break* ||
-| Mar 13 | Auditory neuroscience: Categorical perception and sound identification ||
-| Mar 15 | Language: Language vs. thought ||
-| Mar 20 | Language: Phonological processing ||
-| Mar 22 | Language: Lexical and semantic processing ||
-| Mar 27 | Motor control: Introduction, reflexes, and central pattern generators ||
-| Mar 29 | Motor control: Speech primitives and praxis ||
-| Apr 03 | Motor control: Decoding and brain-computer interfaces ||
-| Apr 05 | Motor control: Modulation and deep-brain stimulation ||
-| Apr 10 | Attention: Salience and deviance detection; top-down attention ||
-| Apr 12 | Attention: Cocktail party problem revisited; training and neurofeedback ||
-| Apr 17 | Aging I ||
-| Apr 19 | Aging II ||
+| Jan 23 | Overview of long/large pathways, negative and positive "signs" from lesions ||
+| Jan 25 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing vs. digital communication systems, word learning)||
+| Feb 01 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., Visual motion perception, spatial hearing) ||
+| Feb 03 | Neuroscience methods: fMRI, EEG and MEG ||
+| Feb 06 | Neuroscience methods: Experiment design ||
+| Feb 08 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation||
+| Feb 13 | Neuroscience methods: What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning ||
+| Feb 15 | Neuroscience methods: Network neuroscience/connectomics ||
+| Feb 20 | Auditory neuroscience: Introduction; Time and place coding; Phase-locked responses with EEG and MEG ||
+| Feb 22 | Auditory neuroscience: Hearing through a cochlear implant ||
+| Feb 27 | Auditory neuroscience: Pitch and music, Grouping and scene analysis||
+| Mar 01 | Auditory neuroscience: Categorical perception and sound identification ||
+| Mar 03 | Language: Language vs. thought; Language beyond communication modalities ||
+| Mar 06 | *NO CLASS: Spring break* ||
+| Mar 08 | *NO CLASS: Spring break* ||
+| Mar 13 | Language: Phonological processing ||
+| Mar 15 | Language: Lexical and semantic processing ||
+| Mar 20 | Motor control: Introduction, reflexes, and central pattern generators ||
+| Mar 22 | Motor control: Speech primitives and praxis ||
+| Mar 27 | Motor control: Decoding and brain-computer interfaces ||
+| Mar 29 | Motor control: Modulation and deep-brain stimulation ||
+| Apr 03 | Attention: Salience and deviance detection; top-down attention ||
+| Apr 05 | Attention: Cocktail party problem revisited; training and neurofeedback ||
+| Apr 10 | Interactions between sensory processing and cognitive deficits I ||
+| Apr 12 | Interactions between sensory processing and cognitive deficits II ||
+| Apr 17 | Review and discussion of (additional) cases/papers I ||
+| Apr 19 | Review and discussion of (additional) cases/papers II ||
 | Apr 24 | *Finals week* ||
 | Apr 26 | *Finals week* ||
 
-## Some disorders/conditions discussed
+## Index of disorders/conditions discussed
 
-1. Neurodegenerative diseases: Alzhiemer's, Parkinson's disease, Huntington's, Prion diseases
+1. Alzhiemer's, Parkinson's, Huntington's, Prion diseases
 2. Vestibular schwannoma, meningioma, pituitary adenoma
 3. Spina bifida, Waardenburg-Hirschsprung disease
 4. Sensorineural hearing loss
-5. Prosopagnosia
+5. Anxiety and depression
 6. Tinnitus
 7. Auditory neuropathy
 8. Apraxia of speech
@@ -130,7 +130,7 @@ the situation permits, and make alternate arrangements.
 12. Autism-spectrum disorder
 13. Dyslexia
 14. William's syndrome
-15. Tremors
+15. Tremors (broadly)
 16. Dysphagia
 17. Demyelinating diseases: MS, GB, CMT
 
