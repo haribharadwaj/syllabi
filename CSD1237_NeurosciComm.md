@@ -22,7 +22,7 @@ Forum" section below.<br>
 Maggie Zink, ??<br>
 Ph.D. Student, Communication Science and Disorders <br>
 Office: Forbes Tower ??<br>
-e-Mail: <hari.bharadwaj@pitt.edu><br>
+e-Mail: <zink.me@pitt.edu><br>
 Office Hours: ??
 
 ## Description
