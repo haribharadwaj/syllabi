@@ -19,11 +19,11 @@ e-Mail: <hari.bharadwaj@pitt.edu><br>
 Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
-Maggie Zink, ??<br>
+Maggie Zink, B.S., B.A.<br>
 Ph.D. Student, Communication Science and Disorders <br>
-Office: Forbes Tower ??<br>
+Office: Forbes Tower 5054<br>
 e-Mail: <zink.me@pitt.edu><br>
-Office Hours: ??
+Office Hours: Virtual office hour Mondays 10AM-11AM (Zoom: https://pitt.zoom.us/my/maggiezink, Meeting ID: 689 264 2505). In addition, office hours are available by appointment (send me a message via e-mail).
 
 ## Description
 This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
@@ -51,7 +51,7 @@ for Q&A and discussion. Rather than emails, using the discussion board is the
 preferred method for asking questions outside class.
 
 Using the discussion board allows for getting help
-quickly and efficiently both from classmates, and the instructor. You are
+quickly and efficiently both from classmates, and the instructors. You are
 encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
 However, please do *not* share explicit solutions to assignments, exams etc.
@@ -74,7 +74,7 @@ Note however that part-day delays (e.g., late by 6 hours) will count as
 No submissions will be accepted, even if you have unused late days,
 after April 28, 2023 (Friday of final exam week). Exceptions will be made
 to the 3-day rule only in unavoidable circumstances (e.g., extended
-health<sup>[1](#fn1)</sup> issue) about which you discuss with the instructor as soon as
+health<sup>[1](#fn1)</sup> issue) about which you discuss with the instructor(s) as soon as
 the situation permits, and make alternate arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
