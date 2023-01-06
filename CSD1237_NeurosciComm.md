@@ -56,7 +56,7 @@ encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
 However, please do *not* share explicit solutions to assignments, exams etc.
 You are also encouraged to share any ideas, articles, videos, or other resources related to 
-hearing preservation and restoration that you think would be interesting and/or beneficial to others.
+neuroscience of communication that you think would be interesting and/or beneficial to others.
 
 
 ## Assignments and projects
