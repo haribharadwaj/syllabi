@@ -66,7 +66,7 @@ Assignments will typically involve integrating concepts/content discussed in cla
 
 There is a quota of **three total late** days you can use
 throughout the semester to manage unanticipated pressing events that may
-prevent you from submitting assignments on time. Save and use them
+prevent you from submitting assignments/projects on time. Save and use them
 judiciously. You can use all three days for one assignment or spread
 them over (up to) three assignments. You can also use them for projects.
 Note however that part-day delays (e.g., late by 6 hours) will count as
@@ -86,37 +86,36 @@ the situation permits, and make alternate arrangements.
 |--------|-------|----------|
 | Jan 09 | Introduction; Neurons, Glia, and Progenitor cells ||
 | Jan 11 | Brief forays into tumors affecting the nervous system and neurodegenerative diseases ||
-| Jan 16 | *NO CLASS: Dr. Martin Luther King’s birthday observance*||
+| Jan 16 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
 | Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective||
 | Jan 23 | Overview of long/large pathways, negative and positive "signs" from lesions ||
 | Jan 25 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning||
-| Feb 01 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing vs. digital communication systems, word learning) ||
-| Feb 03 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., Visual motion perception, spatial hearing) ||
+| Feb 01 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing, word learning) ||
+| Feb 03 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., visual motion perception, spatial hearing) ||
 | Feb 06 | Neuroscience methods: fMRI; EEG and MEG ||
-| Feb 08 | Neuroscience methods: Experiment design||
+| Feb 08 | Neuroscience methods: Experiment design| Midterm project introduction|
 | Feb 13 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation ||
 | Feb 15 | Neuroscience methods: Network neuroscience/connectomics ||
-| Feb 20 | Auditory neuroscience: Introduction; Time and place coding; Phase-locked responses with EEG and MEG ||
+| Feb 20 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG ||
 | Feb 22 | Auditory neuroscience: Hearing through a cochlear implant ||
-| Feb 27 | Auditory neuroscience: Pitch and music, Grouping and scene analysis||
-| Mar 01 | Auditory neuroscience: Categorical perception and sound identification ||
+| Feb 27 | Auditory neuroscience: Pitch; Grouping and scene analysis||
+| Mar 01 | Speech: Categorical perception and sound identification ||
 | Mar 03 | Language: Language vs. thought; Language beyond communication modalities ||
 | Mar 06 | *NO CLASS: Spring break* ||
 | Mar 08 | *NO CLASS: Spring break* ||
 | Mar 13 | Language: Phonological processing ||
 | Mar 15 | Language: Lexical and semantic processing ||
-| Mar 20 | Motor control: Introduction, reflexes, and central pattern generators ||
+| Mar 20 | Motor control: Motor hierarchy, reflexes, central pattern generators, modulation ||
 | Mar 22 | Motor control: Speech primitives and praxis ||
-| Mar 27 | Motor control: Decoding and brain-computer interfaces ||
-| Mar 29 | Motor control: Modulation and deep-brain stimulation ||
+| Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou|
+| Mar 29 | Motor control: Decoding and brain-computer interfaces; deep-brain stimulation ||
 | Apr 03 | Attention: Salience and deviance detection; top-down attention ||
 | Apr 05 | Attention: Cocktail party problem revisited; training and neurofeedback ||
 | Apr 10 | Interactions between sensory processing and cognitive deficits I ||
 | Apr 12 | Interactions between sensory processing and cognitive deficits II ||
 | Apr 17 | Review and discussion of (additional) cases/papers I ||
 | Apr 19 | Review and discussion of (additional) cases/papers II ||
-| Apr 24 | *Finals week* ||
-| Apr 26 | *Finals week* ||
+| Apr 24-28 | *Finals week*: No exam; Review and comment on final projects of peers on Canvas (last assignment) ||
 
 ## Index of disorders/conditions discussed (just a tentative list to add to)
 
@@ -201,7 +200,16 @@ These materials may be protected by copyright. United States copyright law, 17 U
 See [Library of Congress Copyright Office](https://www.copyright.gov/) and the [University Copyright Policy](https://www.policy.pitt.edu/sites/default/files/Policies/Community-Standards/Policy_CS_03.pdf).
 
 ## Equity, Diversity, and Inclusion
-The Department of Communication Science and Disorders welcomes and values all people and their wide range of experiences, backgrounds and perspectives.  Access the SLP MA/MS and AuD degree programs’ [Academic Handbook](https://www.shrs.pitt.edu/sites/default/files/2022-2023%20SLP%20and%20AuD%20Academic%20Handbook_6.09.2022.pdf) and go to page 6  to review the CSD policy related to equity, justice and inclusion as it applies to educational interactions.  In addition, use the link below for information on the [University of Pittsburgh’s Mission and Vision for Equity, Diversity and Justice](https://www.diversity.pitt.edu/about/mission-and-vision) and updated listings of campus activities and resources. 
+The University of Pittsburgh does not tolerate any form of discrimination, harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, genetic information, marital status, familial status, sex, age, sexual orientation, veteran status or gender identity or other factors as stated in the University’s Title IX policy. The University is committed to taking prompt action to end a hostile environment that interferes with the University’s mission. For more information about policies, procedures, and practices, visit the [Civil Rights & Title IX Compliance web page](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance).
+
+I ask that everyone in the class strive to help ensure that other members of this class can learn in a supportive and respectful environment. If there are instances of the aforementioned issues, please contact the Title IX Coordinator, by calling 412-648-7860, or e-mailing titleixcoordinator@pitt.edu. Reports can also be filed online. You may also choose to report this to a faculty/staff member; they are required to communicate this to the University’s Office of Diversity and Inclusion. If you wish to maintain complete confidentiality, you may also contact the University Counseling Center (412-648-7930).
+
+The Department of Communication Science and Disorders welcomes and values all people and their wide range of experiences, backgrounds and perspectives.  Access the SLP MA/MS and AuD degree programs’ [Academic Handbook](https://www.shrs.pitt.edu/sites/default/files/2022-2023%20SLP%20and%20AuD%20Academic%20Handbook_6.09.2022.pdf) and go to page 6  to review the CSD policy related to equity, justice and inclusion as it applies to educational interactions.
+
+The School of Health and Rehabilitation Sciences is proudly committed to equity, inclusion and community engagement. More information [can be found on the dedicated SHRS website](https://www.shrs.pitt.edu/inclusion).
+
+
+
 
 
 ## Health and Safety Statement
@@ -220,6 +228,7 @@ for working out alternate arrangements as soon as the situation permits.
 ## Gender Inclusive Language Statement
 Language is gender-inclusive and non-sexist when we use words that affirm and respect how people describe, express, and experience their gender.  Gender-inclusive/non-sexist language acknowledges people of all genders (for example, first year student versus freshman, chair versus chairman, humankind versus mankind, everyone versus ladies and gentlemen, etc.).  It also affirms non-binary gender identifications, and recognizes both gender identity and expression.  Identities including trans, intersex, and genderqueer reflect personal descriptions, expressions, and experiences.  Just as sexist language excludes women’s experiences, gendered language excludes the experiences of individuals whose identifies may not fit the gender binary, and/or who may not identify with the sex they were assigned at birth.  Students, faculty, and staff have the right to control their own identity and to be referred to by the name and pronouns with which they identify.  People also have the right to maintain their privacy regarding information they do not wish to share about their identities, including gender identity and pronouns.
 
+Finally, we, as instructors, can be flawed and accidentally overlook gendered-language. If you notice that we do, please e-mail us to notify and allow us to correct our future presentations.
 
 ## Mental Health Statement
 For general information about mental health, see the
