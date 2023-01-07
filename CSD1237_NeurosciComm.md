@@ -87,37 +87,37 @@ the situation permits, and make alternate arrangements.
 | Jan 09 | Introduction; Neurons, Glia, and Progenitor cells ||
 | Jan 11 | Brief forays into tumors affecting the nervous system and neurodegenerative diseases ||
 | Jan 16 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
-| Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective||
+| Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective| A1 due|
 | Jan 23 | Overview of long/large pathways, negative and positive "signs" from lesions ||
 | Jan 25 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning||
-| Feb 01 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing, word learning) ||
-| Feb 03 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., visual motion perception, spatial hearing) ||
-| Feb 06 | Neuroscience methods: fMRI; EEG and MEG ||
+| Jan 30 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing, word learning) | A2 due|
+| Feb 01 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., visual motion perception, spatial hearing) ||
+| Feb 06 | Neuroscience methods: fMRI; EEG and MEG | A3 due |
 | Feb 08 | Neuroscience methods: Experiment design| Midterm project introduction|
 | Feb 13 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation ||
 | Feb 15 | Neuroscience methods: Network neuroscience/connectomics ||
-| Feb 20 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG ||
+| Feb 20 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG | Midterm project due|
 | Feb 22 | Auditory neuroscience: Hearing through a cochlear implant ||
 | Feb 27 | Auditory neuroscience: Pitch; Grouping and scene analysis||
 | Mar 01 | Speech: Categorical perception and sound identification ||
-| Mar 03 | Language: Language vs. thought; Language beyond communication modalities ||
+| Mar 03 | Language: Language vs. thought; Language beyond communication modalities |A4 due|
 | Mar 06 | *NO CLASS: Spring break* ||
 | Mar 08 | *NO CLASS: Spring break* ||
 | Mar 13 | Language: Phonological processing ||
-| Mar 15 | Language: Lexical and semantic processing ||
-| Mar 20 | Motor control: Motor hierarchy, reflexes, central pattern generators, modulation ||
-| Mar 22 | Motor control: Speech primitives and praxis ||
-| Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou|
+| Mar 15 | Language: Lexical and semantic processing | A5 due|
+| Mar 20 | Motor control: Motor hierarchy - reflexes, movements, and actions; central pattern generators, modulation ||
+| Mar 22 | Motor control: Praxis and speech primitives ||
+| Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou, A6 due|
 | Mar 29 | Motor control: Decoding and brain-computer interfaces; deep-brain stimulation ||
 | Apr 03 | Attention: Salience and deviance detection; top-down attention ||
-| Apr 05 | Attention: Cocktail party problem revisited; training and neurofeedback ||
-| Apr 10 | Interactions between sensory processing and cognitive deficits I ||
-| Apr 12 | Interactions between sensory processing and cognitive deficits II ||
+| Apr 05 | Attention: Cocktail party problem revisited; training and neurofeedback | A7 due; Final project instructions available|
+| Apr 10 | Interactions between sensory processing and cognitive deficits I | Presentation/discussion led by Maggie Zink|
+| Apr 12 | Interactions between sensory processing and cognitive deficits II | Presentation/discussion led by Maggie Zink|
 | Apr 17 | Review and discussion of (additional) cases/papers I ||
-| Apr 19 | Review and discussion of (additional) cases/papers II ||
-| Apr 24-28 | *Finals week*: No exam; Review and comment on final projects of peers on Canvas (last assignment) ||
+| Apr 19 | Review and discussion of (additional) cases/papers II | Final project due|
+| Apr 24-28 | *Finals week*: No exam; Review and comment on final projects of peers on Canvas (last assignment) | A8 due|
 
-## Index of disorders/conditions discussed (just a tentative list to add to)
+## Index of disorders/conditions that will likely be discussed (just a tentative list to add to)
 
 1. Alzhiemer's, Parkinson's, Huntington's, Prion diseases, ALS
 2. Vestibular schwannoma, meningioma, pituitary adenoma
@@ -147,7 +147,7 @@ Student will accumulate points as described below.
 | Assessment Item | Weight |
 |-----------------|--------|
 | Participation and contribution to peer learning | 10% |
-| Assignments (ten) | 60% |
+| Assignments (~eight) | 60% |
 | Midterm project | 15% |
 | Final project | 15% |
 
@@ -171,17 +171,15 @@ F : below 60
  
 
 ## Attendance Policy
-Although face-to-face meeting in class is the primary modality of instruction,
+In-person attendance is required and generally expected and for all classes throughout the semester.
+However, absence or remote attendance due any unavoidable reasons will be accommodated.
+If you need to miss a class or attend remotely, please inform the instructors
+in a timely manner (if the situation permits). To help accommodate unavoidable absences,
 the lectures/seminars will also be available remotely via synchronous Zoom sessions,
-and asynchronously via recorded video. In-person attendance is
-generally expected for all classes throughout the semester. However,
-absence or remote attendance due any unavoidable reasons will be accommodated.
-If you need to miss a class or attend remotely, please inform me
-in a timely manner (if the situation permits). In such cases,
-it is your responsibility to catch up with
+and asynchronously via recorded video. It it is your responsibility to catch up with
 the material that you miss using the asynchronously available video
 recordings. If extended absence and schedule adjustments are
-necessitated by unavoidable circumstances, please contact me
+necessitated by unavoidable circumstances, please contact the instructor(s) via e-mail
 for working out alternate arrangements as soon as the situation permits. Note
 that office hours and the discussion forum are available to assist you
 as well.
@@ -195,7 +193,7 @@ To learn more about Academic Integrity, visit the [Academic Integrity Guide](htt
 If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources and Services (DRS)](https://www.studentaffairs.pitt.edu/drs/), 140 William Pitt Union, (412) 648-7890, drsrecep@pitt.edu, (412) 228-5347 for P3 ASL users, as early as possible in the term. DRS will verify your disability and determine reasonable accommodations for this course.
 
 ## Copyright Notice
-These materials may be protected by copyright. United States copyright law, 17 USC section 101, et seq., in addition to University policy and procedures, prohibit unauthorized duplication or retransmission of course materials.
+All course materials may be protected by copyright. United States copyright law, 17 USC section 101, et seq., in addition to University policy and procedures, prohibit unauthorized duplication or retransmission of course materials.
 
 See [Library of Congress Copyright Office](https://www.copyright.gov/) and the [University Copyright Policy](https://www.policy.pitt.edu/sites/default/files/Policies/Community-Standards/Policy_CS_03.pdf).
 
@@ -236,7 +234,7 @@ For general information about mental health, see the
 website.](https://www.nimh.nih.gov/health/)
 
 
-School can be an exciting and challenging time. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive. If you find yourself beginning to feel some stress, anxiety, and/or
+School is often both exciting and challenging. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive. If you find yourself beginning to feel some stress, anxiety, and/or
 feeling slightly overwhelmed, one option is to try
 [TAO](http://www.studentaffairs.pitt.edu/cc/therapy-assistance-online/) (available for free with your
 Pitt login, sign in to find information and tools at any time), or
