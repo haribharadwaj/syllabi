@@ -157,8 +157,7 @@ Student will accumulate points as described below.
 | Final project | 15% |
 
 
-
-The standard grading scale for our SLP and AuD programs will be used in this course. <br>
+The following grading scale will be used in this course. <br>
 A+: 98 - 100 <br>
 A : 94 - 97 <br>
 A-: 90 - 93 <br>
