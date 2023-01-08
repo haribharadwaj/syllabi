@@ -39,10 +39,15 @@ Materials may also be hosted elsewhere and links provided on Canvas.
 
 
 ### Textbooks
-Because human neuroscience is a fast-paced field, there are **no** required textbooks. Readings from primary literature, class notes/slides, and other handouts/resources will be posted on Canvas. The following two references provide overviews of many of topics discussed in this course. While the former (Andreatta, 2024) takes a medical neurobiology perspective and is written as a textbook, the latter (Poeppel, Mangun, and Gazzinage, 2020) is a compiled comprehensive reference from a cognititve neuroscience perspective with chapters contributed by experts on each topic.
+Because human neuroscience is a fast-paced field, there are **no** required textbooks. Readings from primary literature, class notes/slides, and other handouts/resources will be posted on Canvas. 
+
+The following references are listed as general resources that provide coverage of many of topics discussed in this course. While the first two (Andreatta, 2024; Mason, 2017) take a medical neurobiology perspective and are written as textbooks, the third (Poeppel, Mangun, and Gazzinage, 2020) is an extensive edited volume on cognititve neuroscience and contains chapters contributed by experts on each topic.
 
 1. Andreatta, R.D. (2024). Neuroscience Fundamentals for Communication Sciences and Disorders, Second Edition. Plural Publishing. ISBN: 9781635503593.
-2. Poeppel, D., Mangun, G.R., and Gazzaniga, M.S. (2020).The Cognitive Neurosciences, Sixth Edition. The MIT Press. ISBN: 9780262043250
+2. Mason, P. (2017). Medical neurobiology. 2nd Edition. Oxford University Press. ISBN: 9780190237523.
+3. Poeppel, D., Mangun, G.R., and Gazzaniga, M.S. (2020).The Cognitive Neurosciences, Sixth Edition. The MIT Press. ISBN: 9780262043250
+
+In case you choose to purchase the Andreatta (2024) textbook, please note that there is a 15% student discount if purchasing directly from [Plural's website](https://www.pluralpublishing.com/) using the promo code ST15.
 
 
 ### Discussion Forum
