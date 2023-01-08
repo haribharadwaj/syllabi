@@ -58,8 +58,8 @@ preferred method for asking questions outside class.
 Using the discussion board allows for getting help
 quickly and efficiently both from classmates, and the instructors. You are
 encouraged to ask *and answer* questions about logistics, content,
-assignments, case/research presentations, or exams.
-However, please do *not* share explicit solutions to assignments, exams etc.
+assignments, or projects.
+However, please do *not* share explicit solutions to assignments, projects etc.
 You are also encouraged to share any ideas, articles, videos, or other resources related to 
 neuroscience of communication that you think would be interesting and/or beneficial to others.
 
