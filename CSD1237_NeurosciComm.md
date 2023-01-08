@@ -16,14 +16,14 @@ Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor, Communication Science and Disorders <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
-Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
+Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
 Maggie Zink, B.S., B.A.<br>
 Ph.D. Student, Communication Science and Disorders <br>
 Office: Forbes Tower 5054<br>
 e-Mail: <zink.me@pitt.edu><br>
-Office Hours: Virtual office hour Mondays 10AM-11AM (Zoom: https://pitt.zoom.us/my/maggiezink, Meeting ID: 689 264 2505). In addition, office hours are available by appointment (send me a message via e-mail).
+Office Hours: Virtual office hour Mondays 10AM-11AM (Zoom: Provided on Canvas). In addition, office hours are available by appointment (send me a message via e-mail).
 
 ## Description
 This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
@@ -84,8 +84,8 @@ the situation permits, and make alternate arrangements.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Jan 09 | Introduction; Neurons, Glia, and Progenitor cells ||
-| Jan 11 | Brief forays into tumors affecting the nervous system and neurodegenerative diseases ||
+| Jan 09 | Introduction;  Four functions of the nervous system||
+| Jan 11 | Neurons, Glia, and Progenitor cells; Peripheral vs. Central nervous system ||
 | Jan 16 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
 | Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective| A1 due|
 | Jan 23 | Overview of long/large pathways, negative and positive "signs" from lesions ||
@@ -119,8 +119,8 @@ the situation permits, and make alternate arrangements.
 
 ## Index of disorders/conditions that will likely be discussed (just a tentative list to add to)
 
-1. Alzhiemer's, Parkinson's, Huntington's, Prion diseases, ALS
-2. Vestibular schwannoma, meningioma, pituitary adenoma
+1. Brain tumors
+2. Neurodegenerative diseases
 3. Spina bifida, Waardenburg-Hirschsprung disease
 4. Sensorineural hearing loss
 5. Anxiety and depression
@@ -174,11 +174,10 @@ F : below 60
 In-person attendance is required and generally expected and for all classes throughout the semester.
 However, absence or remote attendance due any unavoidable reasons will be accommodated.
 If you need to miss a class or attend remotely, please inform the instructors
-in a timely manner (if the situation permits). To help accommodate unavoidable absences,
+in a timely manner via e-mail (if the situation permits). To help accommodate unavoidable absences,
 the lectures/seminars will also be available remotely via synchronous Zoom sessions,
 and asynchronously via recorded video. It it is your responsibility to catch up with
-the material that you miss using the asynchronously available video
-recordings. If extended absence and schedule adjustments are
+the material that you miss using these resources. If extended absence and schedule adjustments are
 necessitated by unavoidable circumstances, please contact the instructor(s) via e-mail
 for working out alternate arrangements as soon as the situation permits. Note
 that office hours and the discussion forum are available to assist you
