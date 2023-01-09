@@ -104,12 +104,11 @@ the situation permits, and make alternate arrangements.
 | Feb 20 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG | Midterm project due|
 | Feb 22 | Auditory neuroscience: Hearing through a cochlear implant ||
 | Feb 27 | Auditory neuroscience: Pitch; Grouping and scene analysis||
-| Mar 01 | Speech: Categorical perception and sound identification ||
-| Mar 03 | Language: Language vs. thought; Language beyond communication modalities |A4 due|
+| Mar 01 | Speech: Categorical perception and sound identification | A4 due|
 | Mar 06 | *NO CLASS: Spring break* ||
 | Mar 08 | *NO CLASS: Spring break* ||
-| Mar 13 | Language: Phonological processing ||
-| Mar 15 | Language: Lexical and semantic processing | A5 due|
+| Mar 13 | Language: Language: Language vs. thought; Language beyond communication modalities  ||
+| Mar 15 | Language: Phonological, Lexical, and semantic processing | A5 due|
 | Mar 20 | Motor control: Motor hierarchy - reflexes, movements, and actions; central pattern generators, modulation ||
 | Mar 22 | Motor control: Praxis and speech primitives ||
 | Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou, A6 due|
