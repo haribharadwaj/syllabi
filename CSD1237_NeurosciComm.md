@@ -26,7 +26,7 @@ e-Mail: <zink.me@pitt.edu><br>
 Office Hours: Virtual office hour Mondays 10AM-11AM (Zoom: Provided on Canvas). In addition, office hours are available by appointment (send me a message via e-mail).
 
 ## Description
-This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
+This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, balance, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
 
 
 ## Learning Resources, Technology, & Texts
