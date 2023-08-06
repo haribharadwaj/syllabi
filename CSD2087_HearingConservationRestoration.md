@@ -2,12 +2,12 @@
 	<img src="figures/pittlogo.png" alt="Hearing Conservation & Restoration " class="center" width="100%"/>
 </figure>
 
-# Hearing Preservation and Restoration
+# Hearing Conservation and Restoration
 
 ## Registration information
-CSD 2087 1000-SEM(31183) Fall 2022 <br>
+CSD 2087 1000-SEM (29329) Fall 2023 <br>
 **Time**:  We 05:30 -- 07:30 pm <br>
-**Dates**: 08/29/2022 - 12/17/2022 <br>
+**Dates**: 08/28/2023 - 12/16/2023 <br>
 **Location**: 5073 Forbes Tower <br>
 **Credits**: 2 <br>
 
@@ -41,8 +41,7 @@ ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) ad
 |B4 | Utilizing instrument(s) (i.e., sound-level meter, dosimeter, etc.) to determine ambient noise levels and providing strategies for reducing noise and reverberation time in educational, occupational, and other settings|
 |B7 | Participating in occupational hearing conservation programs|
 |B14| Evaluating the success of screening and prevention programs using performance measures|
-|F12| Evaluating acoustics of classroom settings and providing recommendations for universal design and accommodations |
-
+ 
 This course also addresses CAA standard 3.1.3A: Identification and prevention of hearing loss, tinnitus, and vestibular disorders.
 
 ## Learning Resources, Technology, & Texts
@@ -69,7 +68,7 @@ We will use a group discussion board within  Canvas
 for Q&A and discussion. Rather than emails, using the discussion board is the
 preferred method for asking questions outside class.
 
-Using thhe discussion board allows for getting help
+Using the discussion board allows for getting help
 quickly and efficiently both from classmates, and the instructor. You are
 encouraged to ask *and answer* questions about logistics, content,
 assignments, case/research presentations, or exams.
@@ -78,9 +77,9 @@ You are also encouraged to share any ideas, articles, videos, or other resources
 hearing preservation and restoration that you think would be interesting and/or beneficial to others.
 
 
-## Assignments and exams
-Assignments (four) will typically be made available a week before they are due (sometimes 2 weeks).
-Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, and developing protocols/materials for clinical use. Some assignments will also involve hands-on measurements (e.g., environmental and personal noise assessments, HPD attenuation measurements), querying standardized databases (e.g., [FDA MedWatch](https://www.fda.gov/medwatch), [ClinicalTrials.gov](https://clinicaltrials.gov)), and watching/summarizing video presentations by other professionals/scientists. Submitted work will consist of electronic files (PDF) uploaded through Canvas. All assignments are due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Exams are essentially extended assignments with the added constraint that you cannot discuss the contents with other people.
+## Assignments (Quizzes and short reports)
+Quizzes (six) will typically be made available a week before they are due.
+Quizzes will involve integrating concepts/content discussed in class with readings of primary literature, and  application of the ideas to specific cases, querying standardized databases (e.g., [FDA MedWatch](https://www.fda.gov/medwatch), [ClinicalTrials.gov](https://clinicaltrials.gov)), and watching/summarizing video presentations by other professionals/scientists. There are two "lab" activities that will also involve hands-on measurements (e.g., environmental noise and personal exposure assessments, HPD fit-testing). Submitted work will consist of electronic responses through Canvas. All assignments due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving quizzes/reports should be done *in broad/general terms*. Please do not share specific solutions.
 
 
 There is a quota of **three total late** days you can use
@@ -105,23 +104,25 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Aug 31 | Introduction: Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
-| Sep 07 | Sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram; Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors ||
-| Sep 14 | Hearing-loss prevention program overview: stakeholders, compliance-based approach (minimal), and national guidelines | A1 due|
-| Sep 28 | Acoustic monitoring and exposure assessment; Noise control; Aside on classroom acoustics ||
-| Oct 05 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD, derating schemes |A2 due, **Note: An exercise on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
-| Oct 12 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
-| Oct 17 | *HPD fit-testing exercise in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
-| Oct 19 | Education and motivation, program effectiveness evaluation, record keeping; Review | A3 due; Midterm available|
-| Oct 24 | *HPD fit-testing exercise in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
-| Oct 26 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | Short report on HPD fit-testing due|
-| Nov 02 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Midterm due |
-| Nov 09 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) ||
-| Nov 16 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | A4 due|
-| Nov 23 | **Thanksgiving Break -- No Class** ||
-| Nov 30 | **Research presentations by students** | Final available |
-| Dec 07 | Pharmacological approaches to restoration and regeneration ||
-| Dec 14 | **Final Exam Due** ||
+| Aug 30 | Introduction: Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
+| Sep 06 | Sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram  |Q1 due|
+| Sep 13 | Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors; Hearing-loss prevention program overview: stakeholders, compliance-based approach (minimal), and national guidelines | Q2 due|
+| Sep 20 | Acoustic monitoring and exposure assessment ||
+| Sep 27 | **Noise measurements and exposure calculations "lab"**; Noise control||
+| Oct 04 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD | R1 due, **Note: A "lab" on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
+| Oct 09 | *HPD fit-testing "lab" in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
+| Oct 11 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Q3 due|
+| Oct 16 | *HPD fit-testing "lab" in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
+| Oct 18 | Education and motivation, program effectiveness evaluation, record keeping; Review ||
+| Oct 23 | *HPD fit-testing "lab" in Advanced Clinical Seminar course with Dr. Ruscetta for Group 3* | This is a Monday |
+| Oct 25 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | R2 due|
+| Nov 01 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Q4 due |
+| Nov 08 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) |Research topic selection due|
+| Nov 15 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | Q5 due|
+| Nov 22 | **Thanksgiving Break -- No Class** ||
+| Nov 29 | Pharmacological approaches to restoration and regeneration||
+| Dec 06 | **Research presentations by students**| By video; No in-person meeting |
+| Dec 13 | **No Exam**| Q6 due|
 
 ## Final Grade Composition and Grading Scale
 
@@ -130,12 +131,11 @@ Student will accumulate points as described below.
 
 | Assessment Item | Weight |
 |-----------------|--------|
-| Class participation and contribution to peer learning | 10% |
-| Assignments (four) | 32% |
-| Short report on HPD fit-testing | 8% |
-| Midterm exam (take home) | 20% |
-| Final exam (take home) | 20% |
-| Research presentation  | 10% |
+| Class participation and contribution to peer learning | 5% |
+| Quizzes (Q1 - Q6) | 60% |
+| Short reports (R1 and R2 on the two "lab" activities, respectively) | 20% |
+| Topic selection for research presentations | 5% |
+| Research presentations by video | 10% |
 
 
 The standard grading scale for our SLP and AuD programs will be used in this course. <br>
@@ -153,10 +153,10 @@ D : 63 - 66 <br>
 D-: 60 - 62 <br>
 F : below 60
 
-The four assignments and the short report on HPD fit-testing are each worth 8 points. In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must score 75% or more in each of those assignments (i.e., score of 6 or higher out of 8 points) **and** maintain an overall grade level of C or higher (i.e., 76% or more). If you score below the criterion level in any of the individual assignments, you will be given the opportunity to remediate by resubmitting the assignments on Canvas. The deadlines for resubmission will be worked out by the instructor in discussion with individual students on a case-by-case basis. No remediation options are available for the exams. If your overall grade drops below a C, you may be required to retake the course.
+Assessments in this course include seven quizzes and two short reports. In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must score 60% or more in each of those items  **and** maintain an *overall* grade level of C or higher (i.e., 76% or more). If you score below the criterion level in any of the individual assignments, you will be given the opportunity to remediate by resubmitting the assignments on Canvas. The deadlines for resubmission will be worked out by the instructor in discussion with individual students on a case-by-case basis. If your overall grade drops below a C, you may be required to retake the course.
 
 ## Research Presentation
-Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as part of A4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic. 
+Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as Q4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic by video.
 
 
 ## Attendance Policy
