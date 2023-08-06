@@ -79,19 +79,19 @@ hearing preservation and restoration that you think would be interesting and/or 
 
 ## Assignments (Quizzes and short reports)
 Quizzes (six) will typically be made available a week before they are due.
-Quizzes will involve integrating concepts/content discussed in class with readings of primary literature, application of the ideas to specific cases, querying standardized databases (e.g., [FDA MedWatch](https://www.fda.gov/medwatch), [ClinicalTrials.gov](https://clinicaltrials.gov)), and watching/summarizing video presentations by other professionals/scientists. There are two "lab" activities that will also involve hands-on measurements (e.g., environmental noise and personal exposure assessments, HPD fit-testing). Submitted work will consist of electronic responses through Canvas. All assignments due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving quizzes/reports should be done *in broad/general terms*. Please do not share specific solutions.
+Quizzes will involve integrating concepts/content discussed in class with readings of primary literature, applying ideas to specific cases, querying standardized databases (e.g., [FDA MedWatch](https://www.fda.gov/medwatch), [ClinicalTrials.gov](https://clinicaltrials.gov)), and watching video presentations by other professionals/scientists. There are two "lab" activities that will also involve hands-on measurements (environmental noise and personal exposure assessments, and HPD fit-testing). 
+A short report will be due following each lab (instructions will be provided). Submitted work will consist of electronic responses or PDF file uploads via Canvas. All assignments due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions.
 
-
-There is a quota of **three total late** days you can use
+There is a quota of **five total late days** you can use
 throughout the semester to manage unanticipated pressing events that may
 prevent you from submitting assignments on time. Save and use them
-judiciously. You can use all three days for one assignment or spread
-them over (up to) three assignments. You can also use them for take-home exams.
+judiciously. You can use all five days for one assignment or spread
+them over (up to) five assignments.
 Note however that part-day delays (e.g., late by 2 hours) will count as
 1 whole day of quota being used up.
 No submissions will be accepted, even if you have unused late days,
-after Dec 16, 2022 (Friday of final exam week). Exceptions will be made
-to the 3-day rule only in unavoidable circumstances (e.g., extended
+after Dec 15, 2023 (Friday of final exam week). Exceptions
+to the 5-day rule will only be made in unavoidable circumstances (e.g., extended
 health<sup>[1](#fn1)</sup> issue) about which you discuss with me as soon as
 the situation permits, and make alternative arrangements.
 
@@ -110,11 +110,11 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Sep 20 | Acoustic monitoring and exposure assessment ||
 | Sep 27 | **Noise measurements and exposure calculations "lab"**; Noise control||
 | Oct 04 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD | R1 due, **Note: A "lab" on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
-| Oct 09 | *HPD fit-testing "lab" in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
+| Oct 09 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
 | Oct 11 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Q3 due|
-| Oct 16 | *HPD fit-testing "lab" in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
+| Oct 16 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
 | Oct 18 | Education and motivation, program effectiveness evaluation, record keeping; Review ||
-| Oct 23 | *HPD fit-testing "lab" in Advanced Clinical Seminar course with Dr. Ruscetta for Group 3* | This is a Monday |
+| Oct 23 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 3* | This is a Monday |
 | Oct 25 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | R2 due|
 | Nov 01 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Q4 due |
 | Nov 08 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) |Research topic selection due|
