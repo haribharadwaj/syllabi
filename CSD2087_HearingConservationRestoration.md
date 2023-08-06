@@ -93,7 +93,7 @@ No submissions will be accepted, even if you have unused late days,
 after Dec 16, 2022 (Friday of final exam week). Exceptions will be made
 to the 3-day rule only in unavoidable circumstances (e.g., extended
 health<sup>[1](#fn1)</sup> issue) about which you discuss with me as soon as
-the situation permits, and make alternate arrangements.
+the situation permits, and make alternative arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
 
@@ -171,7 +171,7 @@ it is your responsibility to catch up with
 the material that you miss using the asynchronously available video
 recordings. If extended absence and schedule adjustments are
 necessitated by unavoidable circumstances, please contact me
-for working out alternate arrangements as soon as the situation permits. Note
+for working out alternative arrangements as soon as the situation permits. Note
 that office hours and the discussion forum are available to assist you
 as well.
 
@@ -203,7 +203,7 @@ In such cases, it is your responsibility to catch up with
 the material that you miss using the asynchronously available video
 recordings. If extended absence and schedule adjustments are
 necessitated by unavoidable circumstances, please contact me
-for working out alternate arrangements as soon as the situation permits.
+for working out alternative arrangements as soon as the situation permits.
 
 ## Gender Inclusive Language Statement
 Language is gender-inclusive and non-sexist when we use words that affirm and respect how people describe, express, and experience their gender.  Gender-inclusive/non-sexist language acknowledges people of all genders (for example, first year student versus freshman, chair versus chairman, humankind versus mankind, everyone versus ladies and gentlemen, etc.).  It also affirms non-binary gender identifications, and recognizes both gender identity and expression.  Identities including trans, intersex, and genderqueer reflect personal descriptions, expressions, and experiences.  Just as sexist language excludes women’s experiences, gendered language excludes the experiences of individuals whose identifies may not fit the gender binary, and/or who may not identify with the sex they were assigned at birth.  Students, faculty, and staff have the right to control their own identity and to be referred to by the name and pronouns with which they identify.  People also have the right to maintain their privacy regarding information they do not wish to share about their identities, including gender identity and pronouns.
