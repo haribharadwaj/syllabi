@@ -16,7 +16,7 @@ Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor of Communication Science and Disorders <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
-Office Hours: There will be one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
+Office Hours: There will be one open hour for drop-in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message on Canvas or via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
 
