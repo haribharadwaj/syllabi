@@ -28,7 +28,7 @@ Trauma to the ear from sound and ototoxic agents is often preventable. This cour
 2. Identify the key components of hearing-loss prevention programs, and design protocols and materials for implementing national guidelines for hearing protection.
 3. Perform environmental acoustic measurements, personal exposure assessments, selection of hearing protection devices, and estimation of real-world acoustic attentuation provided by such devices for an individual user.
 4. Describe basic concepts in pharmacology, identify common drugs used in otolaryngological practice, and important classes of drugs and other substances with known ototoxicity.
-5. Develop materials for implementing ototoxicity monitoring in medical contexts and clinical trials.
+5. Describe audiologic monitoring for ototoxicity in medical contexts and clinical trials.
 6. Apply knowledge about the molecular mechanisms leading to noise- and drug-induced hearing damage (and their overlap) to identify candidate targets and agents for otoprotection and restoration.
 
 
@@ -67,12 +67,11 @@ There are **no** required textbooks. Readings from primary literature, class not
 We will use a group discussion board within  Canvas
 for Q&A and discussion. Rather than emails, using the discussion board is the
 preferred method for asking questions outside class.
-
 Using the discussion board allows for getting help
 quickly and efficiently both from classmates, and the instructor. You are
 encouraged to ask *and answer* questions about logistics, content,
-assignments, case/research presentations, or exams.
-However, please do *not* share explicit solutions to assignments, exams etc.
+assignments, and research presentations.
+However, please do *not* share explicit solutions to assignments, etc.
 You are also encouraged to share any ideas, articles, videos, or other resources related to 
 hearing preservation and restoration that you think would be interesting and/or beneficial to others.
 
@@ -156,7 +155,7 @@ F : below 60
 In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must score 60% or more in each assignment (quiz and short report) **and** maintain an *overall* grade level of C or higher (i.e., 76% or more). If you score below the criterion level in any of the individual assignments, you will be given the opportunity to remediate by resubmitting the assignments on Canvas. The deadlines for resubmission will be worked out by the instructor in discussion with individual students on a case-by-case basis. If your overall grade drops below a C, you may be required to retake the course.
 
 ## Research Presentation
-Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done as Q4. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic by video.
+Each student will critically summarize recent research (two articles) on a self-selected question within the scope of hearing preservation and restoration.  Ideas and guidelines for potential topics will be provided, and topic selection will be done 3-4 weeks before the presentations. Towards the end of the semester (see tentative schedule), each student will deliver an oral presentation (about 8-10 mins) on the selected topic by video.
 
 
 ## Attendance Policy
@@ -189,7 +188,12 @@ These materials may be protected by copyright. United States copyright law, 17 U
 See [Library of Congress Copyright Office](https://www.copyright.gov/) and the [University Copyright Policy](https://www.policy.pitt.edu/sites/default/files/Policies/Community-Standards/Policy_CS_03.pdf).
 
 ## Equity, Diversity, and Inclusion
-The Department of Communication Science and Disorders welcomes and values all people and their wide range of experiences, backgrounds and perspectives.  Access the SLP MA/MS and AuD degree programs’ [Academic Handbook](https://www.shrs.pitt.edu/sites/default/files/2022-2023%20SLP%20and%20AuD%20Academic%20Handbook_6.09.2022.pdf) and go to page 6  to review the CSD policy related to equity, justice and inclusion as it applies to educational interactions.  In addition, use the link below for information on the [University of Pittsburgh’s Mission and Vision for Equity, Diversity and Justice](https://www.diversity.pitt.edu/about/mission-and-vision) and updated listings of campus activities and resources. 
+The University of Pittsburgh does not tolerate any form of discrimination, harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, genetic information, marital status, familial status, sex, age, sexual orientation, veteran status or gender identity or other factors as stated in the University’s Title IX policy. The University is committed to taking prompt action to end a hostile environment that interferes with the University’s mission. For more information about policies, procedures, and practices, visit the [Civil Rights & Title IX Compliance web page](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance).
+
+I ask that everyone in the class strive to help ensure that other members of this class can learn in a supportive and respectful environment. If there are instances of the aforementioned issues, please contact the Title IX Coordinator, by calling 412-648-7860, or e-mailing titleixcoordinator@pitt.edu. Reports can also be [filed online](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance/make-report/report-form). You may also choose to report this to a faculty/staff member; they are required to communicate this to the University’s Office of Diversity and Inclusion. If you wish to maintain complete confidentiality, you may also contact the University Counseling Center (412-648-7930).
+In addition, use the link below for information on the [University of Pittsburgh’s Mission and Vision for Equity, Diversity and Justice](https://www.diversity.pitt.edu/about/mission-and-vision) and updated listings of campus activities and resources. 
+
+The Department of Communication Science and Disorders welcomes and values all people and their wide range of experiences, backgrounds and perspectives.  Access the SLP MA/MS and AuD degree programs’ [Academic Handbook](https://www.shrs.pitt.edu/sites/default/files/2022-2023%20SLP%20and%20AuD%20Academic%20Handbook_6.09.2022.pdf) and go to page 6  to review the CSD policy related to equity, justice and inclusion as it applies to educational interactions.  
 
 
 ## Health and Safety Statement
