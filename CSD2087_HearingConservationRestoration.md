@@ -178,17 +178,14 @@ Students in this course will be expected to comply with the [University of Pitts
 
 To learn more about Academic Integrity, visit the [Academic Integrity Guide](http://pitt.libguides.com/academicintegrity/) for an overview of the topic. For hands-on practice, complete the [Understanding and Avoiding Plagiarism tutorial](http://pitt.libguides.com/academicintegrity/plagiarism).
 
-## Use of Generative AI Tools in Academic Work [GPT-4 provided the outline for this section]
+### Use of Generative AI Tools in Academic Work [GPT-4 provided the outline for this section]
 Students are allowed to use generative AI tools, such as GPT-based language models, as supplementary resources for this course. However, the use of these tools must adhere to the following guidelines to maintain academic integrity and scholarly values:
 
-### Attribution
-Any direct outputs from a generative AI tool that are included in academic work must be clearly cited.
+1. **Attribution**: Any direct outputs from a generative AI tool that are included in academic work must be clearly cited.
 
-### Original Thought
-Generative AI should be used to augment rather than replace original thinking and scholarship. Your work should primarily reflect your own understanding and synthesis of the subject matter. Examples of acceptable uses of AI tools include idea generation, outlining, proofreading, and grammar checks. Examples of unacceptable use include whole-section generation, substituting AI-generated analyses for your own, and automated research. While there is no fixed ratio for AI-generated vs. student-generated content, a good rule of thumb is that the bulk (for instance >80-90%) of your written output should be your own work, both in content and in analysis, even when properly cited.
+2. **Original Thought**: Generative AI should be used to augment rather than replace original thinking and scholarship. Your work should primarily reflect your own understanding and synthesis of the subject matter. Examples of acceptable uses of AI tools include idea generation, outlining, proofreading, and grammar checks. Examples of unacceptable use include whole-section generation, substituting AI-generated analyses for your own, and automated research. While there is no fixed ratio for AI-generated vs. student-generated content, a good rule of thumb is that the bulk (for instance >80-90%) of your written output should be your own work, both in content and in analysis, even when properly cited.
 
-### Critical Evaluation
-Exercise critical judgment when using AI-generated content. Not all information produced by an AI tool will be accurate or valid in an academic context.
+3. **Critical Evaluation**: Exercise critical judgment when using AI-generated content. Not all information produced by an AI tool will be accurate or valid in an academic context.
 
 
 ## Disability Services
