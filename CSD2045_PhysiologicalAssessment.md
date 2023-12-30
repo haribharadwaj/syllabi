@@ -31,8 +31,6 @@ Acoustic and electrophysiological assays of the auditory system offer an objecti
 5. Interpret OAE and ABR data from test examples for differential audiological diagnoses.
 
 
-
-
 ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) addressed by this course include:
 |Code | Description|
 |-----|------------|
@@ -41,7 +39,7 @@ ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) ad
 |C10 | Evaluating basic audiologic findings and client/patient needs to determine differential diagnosis and additional procedures to be used |
 |C11 | Selecting, performing, and interpreting physiologic and electrophysiologic test procedures, including electrocochleography, auditory brainstem response with frequency-specific air and bone conduction threshold testing, and click stimuli for neural diagnostic purposes |
 |C12 | Selecting, performing, and interpreting otoacoustic emissions testing |
-|C16 | Electrophysiologic testing, including but not limited to auditory steady-state response, auditory middle latency response, auditory late (long latency) response, and cognitive potentials (e.g., P300 response, mismatch negativity response) |
+
 
 This course also addresses the following CAA standards:
 |Standard | Description|
@@ -92,7 +90,7 @@ hearing preservation and restoration that you think would be interesting and/or 
 
 ## Quizzes
 Quizzes (six) will typically be made available a week before they are due.
-Quizzes will encourage and probe integration of concepts/content discussed in class with clinical experience, readings of primary literature, and with lab exercises done as part of the Clinical Procedures Lab course (with Dr. Alscher). Quizzes will also involve hands-on exercises using simulation software, and/or applying ideas to specific test examples/cases. Quizzes may also involve watching video presentations by other professionals/scientists. Submitted work will consist of electronic responses or PDF file uploads via Canvas. All quizzes due by the time and date posted on Canvas. You are encouraged to discuss course topics with your peers and other colleagues, but discussions involving quizzes should be done *in broad/general terms*. Please do not share specific solutions.
+Quizzes will probe your understanding of the concepts/content discussed in this course and integration of the ideas with ideas gained from clinical experience, readings of primary literature, and with lab exercises (done as part of the Clinical Procedures Lab course with Dr. Alscher). Quizzes will also involve hands-on exercises using simulation software, and/or applying ideas to specific test examples/cases. Quizzes may also involve watching video presentations by other professionals/scientists. Submitted work will consist of electronic responses or PDF file uploads via Canvas. All quizzes due by the time and date posted on Canvas. You are encouraged to discuss course topics with your peers and other colleagues, but discussions involving quizzes should be done *in broad/general terms*. Please do not share specific solutions.
 
 There is a quota of **three total late days** you can use
 throughout the semester to manage unanticipated pressing events that may
@@ -111,6 +109,8 @@ the situation permits, and make alternative arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
 
+## Clinical Case Presentation
+Each student will orally summarize and present their analysis of a clinical case involving physiological assessment(s). Students are welcome to bring their own cases (check with instructor if the case is suitable), or present a case that is assigned to them by the instructor. The oral presentation (about 12--15 mins) should stimulate discussion of the issues pertinent to the case based on knowledge acquired during this course *and* from previous classes/clinical experience. Any broader takeaways that the case suggests should also be discussed.
 
 ## Tentative schedule
 
@@ -164,9 +164,6 @@ D-: 60 - 62 <br>
 F : below 60
 
 In order to meet the CFCC and CAA standards across all areas of skills/knowledge addressed in this course, you must score 60% or more in each quiz **and** maintain an *overall* grade level of C or higher (i.e., 76% or more). If you score below the criterion level in any of the individual assignments, you will be given the opportunity to remediate by resubmitting the assignments on Canvas. The deadlines for resubmission will be worked out by the instructor in discussion with individual students on a case-by-case basis. If your overall grade drops below a C, you may be required to retake the course.
-
-## Clinical Case Presentation
-Each student will orally summarize the details of a clinical case involving physiological assessment(s) and present their analysis of the case. Students are welcome to bring their own cases (check with instructor if the case is suitable), or present a case that is assigned to them by the instructor. The oral presentation (about 12--15 mins) should stimulate discussion of the issues pertinent to the case based on knowledge acquired during this course *and* from previous classes/clinical experience. Any broader takeaways that the case suggests should also be discussed.
 
 
 ## Attendance Policy
