@@ -5,9 +5,9 @@
 # Physiological Assessment
 
 ## Registration information
-CSD 2045 1000-SEM (29329) Spring 2024 <br>
-**Time**:  Thu 05:30 -- 07:30 pm <br>
-**Dates**: 08/28/2023 - 12/16/2023 <br>
+CSD 2045 1040-SEM (14617) Spring 2024 <br>
+**Time**:  Thu 05:30 -- 08:20 pm <br>
+**Dates**: 01/08/2024 - 04/27/2024 <br>
 **Location**: 5047 Forbes Tower <br>
 **Credits**: 3 <br>
 
@@ -25,10 +25,10 @@ Acoustic and electrophysiological assays of the auditory system offer an objecti
 
 ## Learning Outcomes
 1. Describe normal aspects of auditory function relevant to the generation and interpretation of common physiological measures used in audiology.
-2. Define terminology associated with the measurement and documentation of different flavors of otoacoustic emissions and electrophysio
-3. Identify and label features of OAEs and ABRs in normal hearing and make predictions for how they may be altered by different forms of hearing loss
-4. Interpret OAE and ABR data from example clinical cases for hearing screening and threshold estimation
-5. 
+2. Define terminology associated with, and describe the measurement of different flavors of otoacoustic emissions and electrophysiological responses.
+3. Identify and label features of OAEs and ABRs in normal hearing and make predictions for how they may be altered by different forms of hearing loss.
+4. Interpret OAE and ABR data from test examples for hearing screening and threshold estimation.
+5. Interpret OAE and ABR data from test examples for differential audiological diagnoses.
 
 
 
@@ -121,7 +121,7 @@ Each class will be broken into three sessions of about 50 mins each with two 10-
 |--------|-------|----------|
 | Jan 11 | Introduction; Systems view of outer and middle-ear function; Immittance and middle-ear muscle reflexes review ||
 | Jan 18 | Systems view of active cochlear mechanics and introduction to OAEs ||
-| Jan 25 | Spontaneous vs. evoked OAEs; Reflection and distortion sources of OAEs; Stimulus calibration data acquisition principles for TEOAEs and DPOAEs  | Q1 due |
+| Jan 25 | Spontaneous vs. evoked OAEs; Reflection and distortion sources of OAEs; Stimulus calibration and data acquisition principles for TEOAEs and DPOAEs  | Q1 due |
 | Feb 01 | Normative features of TEOAEs and DPOAEs and relationship to cochlear active mechanisms ||
 | Feb 08 | **Hari away -- DO REMOTE ACTIVITY**| Q2 due |
 | Feb 15 | Systems view of ascending auditory pathway; Instrumentation and considerations for evoking and recording different flavors of auditory potentials ||
