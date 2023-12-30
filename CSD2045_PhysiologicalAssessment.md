@@ -37,8 +37,7 @@ ASHA Certification 2020 Standards Knowledge and Skills Outcomes (Standard II) ad
 |Code | Description|
 |-----|------------|
 |A5 | Calibration and use of instrumentation according to manufacturers’ specifications and accepted standards|
-|A7 | Applications and limitations of specific audiologic assessments and interventions in the context of overall client/patient management |
-|A14 |  Assessment of diagnostic efficiency and treatment efficacy using quantitative data (e.g., number of tests, standardized test results) and qualitative data (e.g., standardized outcome measures, client/patient-reported measures) |
+|A7 | Applications and limitations of specific audiologic assessments ~~and interventions~~ in the context of overall client/patient management |
 |C10 | Evaluating basic audiologic findings and client/patient needs to determine differential diagnosis and additional procedures to be used |
 |C11 | Selecting, performing, and interpreting physiologic and electrophysiologic test procedures, including electrocochleography, auditory brainstem response with frequency-specific air and bone conduction threshold testing, and click stimuli for neural diagnostic purposes |
 |C12 | Selecting, performing, and interpreting otoacoustic emissions testing |
