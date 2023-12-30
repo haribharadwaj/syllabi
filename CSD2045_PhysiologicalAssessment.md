@@ -25,7 +25,7 @@ Acoustic and electrophysiological assays of the auditory system offer an objecti
 
 ## Learning Outcomes
 1. Describe normal aspects of auditory function relevant to the generation and interpretation of common physiological measures used in audiology.
-2. Define terminology associated with, and describe the measurement of different flavors of otoacoustic emissions and electrophysiological responses.
+2. Define terminology associated with, and describe the selection and measurement of different flavors of otoacoustic emissions and electrophysiological responses.
 3. Identify and label features of OAEs and ABRs in normal hearing and make predictions for how they may be altered by different forms of hearing loss.
 4. Interpret OAE and ABR data from test examples for hearing screening and threshold estimation.
 5. Interpret OAE and ABR data from test examples for differential audiological diagnoses.
