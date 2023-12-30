@@ -124,7 +124,7 @@ Each class will be broken into three sessions of about 50 mins each with two 10-
 | Feb 01 | Normative features of TEOAEs and DPOAEs and relationship to cochlear active mechanisms ||
 | Feb 08 | **Hari away -- DO REMOTE ACTIVITY**| Q2 due |
 | Feb 15 | Systems view of ascending auditory pathway; Instrumentation and considerations for evoking and recording different flavors of auditory potentials ||
-| Feb 22 | Normative features of the ABR, relationship to cochlear active mechanisms, and predictions for conductive and sensory hearing loss | Q3 due|
+| Feb 22 | Normative features of the electrocochleogram (ECoG) and the ABR, relationship to cochlear active mechanisms, and predictions for conductive and sensory hearing loss | Q3 due|
 | Feb 29 | Normative features of the ABR in relation to neural coding in the ascending pathway, and predictions for neurogenic hearing alterations ||
 | Mar 07 | Clinical applications and case studies: Screening using OAEs and ABRs; Introduction to threshold estimation | Q4 due |
 | Mar 15 | **Spring Break -- No Class** ||
