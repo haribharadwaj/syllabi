@@ -110,9 +110,9 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 | Sep 27 | **Noise measurements and exposure calculations "lab"**; Noise control||
 | Oct 04 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD | R1 due, **Note: A "lab" on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
 | Oct 09 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
-| Oct 11 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance | Q3 due|
+| Oct 11 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
 | Oct 16 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
-| Oct 18 | Education and motivation, program effectiveness evaluation, record keeping; Review ||
+| Oct 18 | Education and motivation, program effectiveness evaluation, record keeping; Review | Q3 due |
 | Oct 25 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | R2 due|
 | Nov 01 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Q4 due |
 | Nov 08 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) |Research topic selection due|
