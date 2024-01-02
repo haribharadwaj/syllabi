@@ -85,7 +85,7 @@ encouraged to ask *and answer* questions about logistics, content,
 quizzes, and case presentations.
 However, please do *not* share explicit solutions to quizzes, etc.
 You are also encouraged to share any ideas, articles, videos, or other resources related to 
-hearing preservation and restoration that you think would be interesting and/or beneficial to others.
+the course (or audiology more broadly) that you think would be interesting and/or beneficial to others.
 
 
 ## Quizzes
