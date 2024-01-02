@@ -144,7 +144,7 @@ Student will accumulate points as described below.
 | Assessment Item | Weight |
 |-----------------|--------|
 | Class participation and contribution to peer learning | 7% |
-| Quizzes (Q1 - Q6) | 13% |
+| Quizzes (Q1 - Q6) | 78% |
 | Case presentation | 15% |
 
 
