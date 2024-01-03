@@ -61,10 +61,6 @@ Canvas will serve as the starting point for all course material.
 Materials may also be hosted elsewhere and links provided on Canvas.
 
 
-### Required software [TO BE CONFIRMED; MORE DETAILS TBA]
-SmartVS&trade; from Intelligent Hearing Systems (IHS) will be used for case simulations as part of some of the quizzes. This software is available from the [IHS website](https://smartvs.ihsys.info/product/smartvs-web/). Note that this software only operates on Windows PCs or PC emulator software (such as Parallels). If installed on SHRS desktop machines, it may also be accessible through remote sessions.
-
-
 ### Textbooks
 There are **no** required textbooks. Readings from primary literature, class notes/slides, and other handouts/resources will be posted on Canvas.
 
@@ -73,6 +69,9 @@ There are **no** required textbooks. Readings from primary literature, class not
 1. Dhar, S., & Hall III, J. W. (2018). Otoacoustic emissions: Principles, procedures, and protocols. Plural Publishing. ISBN: 978-1-94488-385-0.
 2. Durrant, J. D., Fowler, C. G., Ferraro, J. A. (2020). Basic Concepts of Clinical Electrophysiology in Audiology. Plural Publishing. ISBN: 978-1-63550-175-9.
 3. *Section II: Physiological principles and measures*, in Katz, J., Chasin, M., English, K. M., Hood, L. J., & Tillery, K. L. (Eds.). (2015). Handbook of clinical audiology (Vol. 7, pp. 61-75). Philadelphia, PA: Wolters Kluwer Health. ISBN: 978-1-45119-163-9.
+
+### Required software
+For several quizzes, we will utilize [Google Colaboratory](https://colab.research.google.com/) to manipulate, analyze, and interpret case/test examples of Otoacoustic Emissions (OAE) and Auditory Brainstem Response (ABR) data. Google Colaboratory is a cloud-based platform equipped with pre-installed software libraries tailored for these analyses. Basic access to Colaboratory is complimentary with a Google account. You may use an existing Google account or create a new one at no cost, specifically for this course. Detailed instructions on how to access and utilize Colaboratory will be provided in class and in conjunction with relevant quizzes.
 
 
 ### Discussion Forum
@@ -90,7 +89,7 @@ the course (or audiology more broadly) that you think would be interesting and/o
 
 ## Quizzes
 Quizzes (six) will typically be made available a week before they are due.
-Quizzes will probe your understanding of the concepts/content discussed in this course and integration of the ideas with ideas gained from clinical experience, readings of primary literature, and with lab exercises (done as part of the Clinical Procedures Lab course with Dr. Alscher). Quizzes will also involve hands-on exercises using simulation software, and/or applying ideas to specific test examples/cases. Quizzes may also involve watching video presentations by other professionals/scientists. Submitted work will consist of electronic responses or PDF file uploads via Canvas. All quizzes due by the time and date posted on Canvas. You are encouraged to discuss course topics with your peers and other colleagues, but discussions involving quizzes should be done *in broad/general terms*. Please do not share specific solutions.
+Quizzes will probe your understanding of the concepts/content discussed in this course and integration of the ideas with ideas gained from clinical experience, readings of primary literature, and with lab exercises (done as part of the Clinical Procedures Lab course with Dr. Alscher). Quizzes will also involve hands-on exercises working through simulated and/or real case examples and applying knowledge from the course to analyze and interpret physiological measurement results. Quizzes may also involve watching video presentations by other professionals/scientists. Submitted work will consist of electronic responses or PDF file uploads via Canvas. All quizzes due by the time and date posted on Canvas. You are encouraged to discuss course topics with your peers and other colleagues, but discussions involving quizzes should be done *in broad/general terms*. Please do not share specific solutions.
 
 There is a quota of **three total late days** you can use
 throughout the semester to manage unanticipated pressing events that may
