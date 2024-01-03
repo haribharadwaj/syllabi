@@ -71,7 +71,7 @@ There are **no** required textbooks. Readings from primary literature, class not
 3. *Section II: Physiological principles and measures*, in Katz, J., Chasin, M., English, K. M., Hood, L. J., & Tillery, K. L. (Eds.). (2015). Handbook of clinical audiology (Vol. 7, pp. 61-75). Philadelphia, PA: Wolters Kluwer Health. ISBN: 978-1-45119-163-9.
 
 ### Required software
-For several quizzes, we will utilize [Google Colaboratory](https://colab.research.google.com/) to manipulate, analyze, and interpret case/test examples of Otoacoustic Emissions (OAE) and Auditory Brainstem Response (ABR) data. Google Colaboratory is a cloud-based platform equipped with pre-installed software libraries tailored for these analyses. Basic access to Colaboratory is complimentary with a Google account. You may use an existing Google account or create a new one at no cost, specifically for this course. Detailed instructions on how to access and utilize Colaboratory will be provided in class and in conjunction with relevant quizzes.
+For several quizzes, we will utilize [Google Colaboratory](https://colab.research.google.com/) to manipulate, analyze, and interpret case/test examples of otoacoustic emissions and auditory brainstem response data. Google Colaboratory is a cloud-based platform equipped with pre-installed software libraries tailored for these analyses. Basic access to Colaboratory is complimentary with a Google account. You may use an existing Google account or create a new one at no cost, specifically for this course. Detailed instructions on how to access and utilize Colaboratory will be provided in class and in conjunction with relevant quizzes.
 
 
 ### Discussion Forum
