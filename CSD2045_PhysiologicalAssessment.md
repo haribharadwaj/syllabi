@@ -129,7 +129,7 @@ Each class will be broken into three sessions of about 50 mins each with two 10-
 | Mar 15 | **Spring Break -- No Class** ||
 | Mar 22 | Clinical applications and case studies: Ear- and cochlear-place-specific threshold estimation using ABRs ||
 | Mar 29 | Clinical applications and case studies: Ototoxicity monitoring; Differential diagnosis beyond thresholds | Q5 due |
-| Apr 04 | Clinical applications and case studies: Introperative monitoring; Review ||
+| Apr 04 | Clinical applications and case studies: Intraoperative monitoring; Review ||
 | Apr 11 | Brief foray into other auditory evoked potentials, and vestibular myogenic potentials | Q6 due |
 | Apr 17 | Student case presentations ||
 | Apr 25 | Student case presentations ||
