@@ -230,7 +230,7 @@ for working out alternative arrangements as soon as the situation permits.
 Language is gender-inclusive and non-sexist when we use words that affirm and respect how people describe, express, and experience their gender.  Gender-inclusive/non-sexist language acknowledges people of all genders (for example, first year student versus freshman, chair versus chairman, humankind versus mankind, everyone versus ladies and gentlemen, etc.).  It also affirms non-binary gender identifications, and recognizes both gender identity and expression.  Identities including trans, intersex, and genderqueer reflect personal descriptions, expressions, and experiences.  Just as sexist language excludes women’s experiences, gendered language excludes the experiences of individuals whose identifies may not fit the gender binary, and/or who may not identify with the sex they were assigned at birth.  Students, faculty, and staff have the right to control their own identity and to be referred to by the name and pronouns with which they identify.  People also have the right to maintain their privacy regarding information they do not wish to share about their identities, including gender identity and pronouns.
 
 
-## Mental Health Statement
+## Your Well-Being Matters
 For general information about mental health, see the
 [National Institute of Mental Health (NIMH)
 website.](https://www.nimh.nih.gov/health/)

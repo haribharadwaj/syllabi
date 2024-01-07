@@ -209,7 +209,7 @@ Language is gender-inclusive and non-sexist when we use words that affirm and re
 
 Finally, we, as instructors, can be flawed and accidentally overlook gendered-language. If you notice that we do, please e-mail us to notify and allow us to correct our future presentations.
 
-## Mental Health Statement
+## Your Well-Being Matters
 For general information about mental health, see the
 [National Institute of Mental Health (NIMH)
 website.](https://www.nimh.nih.gov/health/)
@@ -223,5 +223,5 @@ other mobile apps such as [Calm](https://www.calm.com),
 [Aura](https://www.aurahealth.io),
 [Headspace](https://www.headspace.com), etc. 
 
-If you or someone you know is in need of mental-health support, [services](https://www.studentaffairs.pitt.edu/cc/services/) are available through the [University Counseling Center (UCC)](https://www.studentaffairs.pitt.edu/cc/). The UCC can be contacted via phone at 412-648-7930, and is located on the 2nd Floor of Nordenberg Hall - Wellness Center at 119 University Place, Pittsburgh, PA 15260. The UCC website also provides links to a [range of resources](http://www.studentaffairs.pitt.edu/cc/resources/) and information about programs that may be beneficial. 
+If you or someone you know is in need of mental-health support, [services](https://www.studentaffairs.pitt.edu/cc/services/) are available through the [University Counseling Center (UCC)](https://www.studentaffairs.pitt.edu/cc/). The UCC is located on the 2nd Floor of Nordenberg Hall - Wellness Center at 119 University Place, Pittsburgh, PA 15260. The UCC website also provides links to a [range of resources](http://www.studentaffairs.pitt.edu/cc/resources/) and information about programs that may be beneficial.  You can call 412-648-7930 at any time to connect with a clinician. If you or someone you know is feeling suicidal, please call the University Counseling Center at any time at 412-648-7930. You can also contact Resolve Crisis Network at 888-796-8226. If the situation is life threatening, call Pitt Police at 412-624-2121 or dial 911.
 
