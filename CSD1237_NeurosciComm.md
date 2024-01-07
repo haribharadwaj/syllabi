@@ -189,20 +189,9 @@ The School of Health and Rehabilitation Sciences is proudly committed to equity,
 
 
 
-
-
 ## Health and Safety Statement
-During this pandemic, it is extremely important that you abide by the [public health regulations](https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx), the University of Pittsburgh’s [health standards and guidelines](https://www.policy.pitt.edu/university-policies-and-procedures/covid-19-standards-and-guidelines), and [Pitt’s Health Rules](https://www.coronavirus.pitt.edu/healthy-community/pitts-health-rules). These rules have been developed to protect the health and safety of all of us.  
+With COVID-19 and other respiratory viruses still circulating, students and instructors may choose to wear masks in class regardless of specific campus-wide masking requirements.
 
-The University’s requirements for face coverings will at a minimum be consistent with [CDC guidance](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html) and masks are required indoors (campus buildings and shuttles) on campuses in which COVID-19 Community Levels are High. This means that when COVID-19 Community Levels are High, you must wear a face covering that properly covers your nose and mouth when you are in the classroom. If you do not comply, you will be asked to leave class. It is your responsibility to have the required face covering when entering a university building or classroom. Masks are encouraged, but optional indoors for campuses in which county levels are Medium or Low. Be aware of your [Community Level](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html) as it changes each Thursday. [Read answers to frequently asked questions regarding face coverings](https://www.coronavirus.pitt.edu/frequently-asked-questions-about-face-coverings). For the most up-to-date information and guidance, please visit [coronavirus.pitt.edu](https://coronavirus.pitt.edu) and check your Pitt email for updates before each class.
-
-If you are required to isolate or quarantine, become sick, or are unable to come to class,
-please inform me in a timely manner (if the situation permits).
-In such cases, it is your responsibility to catch up with
-the material that you miss using the asynchronously available video
-recordings. If extended absence and schedule adjustments are
-necessitated by unavoidable circumstances, please contact me
-for working out alternate arrangements as soon as the situation permits.
 
 ## Gender Inclusive Language Statement
 Language is gender-inclusive and non-sexist when we use words that affirm and respect how people describe, express, and experience their gender.  Gender-inclusive/non-sexist language acknowledges people of all genders (for example, first year student versus freshman, chair versus chairman, humankind versus mankind, everyone versus ladies and gentlemen, etc.).  It also affirms non-binary gender identifications, and recognizes both gender identity and expression.  Identities including trans, intersex, and genderqueer reflect personal descriptions, expressions, and experiences.  Just as sexist language excludes women’s experiences, gendered language excludes the experiences of individuals whose identifies may not fit the gender binary, and/or who may not identify with the sex they were assigned at birth.  Students, faculty, and staff have the right to control their own identity and to be referred to by the name and pronouns with which they identify.  People also have the right to maintain their privacy regarding information they do not wish to share about their identities, including gender identity and pronouns.
