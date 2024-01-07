@@ -86,10 +86,10 @@ the situation permits, and make alternative arrangements.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Jan 08 | Introduction;  Four functions of the nervous system||
-| Jan 10 | Neurons, Glia, and Progenitor cells; Peripheral vs. Central nervous system ||
+| Jan 08 | Introduction;  Peripheral vs. Central nervous system; Four functions; Major cell types||
+| Jan 10 | Consequences of basic structure and organization: Tumors, neurodegenerative diseases, central vs. peripheral demyelinting diseases; Neural communication and coding ||
 | Jan 15 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
-| Jan 17 | Review of neuroanatomy from a developmental (and comparative) perspective| A1 due |
+| Jan 17 | Review of neuroanatomy from a developmental (and comparative) perspective | A1 due |
 | Jan 22 | Overview of long/large pathways, negative and positive "signs" from lesions ||
 | Jan 24 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity of function ||
 | Jan 29 | Neuroscience methods: Marr's tri-level analysis: Level 1 - Computational theory and ill-posed problems; Level 2 - Analysis of information representation and algorithmic elements (psychophysics) | A2 due |
