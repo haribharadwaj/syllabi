@@ -5,9 +5,9 @@
 # Neuroscience of Communication
 
 ## Registration information
-CSD 1237 1010-LEC (26016) Spring 2023 <br>
+CSD 1237 1010-LEC (25258) Spring 2024 <br>
 **Time**:  Mo/We 08:30 -- 09:50 am <br>
-**Dates**: 01/09/2023 - 04/26/2023 <br>
+**Dates**: 01/08/2024 - 04/27/2024 <br>
 **Location**: 4060 Forbes Tower <br>
 **Credits**: 3 <br>
 
@@ -16,17 +16,12 @@ Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor, Communication Science and Disorders <br>
 Office: Forbes Tower 5063<br>
 e-Mail: <hari.bharadwaj@pitt.edu><br>
-Office Hours: There will one open hour for drop in discussion via Zoom (time and Zoom link TBA). In addition, office hours are available by appointment (send me a message via e-mail). Also, see the "Discussion
+Office Hours: Mondays 10AM-11AM (Zoom: Provided on Canvas). In addition, office hours are available by appointment (send me a message via e-mail). Also, see the "Discussion
 Forum" section below.<br>
 
-Maggie Zink, B.S., B.A.<br>
-Ph.D. Student, Communication Science and Disorders <br>
-Office: Forbes Tower 5054<br>
-e-Mail: <zink.me@pitt.edu><br>
-Office Hours: Virtual office hour Mondays 10AM-11AM (Zoom: Provided on Canvas). In addition, office hours are available by appointment (send me a message via e-mail).
 
 ## Description
-This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, language, speech, balance, and swallowing.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
+This course describes the fundamentals of human brain organization and function as relevant to human communication. Cutting-edge and time-tested neuroscientific methods are emphasized, empowering students to critically evaluate current research literature on hearing, speech, language, and cognition.  Our understanding of the functional organization of the brain will both provide insight into and gain insights from neurological conditions that affect communication at different stages of life.
 
 
 ## Learning Resources, Technology, & Texts
@@ -44,7 +39,7 @@ Because human neuroscience is a fast-paced field, there are **no** required text
 The following references are listed as general resources that provide coverage of many of topics discussed in this course. While the first two (Andreatta, 2024; Mason, 2017) take a medical neurobiology perspective and are written as textbooks, the third (Poeppel, Mangun, and Gazzinage, 2020) is an extensive edited volume on cognititve neuroscience and contains chapters contributed by experts on each topic.
 
 1. Andreatta, R.D. (2024). Neuroscience Fundamentals for Communication Sciences and Disorders, Second Edition. Plural Publishing. ISBN: 9781635503593.
-2. Mason, P. (2017). Medical neurobiology. 2nd Edition. Oxford University Press. ISBN: 9780190237523.
+2. Mason, P. (2017). Medical Neurobiology. 2nd Edition. Oxford University Press. ISBN: 9780190237523.
 3. Poeppel, D., Mangun, G.R., and Gazzaniga, M.S. (2020).The Cognitive Neurosciences, Sixth Edition. The MIT Press. ISBN: 9780262043250
 
 In case you choose to purchase the Andreatta (2024) textbook, please note that there is a 15% student discount if purchasing directly from [Plural's website](https://www.pluralpublishing.com/) using the promo code ST15.
@@ -66,21 +61,23 @@ neuroscience of communication that you think would be interesting and/or benefic
 
 ## Assignments and projects
 Assignments will typically be made available a week before they are due (sometimes 2 weeks).
-Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, designing neuroscience experiments, participating in or observing simple experiments, querying webpages of research labs/standardized databases, and watching/summarizing video presentations by other professionals/scientists. All assignments are due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Projects are essentially extended assignments with the added feature that they are individualized (student selected).
+Assignments will typically involve integrating concepts/content discussed in class with readings of primary literature, discussing the application of the ideas to specific cases, designing neuroscience experiments, participating in or observing simple experiments, querying webpages of research labs/standardized databases, and watching/summarizing video presentations by other professionals/scientists. All assignments are due by the time and date posted on Canvas. You are encouraged to discuss course topics with your colleagues, but discussions involving assignments should be done *in broad/general terms*. Please do not share specific solutions to assignments. Projects are essentially extended assignments with the added feature that they are somewhat individualized (student selected).
 
 
-There is a quota of **three total late** days you can use
+There is a quota of **three total late days** you can use
 throughout the semester to manage unanticipated pressing events that may
-prevent you from submitting assignments/projects on time. Save and use them
-judiciously. You can use all three days for one assignment or spread
-them over (up to) three assignments. You can also use them for projects.
-Note however that part-day delays (e.g., late by 6 hours) will count as
+prevent you from submitting quizzes on time. Save and use them
+judiciously. You can use all three days for one assignment/project or spread
+them over (up to) three assignments/projects.
+Note however that part-day delays (e.g., late by 2 hours) will count as
 1 whole day of quota being used up.
 No submissions will be accepted, even if you have unused late days,
-after April 28, 2023 (Friday of final exam week). Exceptions will be made
-to the 3-day rule only in unavoidable circumstances (e.g., extended
-health<sup>[1](#fn1)</sup> issue) about which you discuss with the instructor(s) as soon as
-the situation permits, and make alternate arrangements.
+after April 27, 2024 (Friday of final exam week).
+For any additional delays beyond the 3-day rule,
+there is a 20% penalty per day applied to the corresponding assignments.
+Exceptions will only be made in unavoidable circumstances (e.g., extended
+health<sup>[1](#fn1)</sup> issue) about which you discuss with the instructor as soon as
+the situation permits, and make alternative arrangements.
 
 <a name="fn1">[1]</a>: Mental health *is* health
 
@@ -89,57 +86,37 @@ the situation permits, and make alternate arrangements.
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Jan 09 | Introduction;  Four functions of the nervous system||
-| Jan 11 | Neurons, Glia, and Progenitor cells; Peripheral vs. Central nervous system ||
-| Jan 16 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
-| Jan 18 | Review of neuroanatomy from a developmental (and comparative) perspective| A1 due|
-| Jan 23 | Overview of long/large pathways, negative and positive "signs" from lesions ||
-| Jan 25 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity and learning||
-| Jan 30 | Neuroscience methods: Marr's tri-level analysis; Computational theory and ill-posed problems (e.g., cocktail-party hearing, word learning) | A2 due|
-| Feb 01 | Neuroscience methods: Analysis of information representation/coding and algorithmic elements; psychophysics (e.g., visual motion perception, spatial hearing) ||
-| Feb 06 | Neuroscience methods: fMRI; EEG and MEG | A3 due |
-| Feb 08 | Neuroscience methods: Experiment design| Midterm project introduction|
-| Feb 13 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation ||
-| Feb 15 | Neuroscience methods: Network neuroscience/connectomics ||
-| Feb 20 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG | Midterm project due|
-| Feb 22 | Auditory neuroscience: Hearing through a cochlear implant ||
-| Feb 27 | Auditory neuroscience: Pitch; Grouping and scene analysis||
-| Mar 01 | Speech: Categorical perception and sound identification | A4 due|
-| Mar 06 | *NO CLASS: Spring break* ||
-| Mar 08 | *NO CLASS: Spring break* ||
-| Mar 13 | Language: Language: Language vs. thought; Language beyond communication modalities  ||
-| Mar 15 | Language: Phonological, Lexical, and semantic processing | A5 due|
-| Mar 20 | Motor control: Motor hierarchy - reflexes, movements, and actions; central pattern generators, modulation ||
-| Mar 22 | Motor control: Praxis and speech primitives ||
-| Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou, A6 due|
-| Mar 29 | Motor control: Decoding and brain-computer interfaces; deep-brain stimulation ||
-| Apr 03 | Attention: Salience and deviance detection; top-down attention ||
-| Apr 05 | Attention: Cocktail party problem revisited; training and neurofeedback | A7 due; Final project instructions available|
-| Apr 10 | Interactions between sensory processing and cognitive deficits I | Presentation/discussion led by Maggie Zink|
-| Apr 12 | Interactions between sensory processing and cognitive deficits II | Presentation/discussion led by Maggie Zink|
-| Apr 17 | Review and discussion of (additional) cases/papers I ||
-| Apr 19 | Review and discussion of (additional) cases/papers II | Final project due|
-| Apr 24-28 | *Finals week*: No exam; Review and comment on final projects of peers on Canvas (last assignment) | A8 due|
-
-## Index of disorders/conditions that will likely be discussed (just a tentative list to add to)
-
-1. Brain tumors
-2. Neurodegenerative diseases
-3. Spina bifida, Waardenburg-Hirschsprung disease
-4. Sensorineural hearing loss
-5. Anxiety and depression
-6. Tinnitus
-7. Auditory neuropathy
-8. Apraxia of speech, neurogenic dysfluency
-9. Aphasia
-10. Dysarthria
-11. Specific language impairment
-12. Autism-spectrum disorder
-13. Dyslexia
-14. William's syndrome
-15. Tremors (broadly)
-16. Dysphagia
-17. Demyelinating diseases: MS, GB, CMT
+| Jan 08 | Introduction;  Four functions of the nervous system||
+| Jan 10 | Neurons, Glia, and Progenitor cells; Peripheral vs. Central nervous system ||
+| Jan 15 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
+| Jan 17 | Review of neuroanatomy from a developmental (and comparative) perspective||
+| Jan 22 | Overview of long/large pathways, negative and positive "signs" from lesions | A1 due |
+| Jan 24 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity of function ||
+| Jan 29 | Neuroscience methods: Marr's tri-level analysis: Level 1 - Computational theory and ill-posed problems; Level 2 - Analysis of information representation and algorithmic elements (psychophysics) ||
+| Jan 31 | Neuroscience methods: fMRI; EEG and MEG | A2 due |
+| Feb 05 | **Hari away -- Work on web-based psychophysics (A3) assignment** ||
+| Feb 07 | **Hari away -- Work on web-based psychophysics (A3) assignment** | A3 due|
+| Feb 12 | Neuroscience methods: Experiment design for human neuroimaging | Midterm project introduction|
+| Feb 14 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation ||
+| Feb 19 | Neuroscience methods: Network neuroscience/connectomics | Midterm project due |
+| Feb 21 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG ||
+| Feb 26 | Auditory neuroscience: Hearing through a cochlear implant; Neural coding of complex sounds ||
+| Feb 28 | Auditory neuroscience: Scene analysis; Auditory neuropathy and Auditory processing disorder | A4 due|
+| Mar 04 | Speech perception: Categorical perception and sound identification ||
+| Mar 06 | Language: Introduction and neurological models; Phonological, Lexical, and semantic processing ||
+| Mar 11 | *NO CLASS: Spring break*  ||
+| Mar 13 | *NO CLASS: Spring break* | A5 due |
+| Mar 18 | Language: Aphasias ||
+| Mar 20 | Motor control: Motor hierarchy - reflexes, movements, and actions; central pattern generators, modulation||
+| Mar 25 | Motor control: Praxis and speech primitives ||
+| Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou, A6 due ||
+| Apr 01 | Motor control: Decoding and brain-computer interfaces; deep-brain stimulation ||
+| Apr 03 | Attention: Salience and deviance detection; top-down attention | A7 due; Final project instructions available|
+| Apr 08 | Attention: Cocktail party problem revisited; training and neurofeedback ||
+| Apr 10 | Interactions between sensory processing and other domains of cognition ||
+| Apr 15 | Equitable neuroscience and neurotechnologies; Leveraging individual differences for novel insights ||
+| Apr 17 | Review and discussion | Final project due|
+| Apr 22-27 | *Finals week*: No exam; Review and comment on final projects of peers on Canvas (last assignment) | A8 (review quiz) due|
 
 
 
@@ -170,19 +147,21 @@ D+: 67 - 69 <br>
 D : 63 - 66 <br>
 D-: 60 - 62 <br>
 F : below 60
-
  
 
 ## Attendance Policy
-In-person attendance is required and generally expected and for all classes throughout the semester.
-However, absence or remote attendance due any unavoidable reasons will be accommodated.
-If you need to miss a class or attend remotely, please inform the instructors
-in a timely manner via e-mail (if the situation permits). To help accommodate unavoidable absences,
-the lectures/seminars will also be available remotely via synchronous Zoom sessions,
-and asynchronously via recorded video. It it is your responsibility to catch up with
-the material that you miss using these resources. If extended absence and schedule adjustments are
-necessitated by unavoidable circumstances, please contact the instructor(s) via e-mail
-for working out alternate arrangements as soon as the situation permits. Note
+Face-to-face meeting in class is the primary modality of instruction and in-person attendance is
+required and generally expected for all classes throughout the semester. However,
+absence or remote attendance due to unavoidable reasons will be accommodated.
+To facilitate this, lectures/seminars will also be available remotely via synchronous Zoom sessions,
+and asynchronously via recorded video.
+If you need to miss a class or attend remotely, please inform the instructor
+in a timely manner (if the situation permits). In such cases,
+it is your responsibility to catch up with
+the material that you miss using the asynchronously available video
+recordings. If extended absence and schedule adjustments are
+necessitated by unavoidable circumstances, please contact the instructor
+for working out alternative arrangements as soon as the situation permits. Note
 that office hours and the discussion forum are available to assist you
 as well.
 

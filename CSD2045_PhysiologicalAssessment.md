@@ -100,7 +100,7 @@ them over (up to) three assignments.
 Note however that part-day delays (e.g., late by 2 hours) will count as
 1 whole day of quota being used up.
 No submissions will be accepted, even if you have unused late days,
-after April 27, 2023 (Friday of final exam week).
+after April 27, 2024 (Friday of final exam week).
 For any additional delays beyond the 3-day rule,
 there is a 20% penalty per day applied to the corresponding quizzes.
 Exceptions will only be made in unavoidable circumstances (e.g., extended
@@ -169,7 +169,7 @@ In order to meet the CFCC and CAA standards across all areas of skills/knowledge
 ## Attendance Policy
 Face-to-face meeting in class is the primary modality of instruction and in-person attendance is
 generally expected for all classes throughout the semester. However,
-absence or remote attendance due any unavoidable reasons will be accommodated.
+absence or remote attendance due to unavoidable reasons will be accommodated.
 To facilitate this, lectures/seminars will also be available remotely via synchronous Zoom sessions,
 and asynchronously via recorded video.
 If you need to miss a class or attend remotely, please inform the instructor
