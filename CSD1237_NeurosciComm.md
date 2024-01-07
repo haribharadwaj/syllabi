@@ -11,7 +11,7 @@ CSD 1237 1010-LEC (25258) Spring 2024 <br>
 **Location**: 4060 Forbes Tower <br>
 **Credits**: 3 <br>
 
-## Instructors
+## Instructor
 Hari M. Bharadwaj, Ph.D.<br>
 Assistant Professor, Communication Science and Disorders <br>
 Office: Forbes Tower 5063<br>
@@ -169,6 +169,15 @@ as well.
 Students in this course will be expected to comply with the [University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/info/ai1.html). Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
 
 To learn more about Academic Integrity, visit the [Academic Integrity Guide](http://pitt.libguides.com/academicintegrity/) for an overview of the topic. For hands-on practice, complete the [Understanding and Avoiding Plagiarism tutorial](http://pitt.libguides.com/academicintegrity/plagiarism).
+
+### Use of Generative AI Tools in Academic Work [GPT-4 provided the outline for this section]
+Students are allowed to use generative AI tools, such as GPT-based language models, as supplementary resources for this course. However, the use of these tools must adhere to the following guidelines to maintain academic integrity and scholarly values:
+
+1. **Attribution**: Any direct outputs from a generative AI tool that are included in academic work must be clearly cited.
+
+2. **Original Thought**: Generative AI should be used to augment rather than replace original thinking and scholarship. Your work should primarily reflect your own understanding and synthesis of the subject matter. Examples of acceptable uses of AI tools include idea generation, outlining, proofreading, and grammar checks. Examples of unacceptable use include whole-section generation, substituting AI-generated analyses for your own, and automated research. While there is no fixed ratio for AI-generated vs. student-generated content, a good rule of thumb is that the bulk (for instance >80-90%) of your written output should be your own work, both in content and in analysis, even when properly cited.
+
+3. **Critical Evaluation**: Exercise critical judgment when using AI-generated content. Not all information produced by an AI tool will be accurate or valid in an academic context.
 
 ## Disability Services
 If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources and Services (DRS)](https://www.studentaffairs.pitt.edu/drs/), 140 William Pitt Union, (412) 648-7890, drsrecep@pitt.edu, (412) 228-5347 for P3 ASL users, as early as possible in the term. DRS will verify your disability and determine reasonable accommodations for this course.
