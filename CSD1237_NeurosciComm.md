@@ -89,27 +89,27 @@ the situation permits, and make alternative arrangements.
 | Jan 08 | Introduction;  Four functions of the nervous system||
 | Jan 10 | Neurons, Glia, and Progenitor cells; Peripheral vs. Central nervous system ||
 | Jan 15 | *NO CLASS: Dr. MLK Jr’s birthday observance*||
-| Jan 17 | Review of neuroanatomy from a developmental (and comparative) perspective||
-| Jan 22 | Overview of long/large pathways, negative and positive "signs" from lesions | A1 due |
+| Jan 17 | Review of neuroanatomy from a developmental (and comparative) perspective| A1 due |
+| Jan 22 | Overview of long/large pathways, negative and positive "signs" from lesions ||
 | Jan 24 | What are brain "areas"? Functional specialization vs. distributed processing; Plasticity of function ||
-| Jan 29 | Neuroscience methods: Marr's tri-level analysis: Level 1 - Computational theory and ill-posed problems; Level 2 - Analysis of information representation and algorithmic elements (psychophysics) ||
-| Jan 31 | Neuroscience methods: fMRI; EEG and MEG | A2 due |
+| Jan 29 | Neuroscience methods: Marr's tri-level analysis: Level 1 - Computational theory and ill-posed problems; Level 2 - Analysis of information representation and algorithmic elements (psychophysics) | A2 due |
+| Jan 31 | Neuroscience methods: fMRI; EEG and MEG ||
 | Feb 05 | **Hari away -- Work on web-based psychophysics (A3) assignment** ||
 | Feb 07 | **Hari away -- Work on web-based psychophysics (A3) assignment** | A3 due|
 | Feb 12 | Neuroscience methods: Experiment design for human neuroimaging | Midterm project introduction|
 | Feb 14 | Neuroscience methods: Insights from lesions/strokes, and neurostimulation ||
-| Feb 19 | Neuroscience methods: Network neuroscience/connectomics | Midterm project due |
-| Feb 21 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG ||
+| Feb 19 | Neuroscience methods: Network neuroscience/connectomics ||
+| Feb 21 | Auditory neuroscience: Introduction; Time and place coding, and the notion of receptive fields; Phase-locked responses with EEG and MEG | Midterm project due |
 | Feb 26 | Auditory neuroscience: Hearing through a cochlear implant; Neural coding of complex sounds ||
-| Feb 28 | Auditory neuroscience: Scene analysis; Auditory neuropathy and Auditory processing disorder | A4 due|
-| Mar 04 | Speech perception: Categorical perception and sound identification ||
+| Feb 28 | Auditory neuroscience: Scene analysis; Auditory neuropathy and Auditory processing disorder ||
+| Mar 04 | Speech perception: Categorical perception and sound identification | A4 due |
 | Mar 06 | Language: Introduction and neurological models; Phonological, Lexical, and semantic processing ||
 | Mar 11 | *NO CLASS: Spring break*  ||
-| Mar 13 | *NO CLASS: Spring break* | A5 due |
-| Mar 18 | Language: Aphasias ||
+| Mar 13 | *NO CLASS: Spring break* ||
+| Mar 18 | Language: Aphasias | A5 due |
 | Mar 20 | Motor control: Motor hierarchy - reflexes, movements, and actions; central pattern generators, modulation||
 | Mar 25 | Motor control: Praxis and speech primitives ||
-| Mar 27 | Motor control: Neural control of voice | Guest presentation: Prof. Leah Helou, A6 due ||
+| Mar 27 | Motor control: Neural control of voice | A6 due ||
 | Apr 01 | Motor control: Decoding and brain-computer interfaces; deep-brain stimulation ||
 | Apr 03 | Attention: Salience and deviance detection; top-down attention | A7 due; Final project instructions available|
 | Apr 08 | Attention: Cocktail party problem revisited; training and neurofeedback ||
