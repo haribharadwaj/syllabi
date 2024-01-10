@@ -126,9 +126,9 @@ Each class will be broken into three sessions of about 50 mins each with two 10-
 | Feb 22 | Normative features of the electrocochleogram (ECoG) and the ABR, relationship to cochlear active mechanisms, and predictions for conductive and sensory hearing loss | Q3 due|
 | Feb 29 | Normative features of the ABR in relation to neural coding in the ascending pathway, and predictions for neurogenic hearing alterations ||
 | Mar 07 | Clinical applications and case studies: Screening using OAEs and ABRs; Introduction to threshold estimation | Q4 due |
-| Mar 15 | **Spring Break -- No Class** ||
-| Mar 22 | Clinical applications and case studies: Ear- and cochlear-place-specific threshold estimation using ABRs ||
-| Mar 29 | Clinical applications and case studies: Ototoxicity monitoring; Differential diagnosis beyond thresholds | Q5 due |
+| Mar 14 | **Spring Break -- No Class** ||
+| Mar 21 | Clinical applications and case studies: Ear- and cochlear-place-specific threshold estimation using ABRs ||
+| Mar 28 | Clinical applications and case studies: Ototoxicity monitoring; Differential diagnosis beyond thresholds | Q5 due |
 | Apr 04 | Clinical applications and case studies: Intraoperative monitoring; Review ||
 | Apr 11 | Brief foray into other auditory evoked potentials, and vestibular myogenic potentials | Q6 due |
 | Apr 17 | Student case presentations ||
