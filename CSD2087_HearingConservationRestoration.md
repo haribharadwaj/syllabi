@@ -5,10 +5,10 @@
 # Hearing Conservation and Restoration
 
 ## Registration information
-CSD 2087 1000-SEM (29329) Fall 2023 <br>
+CSD 2087 1000-SEM (29329) Fall 2024 <br>
 **Time**:  We 05:30 -- 07:30 pm <br>
 **Dates**: 08/28/2023 - 12/16/2023 <br>
-**Location**: 5073 Forbes Tower <br>
+**Location**: 4017 Forbes Tower <br>
 **Credits**: 2 <br>
 
 ## Instructor
@@ -103,24 +103,24 @@ Each class will be broken into two sessions of about 55 mins each with a 10-minu
 
 | Date   | Topic | Comments |
 |--------|-------|----------|
-| Aug 30 | Introduction: Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
-| Sep 06 | Sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram  |Q1 due|
-| Sep 13 | Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors; Hearing-loss prevention program overview: stakeholders, compliance-based approach (minimal), and national guidelines | Q2 due|
-| Sep 20 | Acoustic monitoring and exposure assessment ||
-| Sep 27 | **Noise measurements and exposure calculations "lab"**; Noise control||
-| Oct 04 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD | R1 due, **Note: A "lab" on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
-| Oct 09 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
-| Oct 11 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
-| Oct 16 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
-| Oct 18 | Education and motivation, program effectiveness evaluation, record keeping; Review | Q3 due |
-| Oct 25 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | R2 due|
-| Nov 01 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Q4 due |
-| Nov 08 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) |Research topic selection due|
-| Nov 15 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | Q5 due|
-| Nov 22 | **Thanksgiving Break -- No Class** ||
-| Nov 29 | Pharmacological approaches to restoration and regeneration||
-| Dec 06 | **Research presentations by students**| By video; No in-person meeting |
-| Dec 13 | **No Exam**| Q6 due|
+| Aug 28 | Introduction: Importance of hearing preservation; Cellular pathophysiology profiles in SNHL; Precision diagnostics ||
+| Sep 04 | Sources of hazardous noise and epidemiology; TTS, PTS, and effects beyond the audiogram  |Q1 due|
+| Sep 11 | Non-auditory consequences of acoustic overexposure; Interactions of acoustic trauma with aging/ototoxic agents/patient factors; Hearing-loss prevention program overview: stakeholders, compliance-based approach (minimal), and national guidelines | Q2 due|
+| Sep 18 | Acoustic monitoring and exposure assessment ||
+| Sep 25 | **Noise measurements and exposure calculations "lab"**; Noise control||
+| Oct 02 | Hearing protection devices: Selection, behavioral and electroacoustic approaches to estimating real-ear attenuation provided by the HPD | R1 due, **Note: A "lab" on HPD fit-testing will be included as part of the Advanced Clinical Seminar course with Dr. Ruscetta**|
+| Oct 07 | *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 1* | This is a Monday |
+| Oct 09 | Audiometric monitoring and follow-up, standard threshold shifts, quality assurance ||
+| Oct 14 | **Fall Break** *HPD fit-testing lab in Advanced Clinical Seminar course with Dr. Ruscetta for Group 2* | This is a Monday |
+| Oct 16 | Education and motivation, program effectiveness evaluation, record keeping; Review | Q3 due |
+| Oct 23 | Pharmacology basics: Terminology, receptor theory and pharmacodynamics, pharamacokinetics, patient factors | R2 due|
+| Oct 30 | Common drugs in otolaryngologic practice; Important ototoxic drug classes; Industrial chemicals and solvents; Vestibulotoxicity | Q4 due; REMEMBER TO VOTE!|
+| Nov 06 | Audiologic monitoring for ototoxicity and patient management; Considerations for clinical trials (e.g., CTCAE) | Research topic selection due|
+| Nov 13 | Molecular mechanisms of noise- and drug-induced hearing damage, and pharamacologic otoprotection | Q5 due|
+| Nov 20 | Pharmacological approaches to restoration and regeneration ||
+| Nov 27 | **Thanksgiving Break -- No Class** ||
+| Dec 04 | **Research presentations by students**| By video (with in-person questions?) |
+| Dec 11 | **No Exam**| Q6 due|
 
 ## Final Grade Composition and Grading Scale
 
