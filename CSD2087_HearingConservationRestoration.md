@@ -157,20 +157,7 @@ Each student will critically summarize recent research (two articles) on a self-
 
 
 ## Attendance Policy
-Although face-to-face meeting in class is the primary modality of instruction,
-the lectures/seminars will also be available remotely via synchronous Zoom sessions,
-and asynchronously via recorded video. In-person attendance is
-generally expected for all classes throughout the semester. However,
-absence or remote attendance due any unavoidable reasons will be accommodated.
-If you need to miss a class or attend remotely, please inform me
-in a timely manner (if the situation permits). In such cases,
-it is your responsibility to catch up with
-the material that you miss using the asynchronously available video
-recordings. If extended absence and schedule adjustments are
-necessitated by unavoidable circumstances, please contact me
-for working out alternative arrangements as soon as the situation permits. Note
-that office hours and the discussion forum are available to assist you
-as well.
+Although face-to-face meeting in class is the primary modality of instruction, the lectures/seminars will also be available asynchronously via recorded video. In-person attendance is generally expected for all classes throughout the semester. However, absence or remote attendance due any unavoidable reasons will be accommodated. If you need to miss a class or attend remotely, please inform me in a timely manner (as soon as the situation permits). In such cases, it is your responsibility to catch up with the material that you miss using the asynchronously available video recordings. If extended absence and schedule adjustments are necessitated by unavoidable circumstances, please contact me for working out alternative arrangements as soon as the situation permits. Note that office hours and the discussion forum are available to assist you as well.
 
 ## Academic Integrity
 Students in this course will be expected to comply with the [University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/info/ai1.html). Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
